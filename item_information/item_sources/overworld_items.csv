@@ -1,0 +1,2273 @@
+Region,Location,Area,Item,Amount,Type,Details
+Kanto,Pallet Town,Oak's Lab,Pokedex,1,NPC Gift,Professor Oak's Lab
+Kanto,Pallet Town,Oak's Lab,Mysterious Poké Ball (2023),5,NPC Gift,Professor Oak's Lab
+Kanto,Pallet Town,Rival's House,Town Map,1,NPC Gift,Daisy in the rival's house
+Kanto,Viridian City,North Path,Potion,1,Overworld,Follow path north
+Kanto,Viridian City,Gym,TM - Earthquake,1,Gym,Defeat Gym Leader
+Kanto,Viridian City,Gym,Macho Brace,1,Hidden,Use Itemfinder where the Gym Leader stood
+Kanto,Viridian City,Southwest Tree,TM - Dream Eater,1,NPC Gift,"Cut tree, talk to the man"
+Kanto,Pewter City,NW Corner,Poké Ball,1,Hidden,North-west corner
+Kanto,Pewter City,Gym,TM - Rock Tomb,1,Gym,Defeat Gym Leader
+Kanto,Pewter City,East Gate,Running Shoes,1,NPC Gift,Man with glasses exiting east
+Kanto,Pewter City,Museum,Old Amber,1,NPC Gift,Back door of the Museum
+Kanto,Pewter City,Museum,TM - Seismic Toss,1,NPC Gift,Man in the back of the Museum
+Kanto,Cerulean City,NW House,Rare Candy,1,Hidden,"NW house, back door"
+Kanto,Cerulean City,East House,Powder Jar,1,NPC Gift,East house
+Kanto,Cerulean City,Gym,TM - Water Pulse,1,Gym,Defeat Gym Leader
+Kanto,Cerulean City,Backyard,TM - Dig,1,Overworld,Defeat Rocket Grunt behind the north house
+Kanto,Cerulean City,SW House,Bicycle,1,NPC Gift,Yellow-haired man in the SW house
+Kanto,Cerulean City,Gym Area,TM - Softboiled,1,NPC Gift,Surf across water in the city
+Kanto,Vermilion City,Poke Center,Super Potion,1,Hidden,Near the Poke Center
+Kanto,Vermilion City,Poke Center,Vs Seeker,1,NPC Gift,Girl in red inside the Poke Center
+Kanto,Vermilion City,SW House,Old Rod,1,NPC Gift,Fisherman in the SW house
+Kanto,Vermilion City,Fan Club,Bike Voucher,1,NPC Gift,Pokemon Fan Club Chairman
+Kanto,Vermilion City,Gym,TM - Shock Wave,1,Gym,Defeat Gym Leader
+Kanto,Celadon City,NW Corner,Ether,1,Overworld,North-west corner
+Kanto,Celadon City,PC South,PP Up,1,Hidden,Tree south of the Poke Center
+Kanto,Celadon City,Mansion,Tea,1,NPC Gift,Old woman in the Mansion
+Kanto,Celadon City,Dept. Store,TM - Counter,1,NPC Gift,3rd Floor of the Department Store
+Kanto,Celadon City,Dept. Store,TM - Light Screen,1,NPC Gift,Give Fresh Water to girl on Dept. Store roof
+Kanto,Celadon City,Dept. Store,TM - Safeguard,1,NPC Gift,Give Soda Pop to girl on Dept. Store roof
+Kanto,Celadon City,Dept. Store,TM - Reflect,1,NPC Gift,Give Lemonade to girl on Dept. Store roof
+Kanto,Celadon City,Restaurant,Coin Case,1,NPC Gift,Man in the restaurant
+Kanto,Celadon City,Gym,TM - Giga Drain,1,Gym,Defeat Gym Leader
+Kanto,Fuchsia City,Gym,TM - Toxic,1,Gym,Defeat Gym Leader
+Kanto,Fuchsia City,SE House,Good Rod,1,NPC Gift,Fisherman in the SE house
+Kanto,Fuchsia City,Warden's House,Max Revive,1,Hidden,Back yard of the Warden's house
+Kanto,Fuchsia City,Poke Mart Area,TM - Substitute,1,NPC Gift,Man near the Poke Mart
+Kanto,Fuchsia City,Warden's House,Rare Candy,1,Overworld,Behind a boulder in the Warden's house
+Kanto,Fuchsia City,Warden's House,HM04-Strength,1,NPC Gift,Give Gold Teeth to the Warden
+Kanto,Saffron City,SE House,TM - Psychic,1,NPC Gift,Mr. Psychic in the SE house
+Kanto,Saffron City,NW House,TM - Mimic,1,NPC Gift,Copycat (upstairs in NW house)
+Kanto,Saffron City,NW House,Nugget,1,Hidden,On the table in Copycat's room
+Kanto,Saffron City,Gym,TM - Calm Mind,1,Gym,Defeat Gym Leader
+Kanto,Lavender Town,Volunteer House,Poke Flute,1,NPC Gift,Mr. Fuji
+Kanto,Cinnabar Island,Pokemon Lab,TM - Metronome,1,NPC Gift,"Lab building, 2nd room"
+Kanto,Cinnabar Island,Gym,TM - Fire Blast,1,Gym,Defeat Gym Leader
+Kanto,Route 1,Path,Potion,1,NPC Gift,First NPC
+Kanto,Route 2,Gate House,HM05-Flash,1,NPC Gift,Oak's Aide (requires 10 caught)
+Kanto,Route 2,South Path,Sharp Beak,1,Overworld,South path
+Kanto,Route 2,South Path,Parlyz Heal,1,Overworld,South path
+Kanto,Route 3,Ground,Oran Berry,1,Overworld,In the M-shaped hole
+Kanto,Route 4 (Pre-Moon),PC Area,Persim Berry,1,Overworld,West of Poke Center
+Kanto,Route 4 (Post-Moon),Fighters Area,Great Ball,1,Hidden,Near the martial artists
+Kanto,Route 4 (Post-Moon),Fighters Area,TM - Mega Punch,1,NPC Gift,Martial Artist
+Kanto,Route 4 (Post-Moon),Fighters Area,TM - Mega Kick,1,NPC Gift,Martial Artist
+Kanto,Route 4 (Post-Moon),SE Area,Razz Berry,1,Overworld,South east
+Kanto,Route 4 (Post-Moon),North Path,TM - Mega Drain,1,Overworld,North path
+Kanto,Underground 5-6,Path,Antidote,1,Hidden,Scattered along the path
+Kanto,Underground 5-6,Path,Super Potion,1,Hidden,Scattered along the path
+Kanto,Underground 5-6,Path,Awakening,1,Hidden,Scattered along the path
+Kanto,Underground 5-6,Path,Potion,1,Hidden,Scattered along the path
+Kanto,Underground 5-6,Path,Ether,1,Hidden,Scattered along the path
+Kanto,Underground 5-6,Path,Ice Heal,1,Hidden,Scattered along the path
+Kanto,Underground 5-6,Path,Burn Heal,1,Hidden,Scattered along the path
+Kanto,Route 6,NW Path,Sitrus Berry,1,Overworld,North-west
+Kanto,Route 6,NE Corner,Rare Candy,1,Hidden,North-east
+Kanto,Underground 7-8,Path,Fresh Water,1,Hidden,Scattered along the path
+Kanto,Underground 7-8,Path,Antidote,1,Hidden,Scattered along the path
+Kanto,Underground 7-8,Path,Ether,1,Hidden,Scattered along the path
+Kanto,Underground 7-8,Path,Burn Heal,1,Hidden,Scattered along the path
+Kanto,Underground 7-8,Path,Awakening,1,Hidden,Scattered along the path
+Kanto,Underground 7-8,Path,Super Potion,1,Hidden,Scattered along the path
+Kanto,Underground 7-8,Path,Potion,1,Hidden,Scattered along the path
+Kanto,Route 8,Cut Trees,Rawst Berry,1,Overworld,Behind cut trees
+Kanto,Route 8,Cut Trees,Lum Berry,1,Overworld,Behind cut trees
+Kanto,Route 8,Cut Trees,Leppa Berry,1,Overworld,Behind cut trees
+Kanto,Route 9,South Path,TM - Take Down,1,Overworld,South path
+Kanto,Route 9,Rock,Ether,1,Hidden,In a rock
+Kanto,Route 9,SE Corner,TwistedSpoon,1,Overworld,South-east corner
+Kanto,Route 9,North Path,Chesto Berry,1,Overworld,North path
+Kanto,Route 9,East Corner,Rare Candy,1,Hidden,East corner
+Kanto,Route 10,Entrance,Persim Berry,1,Overworld,Near Route start
+Kanto,Route 10,Trainer Area,Cheri Berry,1,Overworld,Near the girl trainer
+Kanto,Route 10,Tunnel Exit,Nanab Berry,1,Overworld,Near Rock Tunnel exit
+Kanto,Route 10,Tunnel Wall,Super Potion,1,Hidden,Wall near Rock Tunnel
+Kanto,Route 10,Water,Leppa Berry,1,Hidden,Surf south from the north-east
+Kanto,Route 10,Poke Center,Everstone,1,NPC Gift,Oak's Aide (requires 20 caught)
+Kanto,Route 11,Grass,Magnet,1,Overworld,Grass patch
+Kanto,Route 11,SE Corner,Great Ball,1,Overworld,Far south-east
+Kanto,Route 11,Rock,Escape Rope,1,Hidden,In a rock
+Kanto,Route 11,NW Area,Awakening,1,Overworld,North-west
+Kanto,Route 11,Gate House,Itemfinder,1,NPC Gift,Oak's Aide (requires 30 caught)
+Kanto,Route 12,Tall Grass,Rare Candy,1,Hidden,In the grass past a cut tree
+Kanto,Route 12,Island,Sun Stone,1,Overworld,Behind a cut tree
+Kanto,Route 12,House,Super Rod,1,NPC Gift,Fisherman in the house
+Kanto,Route 12,Path,Hyper Potion,1,Hidden,On the ground going north
+Kanto,Route 12,Water,TM - Psywave,1,Overworld,Surf east
+Kanto,Route 12,Gate House,TM - Return,1,NPC Gift,Upstairs in the gatehouse
+Kanto,Route 12,Snorlax Spot,Leftovers,1,Hidden,Use Itemfinder where Snorlax was
+Kanto,Route 13,SW Corner,PP Up,1,Hidden,South-west corner
+Kanto,Route 14,SE Area,Pinap Berry,1,Overworld,South-east
+Kanto,Route 14,Grass,Zinc,1,Hidden,In the grass
+Kanto,Route 15,NW Area,TM - Whirlwind,1,Overworld,North-west past a cut tree
+Kanto,Route 15,Gate House,Exp. Share,1,NPC Gift,Oak's Aide (requires 50 caught)
+Kanto,Route 16,Secret House,HM02-Fly,1,NPC Gift,Girl in the secret house
+Kanto,Route 16,Snorlax Spot,Leftovers,1,Hidden,Use Itemfinder where Snorlax was
+Kanto,Route 16,Gate House,Amulet Coin,1,NPC Gift,Oak's Aide (requires 40 caught)
+Kanto,Route 17,Bike Path,Rare Candy,1,Hidden,Scattered across cycling road
+Kanto,Route 17,Bike Path,Max Revive,1,Hidden,Scattered across cycling road
+Kanto,Route 17,Bike Path,PP Up,1,Hidden,Scattered across cycling road
+Kanto,Route 17,Bike Path,Hyper Potion,1,Hidden,Scattered across cycling road
+Kanto,Route 17,Bike Path,Ether,1,Hidden,Scattered across cycling road
+Kanto,Route 20,Island,Stardust,1,Hidden,North of the swimmer
+Kanto,Route 21,Ground,Pearl,1,Hidden,South of the twins
+Kanto,Route 23,Badge Check 3,Leppa Berry,1,Overworld,After the 3rd badge check
+Kanto,Route 23,Badge Check 5,Leppa Berry,1,Hidden,After the 5th badge check
+Kanto,Route 23,Badge Check 6,Great Ball,1,Hidden,After the 6th badge check
+Kanto,Route 23,Badge Check 6,Aspear Berry,1,Overworld,After the 6th badge check
+Kanto,Route 23,Badge Check 7,Hyper Potion,1,Hidden,In a rock after the 7th badge check
+Kanto,Route 23,Badge Check 8,Sitrus Berry,1,Overworld,After the 8th badge check
+Kanto,Route 23 (End),League Path,Lum Berry,1,Overworld,North-west before League
+Kanto,Route 23 (End),League Path,Apicot Berry,1,Hidden,Far north before League
+Kanto,Route 24,Bridge,Nugget,1,NPC Gift,Nugget Bridge boss
+Kanto,Route 24,NW Corner,TM - Beat Up,1,Overworld,North-west corner
+Kanto,Route 24,Grass,Pecha Berry,1,Overworld,Near the grass
+Kanto,Route 25,Hiker Area,Leppa Berry,1,Hidden,Near the first hiker
+Kanto,Route 25,Path,Oran Berry,1,Overworld,Along the path
+Kanto,Route 25,Path,Bluk Berry,1,Overworld,Along the path
+Kanto,Route 25,East Corner,Ether,1,Hidden,East corner
+Kanto,Route 25,Bill's House,S.S. Ticket,1,NPC Gift,Bill
+Kanto,Route 25,Backyard,TM - Teleport,1,Overworld,Cut tree behind Bill's house
+Kanto,Viridian Forest,Tree,Antidote,1,Hidden,In trees
+Kanto,Viridian Forest,Grass,Potion,1,Hidden,In grass
+Kanto,Viridian Forest,Ground,Poké Ball,1,Overworld,Scattered
+Kanto,Viridian Forest,Ground,Super Potion,1,Overworld,Scattered
+Kanto,Viridian Forest,Ground,Antidote,1,Overworld,Scattered
+Kanto,Viridian Forest,Ground,Potion,1,Overworld,Scattered
+Kanto,Mt. Moon,Floor 1,TM - Water Gun,1,Overworld,Scattered
+Kanto,Mt. Moon,Floor 1,Parlyz Heal,1,Overworld,Scattered
+Kanto,Mt. Moon,Basement 1,Silk Scarf,1,Overworld,Scattered
+Kanto,Mt. Moon,Floor 1,Potion,1,Overworld,Scattered
+Kanto,Mt. Moon,Floor 1,Rare Candy,1,Overworld,Scattered
+Kanto,Mt. Moon,Floor 1,Escape Rope,1,Overworld,Scattered
+Kanto,Mt. Moon,Basement 2,TM - Assurance,1,Overworld,Scattered
+Kanto,Mt. Moon,Floor 1,Moon Stone,1,Overworld,Scattered
+Kanto,Mt. Moon,Basement 2,Revive,1,Overworld,Scattered
+Kanto,Mt. Moon,Basement 2,Antidote,1,Overworld,Scattered
+Kanto,Mt. Moon,Rocks,TinyMushroom,3,Hidden,Hidden in rocks
+Kanto,Mt. Moon,Rocks,Big Mushroom,2,Hidden,Hidden in rocks
+Kanto,Mt. Moon,Rocks,Ether,1,Hidden,Hidden in rocks
+Kanto,Mt. Moon,Rocks,Moon Stone,1,Hidden,Hidden in rocks
+Kanto,Mt. Moon,Basement 2,Dome/Helix Fossil,1,Overworld,Choose one after beating Super Nerd
+Kanto,S.S. Anne,Cabins,Super Potion,1,Overworld,Inside various cabins
+Kanto,S.S. Anne,Cabins,Ether,1,Overworld,Inside various cabins
+Kanto,S.S. Anne,Cabins,TM - Pay Day,1,Overworld,Inside various cabins
+Kanto,S.S. Anne,Cabins,TM - Submission,1,Overworld,Inside various cabins
+Kanto,S.S. Anne,Cabins,Great Ball,1,Overworld,Inside various cabins
+Kanto,S.S. Anne,Cabins,Stardust,1,Overworld,Inside various cabins
+Kanto,S.S. Anne,Kitchen,Super Potion,1,Hidden,Check trash cans
+Kanto,S.S. Anne,Kitchen,Chesto Berry,1,Hidden,Check trash cans
+Kanto,S.S. Anne,Kitchen,Cheri Berry,1,Hidden,Check trash cans
+Kanto,S.S. Anne,Kitchen,Pecha Berry,1,Hidden,Check trash cans
+Kanto,S.S. Anne,Captain's Room,HM01-Cut,1,NPC Gift,Talk to the Captain
+Kanto,Rock Tunnel,Ground,Repel,1,Overworld,Scattered
+Kanto,Rock Tunnel,Ground,Revive,1,Overworld,Scattered
+Kanto,Rock Tunnel,Ground,Hard Stone,1,Overworld,Scattered
+Kanto,Rock Tunnel,Ground,Max Ether,1,Overworld,Scattered
+Kanto,Rock Tunnel,Ground,Pearl,1,Overworld,Scattered
+Kanto,Rock Tunnel,Hiker,TM - Rock Slide,1,NPC Gift,Talk to the tutor inside
+Kanto,Rocket Hideout,Ground,Escape Rope,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,TM - Fake Tears,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Rare Candy,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Up-Grade,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Ether,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,TM - Snatch,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Lift Key,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Moon Stone,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Hyper Potion,2,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,TM - Snarl,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Super Potion,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Ground,Calcium,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Boss Room,Silph Scope,1,Overworld,Floor loot
+Kanto,Rocket Hideout,Potted Tree,PP Up,1,Hidden,Trees
+Kanto,Rocket Hideout,Tiles,Nugget,1,Hidden,Floor tiles
+Kanto,Rocket Hideout,Tiles,Net Ball,1,Hidden,Floor tiles
+Kanto,Rocket Hideout,Tiles,Nest Ball,1,Hidden,Floor tiles
+Kanto,Safari Zone,Ground,Leaf Stone,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,TM - Nature Power,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,Max Potion,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,Super Potion,2,Overworld,Scattered
+Kanto,Safari Zone,Ground,Quick Claw,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,TM - Egg Bomb,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,Protein,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,Gold Teeth,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,TM - Screech,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,Max Revive,1,Overworld,Scattered
+Kanto,Safari Zone,Ground,Dragon Scale,1,Overworld,Scattered
+Kanto,Safari Zone,Tiles,Revive,1,Hidden,Ground tiles
+Kanto,Safari Zone,Tiles,Leaf Stone,1,Hidden,Ground tiles
+Kanto,Safari Zone,Secret House,HM03-Surf,1,NPC Gift,Secret House reward
+Kanto,Silph Co.,Floor 11,Zinc,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 10,Carbos,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 10,Rare Candy,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 10,Great Ball,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 5,Card Key,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 8,Iron,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 7,TM - Imprison,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 7,Calcium,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 6,HP Up,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 6,X Special,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 4,TM - Torment,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 4,Escape Rope,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 4,Full Heal,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 4,Max Revive,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 3,Protein,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 3,TM - Electro Ball,1,Overworld,Floor loot
+Kanto,Silph Co.,Floor 2,Dubious Disc,1,Overworld,Floor loot
+Kanto,Silph Co.,Potted Tree,HP Up,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Nugget,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Zinc,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Carbos,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Iron,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,PP Up,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Elixir,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Protein,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Revive,1,Hidden,Potted trees
+Kanto,Silph Co.,Floor 9,Hyper Potion,1,Hidden,Yellow boxes
+Kanto,Silph Co.,Potted Tree,Calcium,1,Hidden,Potted trees
+Kanto,Silph Co.,Potted Tree,Great Ball,1,Hidden,Potted trees
+Kanto,Silph Co.,Floor 11,Master Ball,1,NPC Gift,Given by the President
+Kanto,Silph Co.,Floor 3,TM - Thunder Wave,1,NPC Gift,Given by employee
+Kanto,Pokemon Tower,Floor 3,Escape Rope,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 4,Elixir,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 4,Awakening,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 4,Great Ball,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 5,Cleanse Tag,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 6,Nugget,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 6,Rare Candy,1,Overworld,Floor loot
+Kanto,Pokemon Tower,Floor 5,TinyMushroom,1,Hidden,Ground tiles
+Kanto,Pokemon Tower,Floor 7,Soothe Bell,1,Hidden,Use Itemfinder where Mr. Fuji stood
+Kanto,Seafoam Islands,B3F,King's Rock,1,Overworld,Ice puzzles
+Kanto,Seafoam Islands,B3F,Pearl,1,Overworld,Floor loot
+Kanto,Seafoam Islands,B4F,Water Stone,1,Overworld,Floor loot
+Kanto,Seafoam Islands,B4F,Revive,1,Overworld,Floor loot
+Kanto,Seafoam Islands,B4F,Hyper Potion,1,Overworld,Floor loot
+Kanto,Seafoam Islands,B3F,Nugget,1,Hidden,In rock
+Kanto,Seafoam Islands,B4F,Water Stone,1,Hidden,In rock
+Kanto,Pokemon Mansion,Floor 1,Escape Rope,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Floor 1,Protein,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Floor 2,Wise Glasses,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Floor 3,Zinc,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Floor 3,Calcium,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Floor 3,Iron,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Basement 1,HP Up,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Basement 1,Carbos,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Basement 1,Full Restore,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Basement 1,TM - Blizzard,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Basement 1,Secret Key,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Basement 1,TM - Solarbeam,1,Overworld,Floor loot
+Kanto,Pokemon Mansion,Floor 1,Moon Stone,1,Hidden,In rock
+Kanto,Pokemon Mansion,Floor 3,Rare Candy,1,Hidden,Ground tile
+Kanto,Pokemon Mansion,Basement 1,Elixir,1,Hidden,Ground tile
+Kanto,Power Plant,Entrance,Hyper Potion,1,Overworld,Floor loot
+Kanto,Power Plant,Center Area,TM - Agility,1,Overworld,Floor loot
+Kanto,Power Plant,Center Area,Electirizer,1,Overworld,Floor loot
+Kanto,Power Plant,Southeast,TM - Thunder,1,Overworld,Floor loot
+Kanto,Power Plant,Northeast,Metal Coat,1,Overworld,Floor loot
+Kanto,Power Plant,South,Max Elixir,1,Hidden,Ground tile
+Kanto,Power Plant,West,Thunderstone,1,Hidden,Ground tile near door
+Kanto,Victory Road,Floor 1,Rare Candy,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 1,TM - Aura Sphere,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 2,Full Heal,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 2,TM - Hyper Beam,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 2,Max Revive,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 2,TM - Overheat,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 3,Protector,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 3,TM - Focus Blast,1,Overworld,Floor loot
+Kanto,Victory Road,Floor 1,Full Restore,1,Hidden,In rock
+Kanto,Victory Road,Floor 1,Great Ball,1,Hidden,In rock
+Kanto,Victory Road,Floor 3,TM - Double-Edge,1,NPC Gift,Move tutor near the end
+Kanto,Cerulean Cave,Floor 1,Full Restore,2,Overworld,Floor loot
+Kanto,Cerulean Cave,Floor 1,Nugget,1,Overworld,Floor loot
+Kanto,Cerulean Cave,Floor 2,PP Up,1,Overworld,Floor loot
+Kanto,Cerulean Cave,Floor 2,Ultra Ball,2,Overworld,Floor loot
+Kanto,Cerulean Cave,Floor 2,Max Elixir,1,Overworld,Floor loot
+Kanto,Cerulean Cave,Basement 1,Max Revive,1,Overworld,Floor loot
+Kanto,Cerulean Cave,Floor 1,Ultra Ball,1,Hidden,North wall
+Kanto,One Island,Poke Center,Meteorite,1,NPC Gift,Bill / Celio
+Kanto,One Island,Poke Center,Tri-Pass,1,NPC Gift,Bill / Celio
+Kanto,One Island,Treasure Beach,Stardust,3,Hidden,Scattered in sand/grass
+Kanto,One Island,Treasure Beach,Ultra Ball,1,Hidden,Scattered in sand/grass
+Kanto,One Island,Treasure Beach,Pearl,4,Hidden,Scattered in sand/grass
+Kanto,One Island,Treasure Beach,Star Piece,1,Hidden,Scattered in sand/grass
+Kanto,One Island,Cape Brink,Rare Candy,1,Hidden,Near house
+Kanto,One Island,Cape Brink,PP Max,1,Hidden,Requires Itemfinder
+Kanto,One Island,Kindle Road,Black Belt,1,Overworld,Smash rocks
+Kanto,One Island,Kindle Road,Max Repel,1,Overworld,Follow path
+Kanto,One Island,Kindle Road,Carbos,1,Overworld,Smash rocks
+Kanto,One Island,Mt. Ember,Ruby,1,Overworld,Cave floors
+Kanto,One Island,Mt. Ember,Magmarizer,1,Overworld,Cave floors
+Kanto,One Island,Mt. Ember,Great Ball,1,Overworld,Cave floors
+Kanto,One Island,Mt. Ember,Hyper Potion,1,Overworld,Cave floors
+Kanto,One Island,Mt. Ember,TM - Explosion,1,NPC Gift,Hiker outside
+Kanto,One Island,Mt. Ember,Great Ball,1,Hidden,In rock
+Kanto,One Island,Mt. Ember,Fire Stone,1,Hidden,In rock
+Kanto,One Island,Ember Spa,HM06-Rock Smash,1,NPC Gift,Old man in the spa
+Kanto,Two Island,Cape Brink,Revive,1,Overworld,Overworld path
+Kanto,Two Island,Joyful Game Corner,Moon Stone,1,NPC Gift,Reward from the man
+Kanto,Three Island,Three Isle Port,Full Restore,1,NPC Gift,Given by the first man
+Kanto,Three Island,Three Isle Path,Zinc,1,Overworld,In the cave
+Kanto,Three Island,Three Isle Path,Nugget,1,Hidden,In rock
+Kanto,Three Island,Three Isle Path,Nugget,1,NPC Gift,Talk to the man
+Kanto,Three Island,Bond Bridge,PP Up,1,Hidden,Cut tree
+Kanto,Three Island,Bond Bridge,Max Repel,1,Hidden,In rock
+Kanto,Three Island,Bond Bridge,Pearl,1,Hidden,Ground tile
+Kanto,Three Island,Bond Bridge,Stardust,1,Hidden,Ground tile
+Kanto,Three Island,Berry Forest,Razz Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Oran Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Persim Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Pinap Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Chesto Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Full Heal,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Aspear Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Rawst Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Ether,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Bluk Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Wepear Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Cheri Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Nanab Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Pecha Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,SilverPowder,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Lum Berry,1,Overworld,Scattered through forest
+Kanto,Three Island,Berry Forest,Iapapa Berry,1,NPC Gift,Rescue Lostelle
+Kanto,Four Island,Main Town,Great Ball,1,Overworld,Scattered in town
+Kanto,Four Island,Main Town,Pearl,1,Hidden,Scattered in town
+Kanto,Four Island,Main Town,Star Piece,1,Overworld,Scattered in town
+Kanto,Four Island,Main Town,Stardust,1,Overworld,Scattered in town
+Kanto,Four Island,Main Town,TM - Body Slam,1,NPC Gift,Tutor in the NE house
+Kanto,Four Island,Icefall Cave,Great Ball,1,Overworld,Ice puzzles
+Kanto,Four Island,Icefall Cave,NeverMeltIce,1,Overworld,Ice puzzles
+Kanto,Four Island,Icefall Cave,Full Restore,1,Overworld,Ice puzzles
+Kanto,Four Island,Icefall Cave,HM07-Waterfall,1,Overworld,Ice puzzles
+Kanto,Five Island,Five Isle Meadow,Hyper Potion,1,Overworld,Cut tree
+Kanto,Five Island,Five Isle Meadow,PP Up,1,Overworld,Surf water
+Kanto,Five Island,Memorial Pillar,Razz Berry,1,Overworld,Grass
+Kanto,Five Island,Memorial Pillar,Sitrus Berry,1,Overworld,Grass
+Kanto,Five Island,Memorial Pillar,Bluk Berry,1,Overworld,Grass
+Kanto,Five Island,Memorial Pillar,Iron,1,Overworld,Ground
+Kanto,Five Island,Memorial Pillar,TM - Baton Pass,1,NPC Gift,Place a Lemonade on the memorial
+Kanto,Five Island,Memorial Pillar,Pearl,1,Hidden,Ground tile
+Kanto,Five Island,Rocket Warehouse,Pearl,2,Overworld,Spin tile puzzles
+Kanto,Five Island,Rocket Warehouse,Hyper Potion,1,Overworld,Spin tile puzzles
+Kanto,Five Island,Rocket Warehouse,TM - Toxic Spikes,1,Overworld,Spin tile puzzles
+Kanto,Five Island,Rocket Warehouse,Net Ball,1,Hidden,Yellow box
+Kanto,Five Island,Rocket Warehouse,Nest Ball,1,Hidden,Yellow box
+Kanto,Five Island,Lost Cave,Lax Incense,1,Overworld,Navigate door puzzle correctly
+Kanto,Five Island,Lost Cave,Sea Incense,1,Overworld,Navigate door puzzle correctly
+Kanto,Five Island,Lost Cave,Revive,1,Overworld,Navigate door puzzle correctly
+Kanto,Five Island,Lost Cave,Rare Candy,1,Overworld,Navigate door puzzle correctly
+Kanto,Five Island,Lost Cave,Nugget,1,Overworld,Navigate door puzzle correctly
+Kanto,Five Island,Resort Gorgeous,Nest Ball,1,Hidden,Ground tile
+Kanto,Five Island,Resort Gorgeous,Stardust,2,Hidden,Ground tile
+Kanto,Five Island,Resort Gorgeous,Star Piece,1,Hidden,Ground tile
+Kanto,Six Island,Main Town,Leppa Berry,1,Overworld,North of Poke Center
+Kanto,Six Island,Water Path,Elixir,1,Overworld,Surf path
+Kanto,Six Island,Water Path,Oran Berry,1,Overworld,Grass
+Kanto,Six Island,Water Path,Pinap Berry,1,Overworld,Grass
+Kanto,Six Island,Water Path,Aspear Berry,1,Overworld,Near trainer
+Kanto,Six Island,Water Path,Max Potion,1,Overworld,Surf path
+Kanto,Six Island,Green Path,Ultra Ball,1,Hidden,Near trainer
+Kanto,Six Island,Outcast Island,Net Ball,1,Hidden,Ground tile
+Kanto,Six Island,Outcast Island,Star Piece,1,Hidden,Ground tile
+Kanto,Six Island,Outcast Island,PP Up,1,Overworld,North tip
+Kanto,Six Island,Ruin Valley,Ultra Ball,1,Overworld,Path
+Kanto,Six Island,Ruin Valley,HP Up,1,Overworld,Path
+Kanto,Six Island,Ruin Valley,Hyper Potion,1,Overworld,Path
+Kanto,Six Island,Ruin Valley,Sapphire,1,Overworld,In the hole
+Kanto,Seven Island,Main Town,TM - Swords Dance,1,NPC Gift,Tutor south of Mart
+Kanto,Seven Island,Trainer Tower,Nanab Berry,1,Overworld,Outside
+Kanto,Seven Island,Trainer Tower,Pearl,1,Hidden,Near sign
+Kanto,Seven Island,Trainer Tower,Big Pearl,1,Hidden,Near sign
+Kanto,Seven Island,Canyon Entrance,Rawst Berry,1,Overworld,Grass
+Kanto,Seven Island,Sevault Canyon,Nugget,1,Overworld,Path
+Kanto,Seven Island,Sevault Canyon,Max Elixir,1,Overworld,Grass
+Kanto,Seven Island,Sevault Canyon,Elixir,1,Overworld,Path
+Kanto,Seven Island,Sevault Canyon,Cheri Berry,1,Overworld,Path
+Kanto,Seven Island,Sevault Canyon,Lucky Punch,1,NPC Gift,Inside the house
+Kanto,Seven Island,Tanoby Ruins,Heart Scale,2,Hidden,Surf around ruins
+Kanto,Seven Island,Tanoby Ruins,Stardust,1,Hidden,Surf around ruins
+Kanto,Seven Island,Tanoby Ruins,Pearl,1,Hidden,Surf around ruins
+Johto,New Bark Town,Prof. Elm's Lab,Potion,5,NPC Gift,Talk to Prof. Elm after picking starter
+Johto,New Bark Town,Mom's House,Pokegear,1,NPC Gift,Talk to Mom
+Johto,New Bark Town,Main Town,Potion,1,Hidden,North west corner of town
+Johto,New Bark Town,NW House,Master Ball,1,NPC Gift,Received after getting 8 badges
+Johto,Cherrygrove City,Main City,Running Shoes,1,NPC Gift,Given by Guide Gent
+Johto,Cherrygrove City,Main City,Map Card,1,NPC Gift,Given by Guide Gent
+Johto,Cherrygrove City,Main City,Mystic Water,1,NPC Gift,"Surf SW, talk to guy on land"
+Johto,Cherrygrove City,Main City,Nugget,1,Hidden,Use Rock Climb NW
+Johto,Violet City,Gym Area,Poké Ball,1,Hidden,North of gym
+Johto,Violet City,Gym,TM - Roost,1,Gym,Defeat Gym Leader
+Johto,Violet City,Pokemart,Mystery Egg,1,NPC Gift,Talk to the guy with glasses
+Johto,Violet City,Main City,Hyper Potion,1,Hidden,Smash rock NE of Pokecenter
+Johto,Violet City,Main City,YLW Apricorn,1,Overworld,From apricorn tree south of mart
+Johto,Violet City,Water,Rare Candy,1,Overworld,Surf NE
+Johto,Violet City,Water,PP Up,1,Overworld,Surf NW
+Johto,Azalea Town,Gym Area,Full Heal,1,Hidden,East of Gym
+Johto,Azalea Town,Pokecenter Area,WHT Apricorn,1,Overworld,From apricorn tree NW of PC
+Johto,Azalea Town,Kurt's House,Fast Ball,1,NPC Gift,After Rockets are beaten
+Johto,Azalea Town,Gym,TM - U-Turn,1,Gym,Defeat Gym Leader
+Johto,Azalea Town,Charcoal Kiln,Charcoal,1,NPC Gift,Talk to the eastern apprentice
+Johto,Goldenrod City,Dept. Store (5F),TM - Return,1,NPC Gift,"Sunday, show high happiness pokemon"
+Johto,Goldenrod City,Dept. Store (B1F),Antidote,1,Hidden,Inside a box
+Johto,Goldenrod City,Dept. Store (B1F),Super Potion,1,Hidden,Inside a big box
+Johto,Goldenrod City,Dept. Store (B1F),Ultra Ball,1,Overworld,South east
+Johto,Goldenrod City,Dept. Store (B1F),Ether,1,Overworld,South from first Machoke
+Johto,Goldenrod City,Dept. Store (B1F),Parlyz Heal,1,Hidden,Inside a big box
+Johto,Goldenrod City,Dept. Store (B1F),Burn Heal,1,Overworld,North east
+Johto,Goldenrod City,Pokemart Area,Super Potion,1,Hidden,South east of Pokemart
+Johto,Goldenrod City,Bike Shop,Bicycle,1,NPC Gift,Talk to the owner
+Johto,Goldenrod City,PC North House,Coin Case,1,NPC Gift,Talk to middle guy
+Johto,Goldenrod City,Underground,Fashion Case,1,NPC Gift,SW house down the stairs
+Johto,Goldenrod City,Radio Tower,Radio Card,1,NPC Gift,"Answer quiz correctly (Y, Y, N, N, N)"
+Johto,Goldenrod City,Gym,TM - Attract,1,Gym,Defeat Gym Leader
+Johto,Goldenrod City,Flower Shop,Squirtbottle,1,NPC Gift,Next to Gym
+Johto,Goldenrod City,House NE of Gym,Gracidea,1,NPC Gift,Show Shaymin as lead
+Johto,Ecruteak City,House E of Gym,Dowsing MCHN,1,NPC Gift,Talk to guy inside
+Johto,Ecruteak City,Dance Theater,HM-Surf,1,NPC Gift,Defeat Rocket Grunt
+Johto,Ecruteak City,North East Area,Rare Candy,1,Hidden,Ground loot
+Johto,Ecruteak City,Pokecenter Area,Hyper Potion,1,Hidden,NW of Pokecenter
+Johto,Ecruteak City,Gym Area,Ultra Ball,1,Hidden,NW of Gym
+Johto,Ecruteak City,Burned Tower Ent.,Ether,1,Hidden,Near temple entrance
+Johto,Ecruteak City,Gym,TM - Shadow Ball,1,Gym,Defeat Gym Leader
+Johto,Ecruteak City,Dance Theater,Clear Bell,1,NPC Gift,Defeat Kimono Girls
+Johto,Olivine City,House N of PC,Good Rod,1,NPC Gift,Talk to Fisher
+Johto,Olivine City,Pokemart Area,Full Heal,1,Hidden,In rock N of Pokemart
+Johto,Olivine City,SW Building,Pearl,1,Hidden,Left room
+Johto,Olivine City,Water,TM - Charge Beam,1,Overworld,Surf east
+Johto,Olivine City,Gym,TM - Iron Tail,1,Gym,Defeat Gym Leader
+Johto,Olivine City,Lighthouse Area,Rare Candy,1,Hidden,Rock climb NE of Lighthouse
+Johto,Cianwood City,Main City,Revive,1,Hidden,Near NW house
+Johto,Cianwood City,Pokecenter Area,Stardust,1,Hidden,North of PC
+Johto,Cianwood City,Pharmacy,SecretPotion,1,NPC Gift,Talk to Pharmacist
+Johto,Cianwood City,Gym,TM - Focus Punch,1,Gym,Defeat Gym Leader
+Johto,Cianwood City,Main City,HM-Fly,1,NPC Gift,Given by Chuck's Wife
+Johto,Mahogany Town,Gym,TM - Snowscape,1,Gym,Defeat Gym Leader
+Johto,Blackthorn City,Main City,Soft Sand,1,NPC Gift,Saturday NPC (Arthur)
+Johto,Blackthorn City,Main City,Snooze Ribbon,1,NPC Gift,Saturday NPC (Requires all 7 items)
+Johto,Blackthorn City,House NE,Effort Ribbon,1,NPC Gift,Show pokemon with 510 EVs
+Johto,Blackthorn City,House W of Mart,TM - Draco Meteor,1,NPC Gift,Move tutor
+Johto,Route 29,Main Path,Potion,1,Overworld,Follow path NE
+Johto,Route 29,Main Path,Poké Ball,5,NPC Gift,Received from rival event
+Johto,Route 29,Main Path,GRN Apricorn,1,Overworld,From apricorn tree
+Johto,Route 29,Main Path,TwistedSpoon,1,NPC Gift,Tuesday Beauty NPC (Tuscany)
+Johto,Route 29,Main Path,Shock Ribbon,1,NPC Gift,Tuesday Beauty (Requires all 7 items)
+Johto,Route 30,Main Path,Potion,1,Overworld,Follow path
+Johto,Route 30,Apricorn House,Apricorn Box,1,NPC Gift,Talk to the guy
+Johto,Route 30,Main Path,GRN Apricorn,1,Overworld,From apricorn tree
+Johto,Route 30,Main Path,Antidote,1,Overworld,North of the house
+Johto,Route 30,Mr. Pokemon's House,PNK Apricorn,1,Overworld,From apricorn tree
+Johto,Route 30,Mr. Pokemon's House,Mystery Egg,1,NPC Gift,Talk to Mr. Pokemon
+Johto,Route 30,Mr. Pokemon's House,Pokedex,1,NPC Gift,Talk to Prof. Oak
+Johto,Route 30,Main Path,Potion,1,Hidden,North east step
+Johto,Route 30,Mr. Pokemon's House,Exp. Share,1,NPC Gift,Give him the Red Scale
+Johto,Route 30,Water,Nugget,1,Hidden,Surf SE
+Johto,Route 31,Main Path,Potion,1,Overworld,Near the cave
+Johto,Route 31,Main Path,BLK Apricorn,1,Overworld,From apricorn tree
+Johto,Route 31,Main Path,Poké Ball,1,Overworld,South east
+Johto,Route 31,Gate,Vs. Recorder,1,NPC Gift,Inside gate
+Johto,Route 31,Main Path,TM - Rest,1,NPC Gift,Show guy Spearow with Grass Mail
+Johto,Route 36,Main Path,HM-Rock Smash,1,NPC Gift,Talk to guy in pink shirt
+Johto,Route 36,Main Path,Hard Stone,1,NPC Gift,Thursday NPC (Arthur)
+Johto,Route 36,Main Path,Careless Ribbon,1,NPC Gift,Thursday NPC (Requires all 7 items)
+Johto,Route 36,Main Path,BLU Apricorn,1,Overworld,From apricorn tree
+Johto,Route 36,Main Path,Awakening,1,Hidden,In a tree
+Johto,Route 36,Sudowoodo,Berry Pots,1,NPC Gift,Reward after tree fight
+Johto,Route 36,Sudowoodo,Oran Berry,3,NPC Gift,Inside Berry Pots
+Johto,Route 36,Sudowoodo,Pecha Berry,3,NPC Gift,Inside Berry Pots
+Johto,Route 36,Main Path,Hyper Potion,1,Overworld,NW near trainer
+Johto,Route 32,Main Path,Miracle Seed,1,NPC Gift,South east
+Johto,Route 32,Main Path,Repel,1,Overworld,South west
+Johto,Route 32,Main Path,Great Ball,1,Overworld,East step
+Johto,Route 32,Main Path,TM - Bullet Seed,1,Overworld,South west
+Johto,Route 32,Main Path,Poison Barb,1,NPC Gift,Friday NPC (Frieda)
+Johto,Route 32,Main Path,Relax Ribbon,1,NPC Gift,Friday NPC (Requires all 7 items)
+Johto,Route 32,Pokecenter,Old Rod,1,NPC Gift,Fisher in PC
+Johto,Route 32,Pokecenter,Lure Ball,2,NPC Gift,Guy SW in PC
+Johto,Route 32,Main Path,Shell Bell,1,Overworld,Smash rock
+Johto,Route 32,Union Cave Ent.,Great Ball,1,Hidden,Near cave entrance
+Johto,Route 32,Main Path,TM - Roar,1,NPC Gift,Guy in pink
+Johto,Route 32,Main Path,Super Potion,1,Hidden,Near guy in pink
+Johto,Route 32,Water,Heart Scale,1,Hidden,Surf east in a rock
+Johto,Route 33,Main Path,PNK Apricorn,1,Overworld,From apricorn tree
+Johto,Route 33,Main Path,BLK Apricorn,1,Overworld,From apricorn tree
+Johto,Route 34,Gate,TM - Taunt,1,NPC Gift,Talk to girl with butterfree
+Johto,Route 34,Main Path,Super Potion,1,Hidden,In tree near trainer
+Johto,Route 34,Main Path,TM - ThunderPunch,1,Overworld,North of house
+Johto,Route 34,Water,Water Stone,1,Overworld,Surf SW
+Johto,Route 34,Water,Rare Candy,1,Hidden,Surf SW
+Johto,Route 34,Water,Power Herb,1,NPC Gift,Defeat 3 trainers surfing
+Johto,Route 35,Gate,Spearow,1,NPC Gift,Guard (Holding Grass Mail)
+Johto,Route 35,Main Path,Parlyz Heal,1,Overworld,South west
+Johto,Route 35,Main Path,TM - Air Cutter,1,Overworld,South east
+Johto,Route 35,Gate,HP Up,1,NPC Gift,Talk to guard
+Johto,Route 35,Water,GRN Apricorn,1,Overworld,Surf west
+Johto,Route 35,Water,Nugget,1,Hidden,Surf north
+Johto,Route 37,Main Path,RED Apricorn,1,Overworld,From apricorn tree
+Johto,Route 37,Main Path,BLU Apricorn,1,Overworld,From apricorn tree
+Johto,Route 37,Main Path,BLK Apricorn,1,Overworld,From apricorn tree
+Johto,Route 37,Main Path,Magnet,1,NPC Gift,Sunday NPC (Sunny)
+Johto,Route 37,Main Path,Smile Ribbon,1,NPC Gift,Sunday NPC (Requires all 7 items)
+Johto,Route 38,Main Path,WHT Apricorn,1,Overworld,From apricorn tree
+Johto,Route 38,Main Path,Max Potion,1,Overworld,East step
+Johto,Route 39,Main Path,GRN Apricorn,1,Overworld,From apricorn tree
+Johto,Route 39,Main Path,PP Up,1,Hidden,South of houses
+Johto,Route 39,Main Path,X Attack,1,Hidden,Near 2 trees
+Johto,Route 39,Main Path,Nugget,1,Hidden,South step
+Johto,Route 39,Main Path,TM - Drain Punch,1,Overworld,West step
+Johto,Route 39,Main Path,Metal Coat,1,Overworld,Use rock climb
+Johto,Route 39,Main Path,HP Up,1,Hidden,NW of metal coat
+Johto,Route 40,Main Path,Sharp Beak,1,NPC Gift,Monday NPC (Monica)
+Johto,Route 40,Main Path,Alert Ribbon,1,NPC Gift,Monday NPC (Requires all 7 items)
+Johto,Route 40,Land,TM - Razor Shell,1,Overworld,Surf SE
+Johto,Route 40,Land,Hyper Potion,1,Hidden,Surf SE
+Johto,Route 41,Water,Stardust,1,Hidden,Near Whirl Islands entrance
+Johto,Route 41,Water,Stardust,1,Hidden,NW step
+Johto,Route 41,Water,Stardust,1,Hidden,Near cave entrance
+Johto,Route 41,Water,Stardust,1,Hidden,Near cave entrance
+Johto,Route 41,Water,Max Ether,1,Hidden,NW step
+Johto,Route 42,Main Path,TM - Icy Wind,1,Overworld,NE step
+Johto,Route 42,Main Path,HM-Strength,1,NPC Gift,Mount Mortar exit event
+Johto,Route 42,Main Path,PNK Apricorn,1,Overworld,From apricorn tree
+Johto,Route 42,Main Path,GRN Apricorn,1,Overworld,From apricorn tree
+Johto,Route 42,Main Path,YLW Apricorn,1,Overworld,From apricorn tree
+Johto,Route 42,Main Path,Water Stone,1,Overworld,NE step
+Johto,Route 42,Main Path,Max Potion,1,Hidden,In rock SE
+Johto,Route 42,Mt Mortar Exit,Dubious Disc,1,Overworld,Outside room exit
+Johto,Route 43,Main Path,Sun Stone,1,Overworld,South step
+Johto,Route 43,Water,BLK Apricorn,1,Overworld,"Surf west, from apricorn tree"
+Johto,Route 43,Gate,TM - Sludge Bomb,1,NPC Gift,Talk to guard
+Johto,Route 44,Main Path,RED Apricorn,1,Overworld,From apricorn tree
+Johto,Route 44,Main Path,Shiny Stone,1,Overworld,Floor loot
+Johto,Route 44,Grass,Max Revive,1,Overworld,Surf NE
+Johto,Route 44,Main Path,Ultra Ball,1,Overworld,Near trainer
+Johto,Route 44,Main Path,Elixir,1,Hidden,SE step
+Johto,Route 45,Main Path,Elixir,1,Overworld,South step
+Johto,Route 45,Grass,Max Potion,1,Overworld,Jump ledge
+Johto,Route 45,Main Path,Full Heal,1,Overworld,South step
+Johto,Route 45,Main Path,Nugget,1,Overworld,Jump ledge
+Johto,Route 45,Main Path,Revive,1,Overworld,South step
+Johto,Route 45,Main Path,PP Up,1,Hidden,North step
+Johto,Route 45,Main Path,GRN Apricorn,1,Overworld,From apricorn tree
+Johto,Route 45,Ledges,PP Max,1,Hidden,Rock climb from Route 46
+Johto,Route 46,Main Path,GRN Apricorn,1,Overworld,From apricorn tree
+Johto,Route 46,Main Path,YLW Apricorn,1,Overworld,From apricorn tree
+Johto,Route 46,Main Path,X Speed,1,Overworld,Floor loot
+Johto,Route 47,Main Path,Revive,1,Overworld,West step
+Johto,Route 47,Land,Pearl,1,Hidden,Surf SW
+Johto,Route 47,Main Path,Thunder Stone,1,Overworld,Follow path
+Johto,Route 47,Water,Fire Stone,1,Overworld,Up waterfall
+Johto,Route 47,Cliff Cave Area,Stardust,1,Hidden,Rock climb SW
+Johto,Route 47,Cliff Cave Area,Water Stone,1,Overworld,West step
+Johto,Route 48,Main Path,Nugget,1,Overworld,SW step
+Johto,Route 26,House,Super Rod,1,NPC Gift,Talk to Fisher
+Johto,Route 26,Main Path,BLU Apricorn,1,Overworld,From apricorn tree
+Johto,Route 26,Main Path,TinyMushroom,1,Hidden,Between trainers
+Johto,Route 26,Main Path,Max Elixir,1,Overworld,Jump ledge
+Johto,Route 27,Water,Rare Candy,1,Overworld,Surf W from cave
+Johto,Route 27,House,TM - Sandstorm,1,NPC Gift,High happiness
+Johto,Route 27,Water,TM - Power Whip,1,Overworld,Whirlpool puzzle
+Johto,Route 27,Water,Electirizer,1,Overworld,Whirlpool puzzle
+Johto,Route 27,Water,Revive,1,Hidden,East step
+Johto,Route 27,Water,Nugget,1,Hidden,Surf SW
+Johto,Route 27,Water,BigMushroom,1,Hidden,In rock
+Johto,Route 28,House,TM - Steel Wing,1,NPC Gift,Talk to girl
+Johto,Route 28,Grass,TM - Flamethrower,1,Overworld,East step
+Johto,Route 28,Main Path,Rare Candy,1,Hidden,NE step
+Johto,Sprout Tower,Floor 1,Parlyz Heal,1,Overworld,First floor
+Johto,Sprout Tower,Floor 2,X Accuracy,1,Overworld,Second floor
+Johto,Sprout Tower,Floor 3,Potion,1,Overworld,Third floor
+Johto,Sprout Tower,Floor 3,Escape Rope,1,Overworld,Third floor NE
+Johto,Sprout Tower,Top Floor,HM-Flash,1,NPC Gift,Defeat Sage
+Johto,Union Cave,Floor 1,X Attack,1,Overworld,North
+Johto,Union Cave,Basement 1,X Defend,1,Overworld,North
+Johto,Union Cave,Basement 1,X Speed,1,Hidden,In a rock
+Johto,Union Cave,Basement 1,TM - Metal Claw,1,Overworld,West
+Johto,Union Cave,Basement 1,Great Ball,1,Hidden,In wall
+Johto,Union Cave,Basement 1,Great Ball,1,Overworld,South east
+Johto,Union Cave,Basement 1,Lure,1,Overworld,North west of trainer
+Johto,Union Cave,Basement 1,Parlyz Heal,1,Hidden,In a rock
+Johto,Union Cave,Basement 1,Awakening,1,Overworld,South east
+Johto,Union Cave,Floor 1,Big Pearl,1,Hidden,"Surf NW, in a rock"
+Johto,Union Cave,Basement 2,Moon Stone,1,Overworld,North east
+Johto,Union Cave,Basement 2,Hyper Potion,1,Overworld,South east
+Johto,Union Cave,Basement 2,Ultra Ball,1,Hidden,Near girl trainer
+Johto,Union Cave,Basement 2,Calcium,1,Hidden,Near NPC
+Johto,Union Cave,Basement 2,Revive,1,Hidden,Surf north in rock
+Johto,Slowpoke Well,Basement 1,Super Potion,1,Overworld,Room west
+Johto,Slowpoke Well,Basement 1,Super Potion,1,Hidden,In a rock
+Johto,Slowpoke Well,Basement 1,Great Ball,1,Hidden,Near stairs
+Johto,Slowpoke Well,Basement 2,Full Heal,1,Hidden,East step
+Johto,Slowpoke Well,Basement 2,King's Rock,1,NPC Gift,Talk to guy
+Johto,Slowpoke Well,Basement 2,TM - Iron Defense,1,Overworld,North east
+Johto,Ilex Forest,Main Path,Revive,1,Overworld,South east
+Johto,Ilex Forest,Main Path,TinyMushroom,1,Hidden,North east
+Johto,Ilex Forest,Main Path,HM-Cut,1,NPC Gift,Farfetch'd quest
+Johto,Ilex Forest,Near Water,Antidote,1,Hidden,Near water
+Johto,Ilex Forest,Main Path,Leaf Stone,1,Overworld,South east
+Johto,Ilex Forest,Main Path,Antidote,1,Overworld,North west
+Johto,Ilex Forest,Main Path,Repel,1,Hidden,In flowers
+Johto,Ilex Forest,Main Path,Super Potion,1,Hidden,East step
+Johto,Ilex Forest,Main Path,TinyMushroom,1,Hidden,South east
+Johto,Ilex Forest,Main Path,TM - Headbutt,1,NPC Gift,Talk to guy in pink shirt
+Johto,Ilex Forest,Main Path,Ether,1,Overworld,North east
+Johto,Ilex Forest,Main Path,TinyMushroom,1,Hidden,West step
+Johto,Ilex Forest,Main Path,Full Heal,1,Hidden,West path
+Johto,Ilex Forest,Main Path,Ether,1,Hidden,West path
+Johto,Ilex Forest,North Water,BigMushroom,1,Hidden,Surf north
+Johto,National Park,Fountain Area,Full Heal,1,Hidden,Near fountain
+Johto,National Park,Main Park,Quick Claw,1,NPC Gift,Girl near Persian
+Johto,National Park,Main Park,TM - Magical Leaf,1,Overworld,West path
+Johto,National Park,Main Park,Full Heal,1,Hidden,South east step
+Johto,National Park,Main Park,Soothe Bell,1,Overworld,Near trees
+Johto,National Park,NE Trees,Leaf Stone,1,Overworld,Use rock climb
+Johto,Burned Tower,Floor 1,Ether,1,Hidden,North west
+Johto,Burned Tower,Floor 1,Fire Stone,1,Overworld,Near last item
+Johto,Burned Tower,Floor 1,Ultra Ball,1,Hidden,South
+Johto,Burned Tower,Floor 1,HP Up,1,Overworld,Near last item
+Johto,Burned Tower,Basement 1,Antidote,1,Hidden,In rock
+Johto,Burned Tower,Basement 1,TM - Fire Punch,1,Overworld,North west
+Johto,Burned Tower,Basement 1,Revive,1,Hidden,In rock
+Johto,Lighthouse,Various Floors,TM - Power Gem,1,Overworld,Floor loot
+Johto,Lighthouse,Various Floors,Rare Candy,1,Overworld,Room east
+Johto,Lighthouse,Various Floors,Ether,1,Overworld,Inside room
+Johto,Lighthouse,Various Floors,Hyper Potion,1,Hidden,Inside room
+Johto,Lighthouse,Various Floors,Thunder Stone,1,Overworld,Avoid trainer
+Johto,Lighthouse,Top Floor,Super Potion,1,NPC Gift,Talk to Jasmine
+Johto,Lake of Rage,Land,Full Restore,1,Hidden,Surf west
+Johto,Lake of Rage,Water,Leaf Stone,1,Overworld,NW step
+Johto,Lake of Rage,House,TM - Hidden Power,1,NPC Gift,Talk to guy
+Johto,Lake of Rage,Main Path,TM - Hurricane,1,Overworld,NE of house
+Johto,Lake of Rage,Water,Red Scale,1,Event,Defeat Red Gyarados
+Johto,Lake of Rage,Main Path,Rare Candy,1,Hidden,NE of house
+Johto,Lake of Rage,Water,Razor Claw,1,Overworld,Surf north
+Johto,Lake of Rage,Water,Max Potion,1,Hidden,Near Razor Claw
+Johto,Lake of Rage,Water,Full Heal,1,Overworld,Surf SW (Wednesday)
+Johto,Lake of Rage,Trees,Max Revive,1,Overworld,Cut tree (Wednesday)
+Johto,Lake of Rage,Trees,Full Restore,1,Overworld,Cut tree (Wednesday)
+Johto,Lake of Rage,Main Path,Black Belt,1,NPC Gift,Wednesday NPC
+Johto,Lake of Rage,Main Path,Downcast Ribbon,1,NPC Gift,Wednesday NPC (Requires all 7 items)
+Johto,Rocket HQ,Basement 1,Up-Grade,1,Overworld,South path
+Johto,Rocket HQ,Basement 1,Hyper Potion,1,Overworld,East step
+Johto,Rocket HQ,Basement 1,Revive,1,Hidden,Near Hyper Potion
+Johto,Rocket HQ,Basement 1,Nugget,1,Overworld,South path
+Johto,Rocket HQ,Basement 1,Full Heal,1,Hidden,In box
+Johto,Rocket HQ,Basement 2,X Special,1,Overworld,Near passwords
+Johto,Rocket HQ,Basement 2,Protein,1,Overworld,Near passwords
+Johto,Rocket HQ,Basement 2,TM - Foul Play,1,Overworld,North from scientist
+Johto,Rocket HQ,Basement 2,Full Heal,1,Overworld,South near stairs
+Johto,Rocket HQ,Basement 3,X Sp. Def,1,Hidden,South step
+Johto,Rocket HQ,Basement 3,TM - Gunk Shot,1,Overworld,Down stairs
+Johto,Rocket HQ,Basement 3,Ultra Ball,1,Overworld,South east
+Johto,Rocket HQ,Transmit Room,HM-Whirlpool,1,Event,Defeat 3 Electrode
+Johto,Radio Tower,Underground,Basement Key,1,NPC Gift,From Fake Director
+Johto,Radio Tower,Underground,Metal Coat,1,Overworld,Near rockets
+Johto,Radio Tower,Underground,Smoke Ball,1,Overworld,SW path
+Johto,Radio Tower,Underground,Ultra Ball,1,Overworld,Follow path
+Johto,Radio Tower,Underground,Max Potion,1,Hidden,In box
+Johto,Radio Tower,Underground,Max Ether,1,Overworld,Follow path
+Johto,Radio Tower,Underground,Revive,1,Hidden,In box
+Johto,Radio Tower,Underground,TM - Earth Power,1,Overworld,From Rocket Grunt
+Johto,Radio Tower,Underground,Card Key,1,NPC Gift,From Real Director
+Johto,Radio Tower,Underground,Amulet Coin,1,Overworld,Up stairs NE
+Johto,Radio Tower,Upper Floors,Thunder Stone,1,Overworld,Floor loot
+Johto,Radio Tower,Top Floor,Rainbow Wing,1,NPC Gift,Defeat Boss
+Johto,Radio Tower,Lower Floors,TM - Sunny Day,1,NPC Gift,Talk to girl
+Johto,Radio Tower,Lower Floors,BrightPowder,1,NPC Gift,Talk to pink hair girl
+Johto,Ice Path,Ice Floor 1,Max Potion,1,Hidden,In rock
+Johto,Ice Path,Ice Floor 1,HM-Waterfall,1,Overworld,Slide puzzle
+Johto,Ice Path,Ice Floor 1,Ice Heal,1,Hidden,Near guy
+Johto,Ice Path,Basement 1,Carbos,1,Hidden,In wall
+Johto,Ice Path,Basement 1,Max Potion,1,Overworld,Slide puzzle
+Johto,Ice Path,Basement 1,Full Heal,1,Overworld,Slide puzzle
+Johto,Ice Path,Basement 2,NeverMeltIce,1,Overworld,Floor loot
+Johto,Ice Path,Basement 2,TM - Ice Punch,1,Overworld,Slide puzzle
+Johto,Ice Path,Basement 2,Revive,1,Hidden,In rock
+Johto,Ice Path,Basement 2,Iron,1,Overworld,Push boulder
+Johto,Ice Path,Basement 3,Protein,1,Overworld,Floor loot
+Johto,Ice Path,Basement 3,PP Up,1,Overworld,Slide puzzle
+Johto,Dragon's Den,Cave,Revive,1,Hidden,In rock
+Johto,Dragon's Den,Cave,Calcium,1,Overworld,SE of trainer
+Johto,Dragon's Den,Cave,Max Elixir,1,Hidden,Near house
+Johto,Dragon's Den,Cave,Max Potion,1,Hidden,In rock
+Johto,Dragon's Den,Cave,Max Elixir,1,Overworld,Surf SW
+Johto,Dragon's Den,Cave,Dragon Fang,1,Overworld,North past whirlpool
+Johto,Dragon's Den,Water,TM - Dragon Pulse,1,NPC Gift,Event outside house
+Johto,Dragon's Den,Water,Dratini,1,NPC Gift,Given by old guy
+Johto,Bellchime Trail,Main Path,TinyMushroom,1,Hidden,Floor loot
+Johto,Bellchime Trail,Main Path,TinyMushroom,1,Hidden,Floor loot
+Johto,Bellchime Trail,Main Path,BigMushroom,1,Hidden,Floor loot
+Johto,Bellchime Trail,Main Path,TinyMushroom,1,Hidden,Near tower
+Johto,Bellchime Trail,Main Path,BigMushroom,1,Hidden,Near tower
+Johto,Bell Tower,Lower Floors,Full Heal,1,Overworld,Floor loot
+Johto,Bell Tower,Lower Floors,Max Potion,1,Hidden,North of pillar
+Johto,Bell Tower,Lower Floors,Ultra Ball,1,Overworld,Floor loot
+Johto,Bell Tower,Lower Floors,PP Up,1,Overworld,Floor loot
+Johto,Bell Tower,Lower Floors,Escape Rope,1,Overworld,Floor loot
+Johto,Bell Tower,Upper Floors,Rare Candy,1,Overworld,Jump puzzles
+Johto,Bell Tower,Upper Floors,Full Restore,1,Hidden,Jump puzzles
+Johto,Bell Tower,Upper Floors,Max Potion,1,Overworld,Jump puzzles
+Johto,Bell Tower,Upper Floors,Full Heal,1,Overworld,Jump puzzles
+Johto,Bell Tower,Upper Floors,Max Revive,1,Overworld,Jump puzzles
+Johto,Bell Tower,Portal Area,Max Elixir,1,Overworld,Portal puzzle
+Johto,Bell Tower,Portal Area,Nugget,1,Overworld,Portal puzzle
+Johto,Bell Tower,Portal Area,HP Up,1,Overworld,Portal puzzle
+Johto,Bell Tower,Portal Area,Carbos,1,Hidden,Portal puzzle
+Johto,Bell Tower,Portal Area,Full Restore,1,Overworld,Portal puzzle
+Johto,Bell Tower,Roof,Sacred Ash,1,Event,Defeat Ho-oh
+Johto,Tohjo Falls,Cave,Moon Stone,1,Overworld,Waterfall puzzle
+Johto,Victory Road,Cave,Razor Fang,1,Overworld,Follow path
+Johto,Victory Road,Cave,Full Heal,1,Hidden,NW step
+Johto,Victory Road,Cave,Fire Stone,1,Overworld,SE step
+Johto,Victory Road,Cave,Max Potion,1,Hidden,In wall
+Johto,Victory Road,Cave,Max Revive,1,Overworld,East step
+Johto,Victory Road,Cave,Max Revive,1,Hidden,In rock
+Johto,Victory Road,Cave,Hyper Potion,1,Hidden,In rock
+Johto,Victory Road,Cave,Ultra Ball,1,Hidden,In hole
+Johto,Victory Road,Cave,Full Restore,1,Overworld,Push boulder
+Johto,Victory Road,Cave,HM-Rock Climb,1,Overworld,Follow path
+Johto,Victory Road,Cave,Zinc,1,Hidden,In wall
+Johto,Victory Road,Cave,HP Up,1,Overworld,In hole
+Johto,Victory Road,Cave,PP Up,1,Hidden,Near hole
+Johto,Victory Road,Cave,Rare Candy,1,Overworld,Follow path
+Johto,Victory Road,Cave,TM - Brave Bird,1,Overworld,In hole
+Johto,Victory Road,Cave,TM - Superpower,1,Overworld,SE step
+Johto,Indigo Plateau,Main Area,Rare Candy,1,Hidden,Ground
+Johto,Pokeathlon Dome,Exterior,PP Up,1,Hidden,Near building
+Johto,Pokeathlon Dome,Exterior,Protein,1,Hidden,Grass SW
+Johto,Frontier Access,Gate Area,Rare Candy,1,Hidden,NE step
+Johto,Mt. Mortar,Floor 1,Hyper Potion,1,Hidden,In rock
+Johto,Mt. Mortar,Floor 1,Moon Stone,1,Overworld,Up ladder
+Johto,Mt. Mortar,Floor 1,Max Repel,1,Hidden,Push boulder
+Johto,Mt. Mortar,Floor 1,Ultra Ball,1,Overworld,West step
+Johto,Mt. Mortar,Floor 1,Max Potion,1,Overworld,NE step
+Johto,Mt. Mortar,Floor 1,Escape Rope,1,Overworld,SE step
+Johto,Mt. Mortar,Floor 1,Nugget,1,Overworld,NE step
+Johto,Mt. Mortar,Floor 1,Magmarizer,1,Overworld,Rock climb
+Johto,Mt. Mortar,Floor 1,Nugget,1,Hidden,In rock
+Johto,Mt. Mortar,Floor 1,Ultra Ball,1,Hidden,In rock
+Johto,Mt. Mortar,Floor 1,Protector,1,Overworld,Follow path
+Johto,Mt. Mortar,Floor 1,Rare Candy,1,Hidden,In wall
+Johto,Mt. Mortar,Floor 1,Dusk Stone,1,Overworld,Up ladder
+Johto,Mt. Mortar,Floor 1,Revive,1,Hidden,In rock
+Johto,Mt. Mortar,Deep Cave,Rare Candy,1,Overworld,Surf SW
+Johto,Mt. Mortar,Deep Cave,Hyper Potion,1,Hidden,In wall
+Johto,Mt. Mortar,Deep Cave,Max Potion,1,Overworld,North step
+Johto,Mt. Mortar,Deep Cave,Full Restore,1,Hidden,In rock
+Johto,Mt. Mortar,Deep Cave,HP Up,1,Hidden,In rock
+Johto,Mt. Mortar,Deep Cave,TM - Aura Sphere,1,Overworld,Jump ledge
+Johto,Mt. Mortar,Deep Cave,Escape Rope,1,Overworld,NE step
+Johto,Mt. Mortar,Deep Cave,Dragon Scale,1,Overworld,Jump ledge
+Johto,Mt. Mortar,Deep Cave,Elixir,1,Overworld,Jump ledge
+Johto,Mt. Mortar,Deep Cave,Full Heal,1,Hidden,In rock
+Johto,Mt. Mortar,Deep Cave,Ether,1,Hidden,SE step
+Johto,Mt. Mortar,Deep Cave,Iron Ball,1,Overworld,SW step
+Johto,Mt. Mortar,Deep Cave,Iron,1,Overworld,West step
+Johto,Mt. Mortar,Deep Cave,Max Revive,1,Overworld,South path
+Johto,Mt. Mortar,Deep Cave,Max Revive,1,Hidden,In rock
+Johto,Mt. Mortar,Deep Cave,Tyrogue,1,NPC Gift,Defeat Karate King
+Johto,Mt. Mortar,Deep Cave,Ultra Ball,1,Hidden,In wall
+Johto,Mt. Mortar,Deep Cave,Carbos,1,Overworld,West path
+Johto,Mt. Mortar,Deep Cave,PP Up,1,Overworld,NE step
+Johto,Mt. Mortar,Deep Cave,Hyper Potion,1,Overworld,East step
+Johto,Mt. Mortar,Deep Cave,Max Ether,1,Overworld,East step
+Johto,Mt. Mortar,Deep Cave,Full Restore,1,Overworld,SE path
+Johto,Dark Cave,Cave,Full Heal,1,Overworld,North step
+Johto,Dark Cave,Cave,Dire Hit,1,Overworld,Jump ledge
+Johto,Dark Cave,Cave,Max Ether,1,Hidden,In wall
+Johto,Dark Cave,Cave,Hyper Potion,1,Overworld,Follow path
+Johto,Dark Cave,Cave,Elixir,1,Hidden,Follow path
+Johto,Dark Cave,Cave,Revive,1,Overworld,NW step
+Johto,Dark Cave,Cave,TM - Drill Run,1,Overworld,SW step
+Johto,Dark Cave,Cave,BlackGlasses,1,NPC Gift,Talk to guy
+Johto,Dark Cave,Cave,Max Revive,1,Hidden,In rock
+Johto,Dark Cave,Cave,Hyper Potion,1,Hidden,In rock
+Johto,Dark Cave,Water,Potion,1,Overworld,Surf west
+Johto,Dark Cave,Water,Poké Ball,1,Hidden,In rock
+Johto,Dark Cave,Water,Dusk Stone,1,Overworld,Surf south
+Johto,Whirl Islands,Cave,Pearl,1,Hidden,In rock
+Johto,Whirl Islands,Cave,Full Restore,1,Overworld,SW step
+Johto,Whirl Islands,Cave,Nugget,1,Overworld,North step
+Johto,Whirl Islands,Cave,Super Repel,1,Hidden,In rock
+Johto,Whirl Islands,Cave,Water Stone,1,Overworld,Up ladder
+Johto,Whirl Islands,Cave,King's Rock,1,Overworld,SW step
+Johto,Whirl Islands,Cave,Max Elixir,1,Overworld,Down ladder
+Johto,Whirl Islands,Cave,Full Restore,1,Overworld,Down ladder
+Johto,Whirl Islands,Cave,Revive,1,Hidden,In rock
+Johto,Whirl Islands,Cave,Full Restore,1,Hidden,In wall
+Johto,Whirl Islands,Cave,Max Revive,1,Overworld,Floor loot
+Johto,Whirl Islands,Cave,Rare Candy,1,Overworld,Room loot
+Johto,Whirl Islands,Cave,Escape Rope,1,Overworld,Up ladder
+Johto,Whirl Islands,Cave,Ultra Ball,1,Overworld,East step
+Johto,Whirl Islands,Cave,Ultra Ball,1,Hidden,In wall
+Johto,Whirl Islands,Cave,Calcium,1,Overworld,North step
+Johto,Whirl Islands,Cave,Rare Candy,1,Hidden,In rock
+Johto,Ruins of Alph,Chamber 1,Life Orb,1,Overworld,Puzzle room
+Johto,Ruins of Alph,Chamber 1,Leppa Berry,1,Overworld,Puzzle room
+Johto,Ruins of Alph,Chamber 1,Charcoal,1,Overworld,Puzzle room
+Johto,Ruins of Alph,Chamber 1,Revival Herb,1,Overworld,Puzzle room
+Johto,Ruins of Alph,Exterior,BigMushroom,1,Hidden,In rock
+Johto,Ruins of Alph,Exterior,Nugget,1,Hidden,In rock
+Johto,Ruins of Alph,Chamber 2,Leppa Berry,1,Overworld,Water Stone door
+Johto,Ruins of Alph,Chamber 2,Mystic Water,1,Overworld,Water Stone door
+Johto,Ruins of Alph,Chamber 2,Star Piece,1,Overworld,Water Stone door
+Johto,Ruins of Alph,Chamber 2,Stardust,1,Overworld,Water Stone door
+Johto,Ruins of Alph,Chamber 3,Sitrus Berry,1,Overworld,Flash door
+Johto,Ruins of Alph,Chamber 3,Moon Stone,1,Overworld,Flash door
+Johto,Ruins of Alph,Chamber 3,Energy Root,1,Overworld,Flash door
+Johto,Ruins of Alph,Chamber 3,Heal Powder,1,Overworld,Flash door
+Johto,Ruins of Alph,Exterior,Great Ball,1,Hidden,Surf NE
+Johto,Ruins of Alph,Exterior,TinyMushroom,1,Hidden,NW step
+Johto,Ruins of Alph,Exterior,Sun Stone,1,Overworld,Surf
+Johto,Ruins of Alph,Exterior,Rare Candy,1,Hidden,In rock
+Johto,Ruins of Alph,Exterior,Potion,1,Hidden,Look west puzzle
+Johto,Ruins of Alph,Chamber 4,Oran Berry,1,Overworld,Escape Rope door
+Johto,Ruins of Alph,Chamber 4,Pecha Berry,1,Overworld,Escape Rope door
+Johto,Ruins of Alph,Chamber 4,EnergyPowder,1,Overworld,Escape Rope door
+Johto,Ruins of Alph,Chamber 4,Heal Powder,1,Overworld,Escape Rope door
+Johto,Ruins of Alph,Chamber 4,UNOWN Report,1,Event,Solve Kabuto puzzle
+Johto,Cliff Cave,Basement,Ultra Ball,1,Hidden,In wall
+Johto,Mt. Silver,Exterior,Full Restore,1,Hidden,Near PC
+Johto,Mt. Silver,Exterior,Reaper Cloth,1,Overworld,Surf SW
+Johto,Mt. Silver,Exterior,Dire Hit,1,Hidden,Rock climb SE
+Johto,Mt. Silver Cave,Room 1,Expert Belt,1,Overworld,Up waterfall
+Johto,Mt. Silver Cave,Room 1,Ultra Ball,1,Hidden,Rock climb
+Johto,Mt. Silver Cave,Room 1,Hyper Potion,1,Hidden,In wall
+Johto,Mt. Silver Cave,Room 1,Ultra Ball,1,Hidden,In wall
+Johto,Mt. Silver Cave,Room 2,Escape Rope,1,Overworld,Floor loot
+Johto,Mt. Silver Cave,Room 2,TM - Stealth Rock,1,Overworld,South step
+Johto,Mt. Silver Cave,Room 2,Full Restore,1,Overworld,Room loot
+Johto,Mt. Silver Cave,Room 2,Revive,1,Hidden,In rock
+Johto,Mt. Silver Cave,Room 2,Max Elixir,1,Overworld,West step
+Johto,Mt. Silver Cave,Room 2,Max Revive,1,Overworld,East step
+Johto,Mt. Silver Cave,Room 2,Max Potion,1,Hidden,In rock
+Johto,Mt. Silver Cave,Room 2,Calcium,1,Overworld,South path
+Johto,Mt. Silver Cave,Room 2,Max Ether,1,Hidden,In rock
+Johto,Mt. Silver Cave,Room 2,Protein,1,Overworld,South step
+Johto,Mt. Silver Cave,Room 2,Iron,1,Hidden,In rock
+Johto,Mt. Silver Cave,Room 3,Pure Incense,1,Overworld,Rock climb
+Johto,Mt. Silver Cave,Room 3,Rare Candy,1,Hidden,Rock climb
+Johto,Mt. Silver Cave,Room 3,Hyper Potion,1,Hidden,Rock climb
+Johto,Mt. Silver Cave,Room 3,Dawn Stone,1,Overworld,Rock climb
+Johto,Mt. Silver Cave,Room 3,Max Revive,1,Hidden,In rock
+Johto,Mt. Silver Cave,Top,Legend Ribbon,1,Event,Defeat Red
+Hoenn,Littleroot Town,Professor Birch's Lab,Starter Pokemon,1,NPC Gift,Click the bag on Route 101
+Hoenn,Littleroot Town,Professor Birch's Lab,Pokedex,1,NPC Gift,Given by Professor Birch
+Hoenn,Littleroot Town,Professor Birch's Lab,Poké Ball,5,NPC Gift,Given by Professor Birch
+Hoenn,Littleroot Town,Player's House,Running Shoes,1,NPC Gift,Talk to Mom
+Hoenn,Littleroot Town,Player's House,S.S. Ticket,1,Event,Post-E4 event
+Hoenn,Littleroot Town,Player's House,Amulet Coin,1,NPC Gift,Talk to Mom twice (Post-E4)
+Hoenn,Oldale Town,Main Town,Potion,1,NPC Gift,Talk to guy east of Pokecenter
+Hoenn,Petalburg City,Gym,TM - Facade,1,Gym,Defeat Gym Leader Norman
+Hoenn,Petalburg City,Gym,HM-Surf,1,Event,Received after beating Norman
+Hoenn,Petalburg City,Water,Revive,1,Overworld,Surf north east
+Hoenn,Petalburg City,Water,Rare Candy,1,Hidden,Surf south west
+Hoenn,Petalburg City,Water,Super Potion,1,Overworld,Surf south west
+Hoenn,Rustboro City,Main City,Great Ball,1,Overworld,Follow path north east
+Hoenn,Rustboro City,SW House,Great Ball,1,NPC Gift,Talk to the kid upstairs
+Hoenn,Rustboro City,Cutter's House,HM-Cut,1,NPC Gift,House west of Pokecenter
+Hoenn,Rustboro City,NE House,Quick Claw,1,NPC Gift,House north east of Pokecenter
+Hoenn,Rustboro City,Gym,TM - Rock Tomb,1,Gym,Defeat Gym Leader Roxanne
+Hoenn,Rustboro City,Devon Corp,Great Ball,1,NPC Gift,Talk to guy with glasses
+Hoenn,Rustboro City,Devon Corp,Letter,1,NPC Gift,Given by Mr. Stone
+Hoenn,Rustboro City,Devon Corp,PokeNav,1,NPC Gift,Given by Mr. Stone
+Hoenn,Rustboro City,Devon Corp,Exp. Share,1,NPC Gift,Mr. Stone (after delivering Letter)
+Hoenn,Dewford Town,Main Town,Old Rod,1,NPC Gift,Talk to Fisher outside
+Hoenn,Dewford Town,Gym,TM - Bulk Up,1,Gym,Defeat Gym Leader Brawly
+Hoenn,Dewford Town,North House,TM - Sludge Bomb,1,NPC Gift,Talk to walking guy
+Hoenn,Slateport City,Aqua Event,TM - Thief,1,NPC Gift,First Aqua member in museum
+Hoenn,Slateport City,Main City,Powder Jar,1,NPC Gift,Girl with brown hair
+Hoenn,Slateport City,Main City,Effort Ribbon,1,NPC Gift,Show pokemon with 510 EVs
+Hoenn,Slateport City,Pokemon Fan Club,TM - Swagger,1,NPC Gift,Guy south east in the club
+Hoenn,Slateport City,NW House,TM - Torment,1,NPC Gift,Talk to Sailor
+Hoenn,Slateport City,Stern's Shipyard,DeepSeaTooth OR DeepSeaScale,1,NPC Gift,Trade the Scanner to Capt. Stern
+Hoenn,Slateport City,Pokemon Fan Club,Soothe Bell,1,NPC Gift,Show high happiness pokemon
+Hoenn,Mauville City,First House,Coin Case,1,NPC Gift,Talk to girl
+Hoenn,Mauville City,Main City,Super Potion,1,Overworld,Floor loot
+Hoenn,Mauville City,House E of Mart,HM-Rock Smash,1,NPC Gift,Talk to guy
+Hoenn,Mauville City,Rydel's Cycles,Bicycle (Mach/Acro),1,NPC Gift,Talk to Rydel
+Hoenn,Mauville City,Main City,TM - Rollout,1,NPC Gift,Fat guy near gym
+Hoenn,Mauville City,House S of Gym,Doll,1,NPC Gift,Girl near tree inside
+Hoenn,Mauville City,Gym,TM - Shock Wave,1,Gym,Defeat Gym Leader Wattson
+Hoenn,Mauville City,Main City,Basement Key,1,NPC Gift,Wattson (post-gym)
+Hoenn,Mauville City,Main City,TM - Thunderbolt,1,NPC Gift,Wattson (after New Mauville)
+Hoenn,Fallarbor Town,Pokemart,TM - Metronome,1,NPC Gift,Talk to girl
+Hoenn,Fallarbor Town,Crater,Nugget,1,Hidden,In the crater
+Hoenn,Fallarbor Town,West House,TM - Natural Gift,1,NPC Gift,Talk to guy (Post-E4)
+Hoenn,Lavaridge Town,Hot Springs,Tamato Berry,1,Hidden,In the water
+Hoenn,Lavaridge Town,Hot Springs Area,Wobbuffet Egg,1,NPC Gift,Old woman
+Hoenn,Lavaridge Town,Herb Shop,Charcoal,1,NPC Gift,Talk to the guy
+Hoenn,Lavaridge Town,House S of Mart,TM - Mimic,1,NPC Gift,Talk to kid
+Hoenn,Lavaridge Town,Gym,TM - Overheat,1,Gym,Defeat Gym Leader Flannery
+Hoenn,Lavaridge Town,Main Town,Go-Goggles,1,Event,Received from Rival
+Hoenn,Verdanturf Town,Pokecenter,TM - Fury Cutter,1,NPC Gift,Talk to kid
+Hoenn,Verdanturf Town,Wanda's House,TM - Charm,1,NPC Gift,Talk to girl
+Hoenn,Fortree City,House 2,TM - Sleep Talk,1,NPC Gift,Talk to guy
+Hoenn,Fortree City,Gym,TM - Aerial Ace,1,Gym,Defeat Gym Leader Winona
+Hoenn,Fortree City,House 4,Mental Herb,1,NPC Gift,Talk to guy with Wingull
+Hoenn,Lilycove City,Contest Hall,Pokeblock Case,1,NPC Gift,Talk to receptionist
+Hoenn,Lilycove City,Main City,Max Repel,1,Overworld,South east
+Hoenn,Lilycove City,House East,TM - Rest,1,NPC Gift,Talk to guy
+Hoenn,Lilycove City,Beach,PP Up,1,Hidden,In rock
+Hoenn,Lilycove City,Beach,Poké Ball,1,Hidden,In rock
+Hoenn,Lilycove City,Beach,Heart Scale,1,Hidden,In rock
+Hoenn,Lilycove City,Dept Store (5F),TM - Substitute,1,NPC Gift,Talk to NPC (Post-E4)
+Hoenn,Mossdeep City,Main City,TM - DynamicPunch,1,NPC Gift,Talk to martial artist
+Hoenn,Mossdeep City,Main City,Net Ball,1,Overworld,South east
+Hoenn,Mossdeep City,Space Center,Sun Stone,1,NPC Gift,Talk to Sailor
+Hoenn,Mossdeep City,East House,Super Rod,1,NPC Gift,Talk to Fisher
+Hoenn,Mossdeep City,Main City,King's Rock,1,NPC Gift,Talk to guy west of PC
+Hoenn,Mossdeep City,Gym,TM - Calm Mind,1,Gym,Defeat Gym Leaders Tate & Liza
+Hoenn,Mossdeep City,Steven's House,HM-Dive,1,Event,Given by Steven
+Hoenn,Mossdeep City,Steven's House,Beldum,1,NPC Gift,Pick up pokeball (Post-E4)
+Hoenn,Sootopolis City,Pokecenter,TM - Double-Edge,1,NPC Gift,Talk to girl
+Hoenn,Sootopolis City,Event,HM-Waterfall,1,Event,Given by Wallace
+Hoenn,Sootopolis City,Gym,TM - Water Pulse,1,Gym,Defeat Gym Leader Wallace
+Hoenn,Sootopolis City,NW House,TM - Brick Break,1,NPC Gift,Talk to guy
+Hoenn,Sootopolis City,East House,Wailmer Doll,1,NPC Gift,Talk to girl
+Hoenn,Pacifidlog Town,Pokecenter,TM - Explosion,1,NPC Gift,Talk to guy with yellow hair
+Hoenn,Pacifidlog Town,SW House,TM - Return OR TM - Frustration,1,NPC Gift,Depends on lead pokemon happiness
+Hoenn,Route 102,Grass,Potion,1,Overworld,South of girl trainer
+Hoenn,Route 103,Water,PP Up,1,Overworld,Cut tree past water
+Hoenn,Route 103,Main Path,Potion,1,Overworld,West step
+Hoenn,Route 104,South Path,Antidote,1,Hidden,South west
+Hoenn,Route 104,South Path,Lum Berry,1,Hidden,Ground
+Hoenn,Route 104,South Path,Potion,1,Hidden,Ground
+Hoenn,Route 104,South Path,Poké Ball,1,Overworld,Near Petalburg Woods ent.
+Hoenn,Route 104,North Path,TM - Bullet Seed,1,NPC Gift,First guy
+Hoenn,Route 104,North Path,Poké Ball,1,Hidden,In grass
+Hoenn,Route 104,North Path,Potion,1,Overworld,Ground
+Hoenn,Route 104,North Path,Super Potion,1,Hidden,Ground
+Hoenn,Route 104,Flower Shop,Wailmer Pail,1,NPC Gift,Blonde girl inside
+Hoenn,Route 104,Flower Shop,Chesto Berry,1,NPC Gift,Girl inside
+Hoenn,Route 104,South Path,Potion,1,Overworld,Cut tree
+Hoenn,Route 104,Flower Shop,White Herb,1,NPC Gift,Girl near house
+Hoenn,Route 104,Water,Super Potion,1,Overworld,Surf east
+Hoenn,Route 105,Island,Pearl,1,Hidden,Sand
+Hoenn,Route 105,Island,Stardust,1,Hidden,Sand
+Hoenn,Route 105,Island,Super Potion,1,Overworld,Sand
+Hoenn,Route 106,Beach,Heart Scale,1,Hidden,Sand
+Hoenn,Route 106,Beach,Stardust,1,Hidden,In rock
+Hoenn,Route 106,Beach,Poké Ball,1,Hidden,Sand
+Hoenn,Route 106,Beach,Super Repel,1,Overworld,East step
+Hoenn,Route 108,Water,Rare Candy,1,Hidden,In rock near ship
+Hoenn,Route 108,Ship Exterior,Stardust,1,Overworld,Floor loot
+Hoenn,Route 109,Beach,Ether,1,Hidden,Near kids
+Hoenn,Route 109,Beach,Soft Sand,1,NPC Gift,Talk to little girl
+Hoenn,Route 109,Beach,Revive,1,Hidden,Near old man
+Hoenn,Route 109,Beach,Heart Scale,1,Hidden,Near Sailor
+Hoenn,Route 109,Beach,Great Ball,1,Hidden,Near house
+Hoenn,Route 109,Seashore House,Soda Pop,6,NPC Gift,Defeat all trainers
+Hoenn,Route 109,Beach,Water Stone,1,Overworld,Sand
+Hoenn,Route 109,Beach,Pearl,1,Hidden,Near old man
+Hoenn,Route 109,Water,Pearl,1,Overworld,Surf SE
+Hoenn,Route 109,Water,Heart Scale,1,Hidden,Near couple
+Hoenn,Route 110,Main Path,Dire Hit,1,Overworld,East step
+Hoenn,Route 110,Main Path,Full Heal,1,Hidden,Ground
+Hoenn,Route 110,Main Path,Itemfinder,1,Event,Rival battle
+Hoenn,Route 110,Main Path,Great Ball,1,Hidden,Near 2 trainers
+Hoenn,Route 110,Main Path,Revive,1,Hidden,After 2 trainers
+Hoenn,Route 110,Main Path,Leppa Berry,1,Overworld,West step
+Hoenn,Route 110,Main Path,Poké Ball,1,Hidden,Ground
+Hoenn,Route 110,Water,Rare Candy,1,Overworld,Surf north
+Hoenn,Route 111,South Path,Elixir,1,Overworld,North step
+Hoenn,Route 111,Winstrate House,Macho Brace,1,NPC Gift,"Defeat family, talk to girl"
+Hoenn,Route 111,North Path,TM - Secret Power,1,NPC Gift,Talk to guy near tree
+Hoenn,Route 111,Desert,Stardust,1,Overworld,North step
+Hoenn,Route 111,Desert,Protein,1,Hidden,Near ruin maniac
+Hoenn,Route 111,Desert,Stardust,1,Hidden,In rock
+Hoenn,Route 111,Desert,Rare Candy,1,Hidden,In rock
+Hoenn,Route 111,Desert,TM - Sandstorm,1,Overworld,South east step
+Hoenn,Route 111,Water,HP Up,1,Overworld,Surf west
+Hoenn,Route 112,Ledges,Nugget,1,Overworld,Jump east
+Hoenn,Route 113,Main Path,Ether,1,Hidden,Near guy in blue hat
+Hoenn,Route 113,Main Path,Poison Barb,1,Overworld,Ground
+Hoenn,Route 113,Main Path,Nugget,1,Hidden,Ash pile
+Hoenn,Route 113,Main Path,Leppa Berry,1,Overworld,Ground
+Hoenn,Route 113,Glass Workshop,Soot Sack,1,NPC Gift,Talk to guy
+Hoenn,Route 113,Main Path,TM - Double Team,1,Hidden,Ash pile
+Hoenn,Route 113,Main Path,Super Potion,1,Overworld,Near 2 trainers
+Hoenn,Route 114,Fossil Maniac,TM - Dig,1,NPC Gift,Talk to kid
+Hoenn,Route 114,Main Path,TM - Roar,1,NPC Gift,Talk to guy with hat
+Hoenn,Route 114,Main Path,EnergyPowder,1,Overworld,After trainers
+Hoenn,Route 114,Main Path,Revive,1,Hidden,West step
+Hoenn,Route 114,Lanette's House,Lotad Doll,1,NPC Gift,Talk to Lanette
+Hoenn,Route 114,Main Path,Carbos,1,Hidden,In rock
+Hoenn,Route 114,Main Path,Star Piece,1,Overworld,Smash rock
+Hoenn,Route 114,Water,Rare Candy,1,Overworld,"Surf W, up waterfall"
+Hoenn,Route 115,Beach,Heart Scale,1,Hidden,Near blonde girl
+Hoenn,Route 115,Beach,Great Ball,1,Overworld,Smash rock
+Hoenn,Route 115,Beach,PP Up,1,Overworld,South step
+Hoenn,Route 115,North Area,Super Potion,1,Overworld,North step
+Hoenn,Route 115,North Area,Heal Powder,1,Overworld,Past old man
+Hoenn,Route 115,North Area,TM - Hurricane,1,Overworld,Up stairs
+Hoenn,Route 115,North Area,Lum Berry,1,Overworld,End of path
+Hoenn,Route 116,Main Path,Repel,1,Overworld,In grass
+Hoenn,Route 116,Main Path,Sitrus Berry,1,Overworld,East step
+Hoenn,Route 116,Post-Tunnel,Super Potion,1,Overworld,Cut tree
+Hoenn,Route 116,Post-Tunnel,Super Potion,1,Hidden,Cut 2 trees
+Hoenn,Route 116,Post-Tunnel,Leppa Berry,1,Overworld,North step
+Hoenn,Route 116,Post-Tunnel,BlackGlasses,1,Hidden,Near guy
+Hoenn,Route 116,Post-Tunnel,HP Up,1,Overworld,Ground
+Hoenn,Route 116,Post-Tunnel,Repeat Ball,1,NPC Gift,Talk to guy
+Hoenn,Route 117,Main Path,Revive,1,Overworld,Cut tree
+Hoenn,Route 117,Main Path,Dawn Stone,1,Overworld,South step
+Hoenn,Route 117,Main Path,Repel,1,Hidden,South step
+Hoenn,Route 118,Main Path,Heart Scale,1,Hidden,In rock
+Hoenn,Route 118,Beach,Good Rod,1,NPC Gift,Talk to fisher
+Hoenn,Route 118,Beach,Iron,1,Hidden,In rock
+Hoenn,Route 118,East Path,Hyper Potion,1,Overworld,South east step
+Hoenn,Route 119,Tall Grass,Super Repel,1,Overworld,North step
+Hoenn,Route 119,Tall Grass,Full Heal,1,Hidden,East step
+Hoenn,Route 119,Main Path,Razz Berry,1,Overworld,NE step
+Hoenn,Route 119,Tall Grass,Wiki Berry,1,Overworld,Surf NW
+Hoenn,Route 119,Main Path,Hyper Potion,1,Overworld,North step
+Hoenn,Route 119,Main Path,Elixir,1,Overworld,East step
+Hoenn,Route 119,Weather Inst.,Mystic Water,1,Overworld,South step outside
+Hoenn,Route 119,Main Path,HM-Fly,1,Event,Rival battle
+Hoenn,Route 119,Water/Acro,Great Ball,1,Hidden,Grass (Acro Bike)
+Hoenn,Route 119,Water/Acro,Leaf Stone,1,Overworld,Surf south
+Hoenn,Route 119,Water/Acro,Max Ether,1,Hidden,Near waterfall
+Hoenn,Route 119,Water/Acro,Nugget,1,Overworld,Post-waterfall
+Hoenn,Route 119,Water/Acro,Rare Candy,1,Overworld,Post-waterfall
+Hoenn,Route 119,Water/Acro,Calcium,1,Hidden,Acro jump west
+Hoenn,Route 120,Main Path,Rare Candy,1,Hidden,Cut trees
+Hoenn,Route 120,Bridge,Devon Scope,1,Event,Talk to Steven
+Hoenn,Route 120,Main Path,Revive,1,Hidden,Near bird trainer
+Hoenn,Route 120,Grass,Shiny Stone,1,Overworld,West step
+Hoenn,Route 120,South Path,Revive,1,Overworld,East step
+Hoenn,Route 120,South Path,Zinc,1,Hidden,South step
+Hoenn,Route 120,South Path,Nugget,1,Overworld,South west step
+Hoenn,Route 120,South Path,Sitrus Berry,1,Overworld,South step
+Hoenn,Route 120,Water,Full Heal,1,Overworld,Surf south
+Hoenn,Route 120,Grass,Rare Candy,1,Hidden,East step
+Hoenn,Route 121,Grass,HP Up,1,Hidden,Ground
+Hoenn,Route 121,Main Path,Enigma Berry,1,Overworld,South east step
+Hoenn,Route 121,Main Path,Revive,1,Overworld,East step
+Hoenn,Route 121,Main Path,Carbos,1,Overworld,North west step
+Hoenn,Route 121,Cut Tree,Full Heal,1,Hidden,Ground
+Hoenn,Route 121,Cut Tree,Nugget,1,Hidden,Ground
+Hoenn,Route 121,Grass,Max Revive,1,Hidden,Ground
+Hoenn,Route 123,East Path,PP Up,1,Hidden,Cut tree
+Hoenn,Route 123,East Path,Rare Candy,1,Hidden,South east step
+Hoenn,Route 123,East Path,TM - Giga Drain,1,NPC Gift,Show grass pokemon
+Hoenn,Route 123,East Path,Super Potion,1,Hidden,In rock
+Hoenn,Route 123,Ledges,Super Repel,1,Hidden,Jump puzzle
+Hoenn,Route 123,Ledges,Leppa Berry,1,Overworld,Jump puzzle
+Hoenn,Route 123,Ledges,Revival Herb,1,Overworld,Jump puzzle
+Hoenn,Route 123,Ledges,PP Up,1,Overworld,Jump puzzle
+Hoenn,Route 123,Ledges,Great Ball,1,Overworld,Jump puzzle
+Hoenn,Route 123,Ledges,Revive,1,Hidden,Jump puzzle
+Hoenn,Route 123,Ledges,Full Heal,1,Overworld,Jump puzzle
+Hoenn,Route 124,Dive Area 1,Heart Scale,1,Hidden,In hole
+Hoenn,Route 124,Dive Area 1,Big Pearl,1,Hidden,In hole
+Hoenn,Route 124,Dive Area 1,Pearl,1,Hidden,In hole
+Hoenn,Route 124,Water Area 1,Yellow Shard,1,Overworld,Surf west
+Hoenn,Route 124,Dive Area 1,Heart Scale,1,Hidden,In hole
+Hoenn,Route 124,Dive Area 1,Red Shard,1,Hidden,In hole
+Hoenn,Route 124,Water Area 1,Red Shard,1,Overworld,Surf SE
+Hoenn,Route 124,Dive Area 2,Green Shard,1,Hidden,In hole
+Hoenn,Route 124,Dive Area 2,Carbos,1,Hidden,In hole
+Hoenn,Route 124,Water Area 2,Blue Shard,1,Overworld,Surf NE
+Hoenn,Route 125,Island,Big Pearl,1,Overworld,North east step
+Hoenn,Route 126,Dive Area 1,Big Pearl,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Blue Shard,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Heart Scale,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Yellow Shard,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Pearl,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Iron,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Green Shard,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 1,Stardust,1,Hidden,In hole
+Hoenn,Route 126,Dive Area 2,Green Shard,1,Overworld,Post-dive surf west
+Hoenn,Route 127,Island,Super Repel,1,Overworld,West step
+Hoenn,Route 127,Island,Rare Candy,1,Overworld,South step
+Hoenn,Route 127,Dive Area,Pearl,1,Hidden,In rock underwater
+Hoenn,Route 127,Island,Carbos,1,Overworld,North west step
+Hoenn,Route 127,Dive Area,HP Up,1,Hidden,In rock underwater
+Hoenn,Route 127,Dive Area,Red Shard,1,Hidden,In rock underwater
+Hoenn,Route 127,Dive Area,Heart Scale,1,Hidden,In rock underwater
+Hoenn,Route 128,Dive Area,Protein,1,Hidden,In rock underwater
+Hoenn,Route 128,Island,Heart Scale,1,Hidden,Ground
+Hoenn,Route 128,Island,Heart Scale,1,Hidden,Ground NW from fisher
+Hoenn,Route 128,Dive Area,Pearl,1,Hidden,In rock underwater
+Hoenn,Route 128,Island,Stardust,1,Hidden,Ground NW
+Hoenn,Route 132,Water Currents,Protein,1,Overworld,Southern wave
+Hoenn,Route 132,Water Currents,Rare Candy,1,Overworld,Northern wave
+Hoenn,Route 133,Water Currents,Max Revive,1,Overworld,Southern wave
+Hoenn,Route 133,Water Currents,Pearl,1,Overworld,Northern wave
+Hoenn,Route 133,Water Currents,Star Piece,1,Overworld,Northern wave
+Hoenn,Route 134,Water Currents,Stardust,1,Overworld,NW wave
+Hoenn,Route 134,Water Currents,Pearl,1,Overworld,Southern wave
+Hoenn,Petalburg Woods,Main Path,Super Potion,1,Hidden,East step
+Hoenn,Petalburg Woods,Main Path,Parlyz Heal,1,Overworld,North step
+Hoenn,Petalburg Woods,Event,Great Ball,1,NPC Gift,Defeat Aqua Grunt
+Hoenn,Petalburg Woods,Main Path,Poké Ball,1,Hidden,Near bug trainer
+Hoenn,Petalburg Woods,Main Path,Oran Berry,1,Overworld,North step
+Hoenn,Petalburg Woods,Cut Area,TinyMushroom,1,Hidden,East step
+Hoenn,Petalburg Woods,Cut Area,Miracle Seed,1,NPC Gift,Talk to girl
+Hoenn,Petalburg Woods,Cut Area,Great Ball,1,Overworld,North east step
+Hoenn,Petalburg Woods,Cut Area,TinyMushroom,1,Hidden,South step
+Hoenn,Petalburg Woods,Cut Area,Pecha Berry,1,Overworld,North west step
+Hoenn,Rusturf Tunnel,Main Cave,Poké Ball,1,Overworld,North step
+Hoenn,Rusturf Tunnel,Event,Devon Goods,1,Event,Defeat Aqua Grunt
+Hoenn,Rusturf Tunnel,Rock Smash,Max Ether,1,Overworld,North step
+Hoenn,Rusturf Tunnel,Rock Smash,HM-Strength,1,NPC Gift,Smash rock
+Hoenn,Granite Cave,Entrance,HM-Flash,1,NPC Gift,Talk to hiker
+Hoenn,Granite Cave,B1F,Escape Rope,1,Overworld,West step
+Hoenn,Granite Cave,B2F,Poké Ball,1,Overworld,South step
+Hoenn,Granite Cave,B2F,Everstone,1,Hidden,In rock
+Hoenn,Granite Cave,Steven's Room,TM - Steel Wing,1,NPC Gift,Talk to Steven
+Hoenn,Granite Cave,Mach Bike,Repel,1,Overworld,Down stairs
+Hoenn,Granite Cave,Mach Bike,Rare Candy,1,Overworld,East step
+Hoenn,Granite Cave,Mach Bike,Everstone,1,Hidden,In rock
+Hoenn,Meteor Falls,Main Cave,Dragon Fang,1,Overworld,North step
+Hoenn,Meteor Falls,Main Cave,Moon Stone,1,Overworld,West step
+Hoenn,Meteor Falls,Waterfall,TM - Fissure,1,Overworld,Up stairs
+Hoenn,Meteor Falls,Waterfall,TM - Dragon Claw,1,Overworld,Surf north
+Hoenn,Meteor Falls,Waterfall,Stardust,1,Overworld,SE step
+Hoenn,Mt. Chimney,Peak,Meteorite,1,Event,Defeat Magma Boss
+Hoenn,Jagged Pass,Ledges,Full Heal,1,Hidden,Grass
+Hoenn,Jagged Pass,Ledges,Black Belt,1,Overworld,Jump east
+Hoenn,Jagged Pass,Ledges,Great Ball,1,Hidden,Jump south/west
+Hoenn,Mirage Tower,Top Floor,Root Fossil OR Claw Fossil,1,Overworld,Choose one
+Hoenn,New Mauville,Switch Puzzle,Repel,1,Overworld,East step
+Hoenn,New Mauville,Switch Puzzle,Escape Rope,1,Overworld,Near blue switch
+Hoenn,New Mauville,Switch Puzzle,Parlyz Heal,1,Overworld,NW step
+Hoenn,New Mauville,Switch Puzzle,Full Heal,1,Overworld,Follow path
+Hoenn,New Mauville,Switch Puzzle,Thunderstone,1,Overworld,Near red switch
+Hoenn,Scorched Slab,Cave,TM - Sunny Day,1,Overworld,North step
+Hoenn,Mt. Pyre,Interior Floor 1,Cleanse Tag,1,NPC Gift,Talk to girl
+Hoenn,Mt. Pyre,Interior Floor 3,Spell Tag,1,Overworld,Defeat couple
+Hoenn,Mt. Pyre,Interior Floor 4,Super Repel,1,Overworld,West step
+Hoenn,Mt. Pyre,Interior Floor 6,TM - Hex,1,Overworld,South step
+Hoenn,Mt. Pyre,Interior Holes,Lax Incense,1,Overworld,In hole
+Hoenn,Mt. Pyre,Interior Holes,Sea Incense,1,Overworld,In hole
+Hoenn,Mt. Pyre,Interior Lower,TM - Guard Swap,1,Overworld,West door
+Hoenn,Mt. Pyre,Interior Lower,Hyper Potion,1,Overworld,Follow path
+Hoenn,Mt. Pyre,Exterior Peak,Leppa Berry,1,Hidden,In tomb
+Hoenn,Mt. Pyre,Exterior Peak,Great Ball,1,Hidden,In tomb
+Hoenn,Mt. Pyre,Exterior Peak,Super Potion,1,Hidden,In tomb
+Hoenn,Mt. Pyre,Exterior Peak,Magma Emblem,1,Event,Talk to girl
+Hoenn,Mt. Pyre,Exterior Peak,Rare Candy,1,Hidden,Grass
+Hoenn,Magma Hideout,Main Cave,Full Restore,1,Overworld,NW room
+Hoenn,Magma Hideout,Main Cave,Elixir,1,Overworld,North room
+Hoenn,Magma Hideout,Main Cave,Rare Candy,1,Overworld,SW step
+Hoenn,Magma Hideout,Boss Area,PP Max,1,Overworld,First door
+Hoenn,Magma Hideout,Boss Area,Nugget,1,Overworld,West step
+Hoenn,Magma Hideout,Boss Area,Revive,1,Overworld,West step
+Hoenn,Magma Hideout,Exit,Escape Rope,1,Overworld,Past Boss
+Hoenn,Aqua Hideout,Teleporters,Muscle Band,1,Overworld,East portal
+Hoenn,Aqua Hideout,Electrodes,Nugget,1,Overworld,SW ball
+Hoenn,Aqua Hideout,Electrodes,Master Ball,1,Overworld,NW ball
+Hoenn,Aqua Hideout,Teleporters,Nest Ball,1,Overworld,SW portal
+Hoenn,Shoal Cave,Low Tide,Shell Bell,1,NPC Gift,Trade 4 Salt + 4 Shells
+Hoenn,Shoal Cave,Low Tide,NeverMeltIce,1,Overworld,B1F
+Hoenn,Shoal Cave,Low Tide,Shoal Salt,4,Overworld,Gathered from 4 distinct piles
+Hoenn,Shoal Cave,Low Tide,Focus Band,1,NPC Gift,Talk to guy
+Hoenn,Shoal Cave,Low Tide,NeverMeltIce,1,Overworld,Ice puzzle
+Hoenn,Shoal Cave,Low Tide,TM - Snowscape,1,Overworld,Ice puzzle
+Hoenn,Shoal Cave,High Tide,Shoal Shell,4,Overworld,Gathered from 4 distinct areas
+Hoenn,Shoal Cave,High Tide,Rare Candy,1,Overworld,West step
+Hoenn,Shoal Cave,High Tide,Stardust,1,Overworld,South door
+Hoenn,Seafloor Cavern,Deep Cave,TM - Weather Ball,1,Overworld,Boss room
+Hoenn,Abandoned Ship,Upper Deck,Pearl String,1,Overworld,NW room
+Hoenn,Abandoned Ship,Lower Deck,Dive Ball,1,Overworld,Broken door
+Hoenn,Abandoned Ship,Lower Deck,Escape Rope,1,Overworld,SW door
+Hoenn,Abandoned Ship,Lower Deck,Water Stone,1,Overworld,SE door
+Hoenn,Abandoned Ship,Lower Deck,Room 1 Key,1,Hidden,SE door
+Hoenn,Abandoned Ship,Lower Deck,TM - Rain Dance,1,Overworld,SW door
+Hoenn,Abandoned Ship,Lower Deck,Room 4 Key,1,Hidden,SW door
+Hoenn,Abandoned Ship,Lower Deck,Room 6 Key,1,Hidden,NW door
+Hoenn,Abandoned Ship,Lower Deck,Luxury Ball,1,Overworld,NE door
+Hoenn,Abandoned Ship,Lower Deck,Room 2 Key,1,Hidden,NE door
+Hoenn,Abandoned Ship,Lower Deck,Scanner,1,Overworld,Middle door
+Hoenn,Abandoned Ship,Dive Area,Revive,1,Overworld,Upstairs
+Hoenn,Abandoned Ship,Storage Room,Storage Key,1,Overworld,SW door
+Hoenn,Abandoned Ship,Storage Room,TM - Ice Beam,1,Overworld,NE door
+Hoenn,Safari Zone,Acro Bike Area,Calcium,1,Overworld,NW step
+Hoenn,Safari Zone,Surf Area,Chesto Berry,1,Overworld,SW step
+Hoenn,Safari Zone,Surf Area,TM - Solarbeam,1,Overworld,North step
+Hoenn,Safari Zone,Deep Area,PP Up,1,Hidden,Near fat guy
+Hoenn,Safari Zone,Deep Area,Nugget,1,Hidden,Near fat guy
+Hoenn,Safari Zone,Waterfall,Figy Berry,1,Overworld,North step
+Hoenn,Safari Zone,Waterfall,Rare Candy,1,Hidden,North step
+Hoenn,Safari Zone,NW Area,Zinc,1,Hidden,West step
+Hoenn,Safari Zone,NW Area,Nugget,1,Overworld,West step
+Hoenn,S.S. Tidal,Cabins,TM - Snatch,1,NPC Gift,NE room
+Hoenn,S.S. Tidal,Basement,Leftovers,1,Hidden,Trash can
+Hoenn,Battle Frontier,Entrance,Frontier Pass,1,Event,Automatic upon entering
+Hoenn,Battle Frontier,Small House,10 BP,1,NPC Gift,Talk to Scott
+Hoenn,Artisan Cave,B1F,Iron,1,Hidden,In rock
+Hoenn,Artisan Cave,B1F,HP Up,1,Overworld,East step
+Hoenn,Artisan Cave,B1F,Zinc,1,Hidden,In rock
+Hoenn,Artisan Cave,B1F,Calcium,1,Hidden,In rock
+Hoenn,Artisan Cave,B1F,Protein,1,Hidden,In rock
+Hoenn,Artisan Cave,B1F,Carbos,1,Overworld,Up stairs
+Hoenn,Desert Underpass,Fossil Room,Claw Fossil OR Root Fossil,1,Overworld,Fossil not chosen in Mirage Tower
+Hoenn,Fiery Path,Strength Area,TM - Toxic,1,Overworld,Push puzzle
+Hoenn,Fiery Path,Strength Area,Fire Stone,1,Overworld,Push puzzle
+Hoenn,Victory Road,Floor 1,Max Elixir,1,Overworld,South step
+Hoenn,Victory Road,B1F,PP Up,1,Overworld,Up stairs
+Hoenn,Victory Road,B1F,Revive,1,Hidden,Near PP Up
+Hoenn,Victory Road,B1F,Full Restore,1,Overworld,Smash rock
+Hoenn,Victory Road,B2F,Max Repel,1,Hidden,Surf north
+Hoenn,Victory Road,B2F,TM - Psychic,1,Overworld,NE stairs
+Hoenn,Victory Road,B2F,Full Heal,1,Overworld,Surf NE
+Hoenn,Victory Road,B2F,Elixir,1,Hidden,East step
+Sinnoh,Twinleaf Town,Route 201,Starter Pokemon,1,NPC Gift,Click the briefcase
+Sinnoh,Twinleaf Town,Mom's House,Running Shoes,1,NPC Gift,Given by Mom
+Sinnoh,Twinleaf Town,Mom's House,Journal,1,NPC Gift,Talk to Mom (if not first region)
+Sinnoh,Twinleaf Town,Mom's House,Parcel,1,NPC Gift,Given by Mom
+Sinnoh,Twinleaf Town,Water,Odd Keystone,1,Hidden,Surf south of town
+Sinnoh,Sandgem Town,Prof. Rowan's Lab,Pokedex,1,NPC Gift,Given by Prof. Rowan
+Sinnoh,Sandgem Town,Main Town,TM - Return,1,NPC Gift,Given by Lucas/Dawn upon exiting lab
+Sinnoh,Sandgem Town,Prof. Rowan's Lab,National Pokedex,1,NPC Gift,See 278 Pokemon in Sinnoh Dex
+Sinnoh,Jubilife City,Main City,Stardust,1,Hidden,Near city entrance
+Sinnoh,Jubilife City,Main City,Vs. Recorder,1,NPC Gift,Given upon entering city
+Sinnoh,Jubilife City,Trainer School,Town Map,1,NPC Gift,Talk to Rival
+Sinnoh,Jubilife City,Trainer School,X Attack,1,Overworld,Inside building
+Sinnoh,Jubilife City,Trainer School,Potion,1,NPC Gift,Talk to guy with glasses
+Sinnoh,Jubilife City,Main City,Coupon 1,1,NPC Gift,Talk to Clown east of Pokemart
+Sinnoh,Jubilife City,Main City,Coupon 2,1,NPC Gift,Talk to Clown west
+Sinnoh,Jubilife City,Main City,Coupon 3,1,NPC Gift,Talk to Clown west
+Sinnoh,Jubilife City,Main City,Potion,1,Overworld,South of Clowns
+Sinnoh,Jubilife City,Poketch Co.,Poketch,1,NPC Gift,Talk to guy near Pokemart
+Sinnoh,Jubilife City,Condominiums,Quick Claw,1,NPC Gift,Talk to girl
+Sinnoh,Jubilife City,Jubilife TV,Mask,1,NPC Gift,Talk to guy with glasses
+Sinnoh,Jubilife City,Gate to 218,Old Rod,1,NPC Gift,Talk to Fisher
+Sinnoh,Oreburgh City,NW Condos,Dusk Ball,1,NPC Gift,"2F, talk to person"
+Sinnoh,Oreburgh City,Pokecenter,Pal Pad,1,NPC Gift,Go downstairs
+Sinnoh,Oreburgh City,SE Condos,Great Ball,1,NPC Gift,"2F, talk to person"
+Sinnoh,Oreburgh City,Mine Area,Dire Hit,1,Overworld,"South of PC, then west"
+Sinnoh,Oreburgh City,Mine Area,Yellow Shard,1,Overworld,South of PC
+Sinnoh,Oreburgh City,Mine Area,Pearl,1,Hidden,South of PC
+Sinnoh,Oreburgh City,Mine Area,Heart Scale,1,Hidden,South of PC
+Sinnoh,Oreburgh City,Mine Area,Super Potion,1,NPC Gift,Talk to worker
+Sinnoh,Oreburgh City,House W of Mart,Heal Ball,1,NPC Gift,Show Geodude
+Sinnoh,Oreburgh City,Gym,TM - Stealth Rock,1,Gym,Defeat Gym Leader Roark
+Sinnoh,Floaroma Town,NW House (PC),TM - Pluck,1,NPC Gift,Talk to little girl
+Sinnoh,Floaroma Town,Flower Shop,Sprayduck,1,NPC Gift,Talk to west girl
+Sinnoh,Floaroma Town,Flower Shop,Random Berry,1,NPC Gift,Talk to east girl
+Sinnoh,Floaroma Town,Main Town,Gracidea,1,NPC Gift,Show Shaymin as lead
+Sinnoh,Eterna City,Statue,Draco Plate,1,Hidden,Near Dialga/Palkia statue
+Sinnoh,Eterna City,Main City,HM-Cut,1,Event,Given by Cynthia
+Sinnoh,Eterna City,Condominiums,TM - Recycle,1,NPC Gift,"2F, talk to old woman"
+Sinnoh,Eterna City,Main City,Super Potion,1,Overworld,Behind Gym
+Sinnoh,Eterna City,Main City,TM - Retaliate,1,Overworld,Cut tree north east
+Sinnoh,Eterna City,Event,Togepi Egg,1,NPC Gift,Given by Cynthia near bike shop
+Sinnoh,Eterna City,Bike Shop,Bicycle,1,NPC Gift,Talk to owner after saving him
+Sinnoh,Eterna City,Gate to 206,Exp. Share,1,NPC Gift,Requires 35+ seen Pokemon
+Sinnoh,Eterna City,Gym,TM - Grass Knot,1,Gym,Defeat Gym Leader Gardenia
+Sinnoh,Hearthome City,Fan Club,Shell Bell,1,NPC Gift,"Take elevator, talk to girl"
+Sinnoh,Hearthome City,Bebe's House,Eevee,1,NPC Gift,Talk to Bebe
+Sinnoh,Hearthome City,Contest Hall,Glitter Powder,1,NPC Gift,Inside building
+Sinnoh,Hearthome City,Contest Hall,Tuxedo OR Dress,1,NPC Gift,Inside building
+Sinnoh,Hearthome City,Contest Hall,Mild Poffin,1,NPC Gift,Talk to guy with purple hair
+Sinnoh,Hearthome City,Main City,BigMushroom,1,Hidden,Tree north of PC
+Sinnoh,Hearthome City,Gym,TM - Shadow Claw,1,Gym,Defeat Gym Leader Fantina
+Sinnoh,Solaceon Town,Ledges,BigMushroom,1,Hidden,Tree near 3 ledges
+Sinnoh,Solaceon Town,Ledges,PP Up,1,Overworld,Jump down 3 ledges
+Sinnoh,Veilstone City,Main City,Calcium,1,Hidden,North east step
+Sinnoh,Veilstone City,Main City,Star Piece,1,Overworld,North step
+Sinnoh,Veilstone City,Main City,PP Up,1,Hidden,Near trees by Dept Store
+Sinnoh,Veilstone City,Dept Store,Mask,1,NPC Gift,Talk to old lady
+Sinnoh,Veilstone City,Dept Store (5F),Sticky Barb,1,NPC Gift,Talk to fat guy
+Sinnoh,Veilstone City,House N of PC,Porygon,1,NPC Gift,Talk to guy
+Sinnoh,Veilstone City,Meteorites,Star Piece,1,Hidden,South east corner
+Sinnoh,Veilstone City,Gym Area,TM - Embargo,1,NPC Gift,Talk to guy SW near Gym
+Sinnoh,Veilstone City,House W of Casino,Coin Case,1,NPC Gift,Guess Clown's hand
+Sinnoh,Veilstone City,Main City,Rare Candy,1,Overworld,Behind Galactic HQ
+Sinnoh,Veilstone City,Main City,Antidote,1,Overworld,Rock climb SE from Gym
+Sinnoh,Veilstone City,Gym,TM - Drain Punch,1,Gym,Defeat Gym Leader Maylene
+Sinnoh,Pastoria City,Main City,Mask,1,NPC Gift,Talk to parasol girl
+Sinnoh,Pastoria City,House N of Mart,Macho Brace,1,NPC Gift,Show male + female Combee
+Sinnoh,Pastoria City,House W of Mart,Random Berry,1,NPC Gift,Talk to adult girl
+Sinnoh,Pastoria City,Main City,Zinc,1,Hidden,South west step
+Sinnoh,Pastoria City,Water,Mystic Water,1,Overworld,Surf NE from Mart
+Sinnoh,Pastoria City,Gym,TM - Brine,1,Gym,Defeat Gym Leader Crasher Wake
+Sinnoh,Celestic Town,Pokecenter,Great Ball,1,NPC Gift,High happiness lead
+Sinnoh,Celestic Town,Main Town,Dragon Fang,1,Overworld,Near Pokecenter
+Sinnoh,Celestic Town,NW House,BlackGlasses OR Wise Glasses,1,NPC Gift,Talk to guy (Depends on Day/Night)
+Sinnoh,Celestic Town,Main Town,Potion,1,Hidden,West of Galactic Grunt
+Sinnoh,Celestic Town,Ruins,HM-Surf,1,Event,Defeat Galactic Boss
+Sinnoh,Canalave City,First House,TM - Skill Swap,1,NPC Gift,Talk to girl
+Sinnoh,Canalave City,Gym,TM - Flash Cannon,1,Gym,Defeat Gym Leader Byron
+Sinnoh,Canalave City,Water,Big Pearl,1,Hidden,South of Gym
+Sinnoh,Canalave City,Water,TM - Gyro Ball,1,Overworld,Surf south of Gym
+Sinnoh,Snowpoint City,Main City,Ultra Ball,1,Overworld,South east step
+Sinnoh,Snowpoint City,Main City,Rare Candy,1,Hidden,East of Gym
+Sinnoh,Snowpoint City,Gym,TM - Avalanche,1,Gym,Defeat Gym Leader Candice
+Sinnoh,Sunyshore City,Main City,Zap Plate,1,Hidden,SE building exterior
+Sinnoh,Sunyshore City,Main City,Thunder Stone,1,Overworld,North step
+Sinnoh,Sunyshore City,Main City,Carbos,1,Hidden,North of Pokemart
+Sinnoh,Sunyshore City,Main City,HM-Waterfall,1,NPC Gift,Talk to Jasmine
+Sinnoh,Sunyshore City,Market,Effort Ribbon,1,NPC Gift,Show pokemon with 510 EVs
+Sinnoh,Sunyshore City,Gym,TM - Charge Beam,1,Gym,Defeat Gym Leader Volkner
+Sinnoh,Route 201,Main Path,Potion,1,NPC Gift,Talk to guy in grass
+Sinnoh,Route 202,Main Path,Poké Ball,5,Event,Catching tutorial
+Sinnoh,Route 202,Main Path,Potion,1,Overworld,West step
+Sinnoh,Route 203,Main Path,Poké Ball,1,Overworld,Grass path
+Sinnoh,Route 203,Main Path,Repel,1,Overworld,North west
+Sinnoh,Route 203,Main Path,X Defend,1,Overworld,Near cave
+Sinnoh,Route 204,South Path,Parlyz Heal,1,Overworld,Grass
+Sinnoh,Route 204,North Path,Awakening,1,Overworld,Near girl trainer
+Sinnoh,Route 204,North Path,TM - Bullet Seed,1,Overworld,West step
+Sinnoh,Route 204,Water,Poké Ball,1,Overworld,Surf SW
+Sinnoh,Route 204,Water,HP Up,1,Overworld,Surf NE
+Sinnoh,Route 204,North Path,TM - Captivate,1,NPC Gift,"Cut tree, talk to girl"
+Sinnoh,Route 205,Bridge Area,X Sp. Def,1,Overworld,North step
+Sinnoh,Route 205,Bridge Area,Stardust,1,Hidden,Near girl
+Sinnoh,Route 205,Bridge Area,Heal Ball,1,Overworld,West step
+Sinnoh,Route 205,Bridge Area,Repel,1,Overworld,Near house
+Sinnoh,Route 205,Bridge Area,Super Potion,1,Overworld,South of house
+Sinnoh,Route 205,North Path,Super Potion,1,Hidden,North east
+Sinnoh,Route 205,North Path,Guard Spec.,1,Overworld,West step
+Sinnoh,Route 206,Bike Road,PP Up,1,Overworld,Cut tree
+Sinnoh,Route 206,Under Bridge,Ether,1,Hidden,Grass
+Sinnoh,Route 206,Under Bridge,Burn Heal,1,Overworld,West step
+Sinnoh,Route 206,Under Bridge,TinyMushroom,1,Hidden,North step
+Sinnoh,Route 206,Under Bridge,Super Repel,1,Overworld,East step
+Sinnoh,Route 206,Under Bridge,Poison Barb,1,Overworld,West from hiker
+Sinnoh,Route 207,Main Path,Poké Ball,1,Overworld,Grass
+Sinnoh,Route 207,Main Path,Poké Ball,1,Hidden,Grass
+Sinnoh,Route 207,Main Path,Rare Candy,1,Hidden,Near hiker
+Sinnoh,Route 207,Main Path,Revive,1,Overworld,South step
+Sinnoh,Route 207,Main Path,Revive,1,Hidden,Near blonde trainer
+Sinnoh,Route 207,Ledges,Super Potion,1,Overworld,West step
+Sinnoh,Route 207,Ledges,Great Ball,1,Hidden,East step
+Sinnoh,Route 207,Event,Vs. Seeker,1,Event,Given by Lucas/Dawn
+Sinnoh,Route 207,Event,Dowsing Machine,1,Event,Given by Lucas/Dawn
+Sinnoh,Route 207,Deep Area,Timer Ball,1,Overworld,From Mt. Coronet exit
+Sinnoh,Route 207,Deep Area,Iron,1,Overworld,From Mt. Coronet exit
+Sinnoh,Route 208,Main Path,Great Ball,1,Overworld,North step
+Sinnoh,Route 208,Main Path,Ether,1,Overworld,Smash rock
+Sinnoh,Route 208,Berry Master,Random Berry,1,NPC Gift,Talk to old man
+Sinnoh,Route 208,Main Path,Odd Keystone,1,NPC Gift,Talk to fighter
+Sinnoh,Route 208,Main Path,TinyMushroom,1,Hidden,Grass
+Sinnoh,Route 208,Waterfalls,Star Piece,1,Hidden,In wall (Rock climb)
+Sinnoh,Route 208,Waterfalls,Carbos,1,Overworld,Up waterfall
+Sinnoh,Route 209,Main Path,Great Ball,1,Hidden,Grass
+Sinnoh,Route 209,Main Path,Great Ball,1,Overworld,Near fisher
+Sinnoh,Route 209,Main Path,Good Rod,1,NPC Gift,Talk to fisher
+Sinnoh,Route 209,Main Path,Super Repel,1,Hidden,NE step
+Sinnoh,Route 209,Main Path,Hyper Potion,1,Overworld,Near Pikachu
+Sinnoh,Route 209,Main Path,Revive,1,Hidden,Near girl
+Sinnoh,Route 209,Main Path,Ether,1,Overworld,North of girl
+Sinnoh,Route 209,Main Path,Stardust,1,Hidden,In rock
+Sinnoh,Route 209,Bike Path,Calcium,1,Overworld,Fast bike speed
+Sinnoh,Route 209,Cut Tree,TM - Steel Wing,1,Overworld,Cut tree
+Sinnoh,Route 209,Water,TM - Leaf Storm,1,Overworld,Surf east
+Sinnoh,Route 210,Main Path,TM - Roost,1,NPC Gift,Talk to girl
+Sinnoh,Route 210,Grass,Super Repel,1,Overworld,North step
+Sinnoh,Route 210,Grass,Rare Candy,1,Hidden,Grass
+Sinnoh,Route 210,North Path,Max Repel,1,Overworld,West step
+Sinnoh,Route 210,North Path,Full Heal,1,Hidden,Tall grass
+Sinnoh,Route 210,North Path,Hyper Potion,1,Hidden,Tall grass
+Sinnoh,Route 210,North Path,Hyper Potion,1,Overworld,NW step
+Sinnoh,Route 210,North Path,Ultra Ball,1,Hidden,Tall grass
+Sinnoh,Route 210,North Path,Ultra Ball,1,Hidden,Tall grass (West)
+Sinnoh,Route 210,North Path,Nest Ball,1,Overworld,Regular grass
+Sinnoh,Route 210,Defog Area,Red Shard,1,Overworld,NW step
+Sinnoh,Route 210,Defog Area,TM - Shadow Ball,1,Overworld,Smash rock
+Sinnoh,Route 210,Defog Area,Smoke Ball,1,Overworld,West step
+Sinnoh,Route 210,Defog Area,TM - Draco Meteor,1,NPC Gift,Rock climb house
+Sinnoh,Route 210,Defog Area,Shiny Stone,1,Hidden,SW of house
+Sinnoh,Route 210,Defog Area,Zinc,1,Overworld,East step
+Sinnoh,Route 210,Waterfalls,Meadow Plate,1,Hidden,In wall
+Sinnoh,Route 210,Waterfalls,Full Heal,1,Overworld,Down 2nd waterfall
+Sinnoh,Route 211,Main Path,Great Ball,1,Hidden,Grass
+Sinnoh,Route 211,Deep Area,TM - Bide,1,Overworld,"Smash rock, down stairs"
+Sinnoh,Route 211,Celestic Side,Carbos,1,Overworld,SW step
+Sinnoh,Route 211,Celestic Side,TM - Psych Up,1,NPC Gift,Talk to guy
+Sinnoh,Route 211,Celestic Side,Calcium,1,Hidden,Rock climb
+Sinnoh,Route 211,Celestic Side,TM - Stored Power,1,Overworld,Rock climb
+Sinnoh,Route 212,Swamp,Hyper Potion,1,Hidden,Water
+Sinnoh,Route 212,Swamp,Ultra Ball,1,Hidden,Near Dawn Stone
+Sinnoh,Route 212,Swamp,Dawn Stone,1,Hidden,West step
+Sinnoh,Route 212,Swamp,Revive,1,Overworld,NE step
+Sinnoh,Route 212,Swamp,TM - Toxic,1,Overworld,South step
+Sinnoh,Route 212,Swamp,Hyper Potion,1,Overworld,"Cut tree, up stairs"
+Sinnoh,Route 212,Swamp,Zinc,1,Overworld,West step
+Sinnoh,Route 212,Swamp,Max Repel,1,Hidden,Water
+Sinnoh,Route 212,Swamp,Elixir,1,Overworld,Near Max Repel
+Sinnoh,Route 212,Swamp,Full Heal,1,Hidden,Water
+Sinnoh,Route 212,Swamp,Rare Candy,1,Hidden,South step
+Sinnoh,Route 212,Swamp,Max Ether,1,Hidden,Surf SW
+Sinnoh,Route 212,Swamp,TM - Silver Wind,1,Overworld,Up stairs
+Sinnoh,Route 212,Swamp,TM - Poison Jab,1,Overworld,Surf west
+Sinnoh,Route 212,North Area,BigMushroom,1,Hidden,West step
+Sinnoh,Route 212,North Area,Full Heal,1,Overworld,Near scientist
+Sinnoh,Route 212,North Area,Blue Shard,1,Overworld,North step
+Sinnoh,Route 212,North Area,Elixir,1,Overworld,Near water
+Sinnoh,Route 212,North Area,Ultra Ball,1,Hidden,East step
+Sinnoh,Route 212,North Area,Pearl,1,Hidden,West step
+Sinnoh,Route 212,North Area,Green Shard,1,Overworld,NE step
+Sinnoh,Route 212,Water,Potion,1,Overworld,"Cut tree, surf"
+Sinnoh,Route 212,North Area,TM - Fire Fang,1,Overworld,North step
+Sinnoh,Route 212,Water,Iron,1,Overworld,Surf east
+Sinnoh,Route 213,Beach,Max Revive,1,Hidden,On umbrella
+Sinnoh,Route 213,Beach,PP Up,1,Overworld,South step
+Sinnoh,Route 213,Footstep House,TM - Trick Room,1,NPC Gift,Talk to clown
+Sinnoh,Route 213,Beach,Suite Key,1,Hidden,SE step
+Sinnoh,Route 213,Beach,Yellow Shard,1,Overworld,Through house
+Sinnoh,Route 213,Beach,Pearl,1,Hidden,SE step
+Sinnoh,Route 213,Beach,Heart Scale,1,Hidden,SE step
+Sinnoh,Route 213,Beach,Pearl,1,Hidden,West step
+Sinnoh,Route 213,Beach,Pearl,1,Hidden,Near fisher
+Sinnoh,Route 213,Beach,Pearl,1,Hidden,SW step
+Sinnoh,Route 213,Beach,Heart Scale,1,Hidden,SW step
+Sinnoh,Route 213,Beach,Hyper Potion,1,Hidden,Smash rock
+Sinnoh,Route 213,Beach,TM - Skull Bash,1,Overworld,Smash rock
+Sinnoh,Route 213,Rock Climb,HP Up,1,Hidden,Grass
+Sinnoh,Route 213,Rock Climb,TM - Brave Bird,1,Overworld,Rock climb
+Sinnoh,Route 213,Water,Big Pearl,1,Hidden,West step
+Sinnoh,Route 213,Water,Max Revive,1,Overworld,West step
+Sinnoh,Route 213,Water,Water Stone,1,Overworld,South east step
+Sinnoh,Route 213,Water,Big Pearl,1,Hidden,In rock
+Sinnoh,Route 213,House Area,Protein,1,Overworld,Rock climb south
+Sinnoh,Route 213,House Area,Max Revive,1,Hidden,In trash can
+Sinnoh,Route 214,Main Path,Max Repel,1,Overworld,South east step
+Sinnoh,Route 214,Main Path,BigMushroom,1,Hidden,In tree
+Sinnoh,Route 214,Main Path,Carbos,1,Hidden,SW step
+Sinnoh,Route 214,Main Path,Magmarizer,1,Overworld,Smash rock
+Sinnoh,Route 214,Main Path,Razor Fang,1,Hidden,Tall grass
+Sinnoh,Route 214,Main Path,Big Root,1,Overworld,NE step
+Sinnoh,Route 214,Main Path,Red Shard,1,Overworld,SW step
+Sinnoh,Route 214,Water,Rare Candy,1,Overworld,Surf NE
+Sinnoh,Route 215,Main Path,Max Ether,1,Overworld,East step
+Sinnoh,Route 215,Main Path,TM - Payback,1,NPC Gift,Talk to fighter
+Sinnoh,Route 215,Main Path,Revive,1,Hidden,North step
+Sinnoh,Route 215,Main Path,Fist Plate,1,Overworld,Cut tree
+Sinnoh,Route 215,Main Path,Hyper Potion,1,Overworld,Jump ledge
+Sinnoh,Route 215,Main Path,Ultra Ball,1,Hidden,Grass
+Sinnoh,Route 215,Main Path,HP Up,1,Overworld,NE step
+Sinnoh,Route 215,Main Path,TM - Air Slash,1,Overworld,Cut tree
+Sinnoh,Route 215,Main Path,Iron,1,Hidden,SW step
+Sinnoh,Route 215,Main Path,Full Heal,1,Overworld,SW step
+Sinnoh,Route 216,Snow Path,PP Up,1,Hidden,West step
+Sinnoh,Route 216,Snow Path,Full Heal,1,Overworld,North/West
+Sinnoh,Route 216,Snow Path,Revive,1,Overworld,West step
+Sinnoh,Route 216,Upper Ledges,Mental Herb,1,Overworld,Rock climb
+Sinnoh,Route 216,Upper Ledges,HP Up,1,Overworld,East step
+Sinnoh,Route 216,Upper Ledges,Max Potion,1,Overworld,South step
+Sinnoh,Route 216,Upper Ledges,TM - Ice Beam,1,Overworld,Rock climb
+Sinnoh,Route 217,Snow Path,Blue Shard,1,Overworld,NW step
+Sinnoh,Route 217,Snow Path,Revival Herb,1,Hidden,NE step
+Sinnoh,Route 217,Snow Path,Nugget,1,Hidden,NW step
+Sinnoh,Route 217,Snow Path,Ultra Ball,1,Overworld,East step
+Sinnoh,Route 217,Snow Path,Full Heal,1,Hidden,Snow
+Sinnoh,Route 217,Snow Path,Iron,1,Overworld,NW step
+Sinnoh,Route 217,Snow Path,Ultra Ball,1,Hidden,NE step
+Sinnoh,Route 217,Snow Path,Iron,1,Hidden,SW step
+Sinnoh,Route 217,Snow Path,Protein,1,Hidden,NE step
+Sinnoh,Route 217,Snow Path,TM - Ice Fang,1,Overworld,Snow
+Sinnoh,Route 217,Snow Path,HM-Rock Climb,1,Overworld,North step
+Sinnoh,Route 217,Rock Climb House,Icicle Plate,1,NPC Gift,Talk to guy
+Sinnoh,Route 217,Snow Path,Max Repel,1,Hidden,East step
+Sinnoh,Route 217,Snow Path,Rare Candy,1,Overworld,East step
+Sinnoh,Route 217,Snow Path,Max Potion,1,Hidden,NE step
+Sinnoh,Route 217,Snow Path,Max Revive,1,Hidden,Near house
+Sinnoh,Route 217,Hex Maniac House,Spell Tag,1,NPC Gift,Talk to girl
+Sinnoh,Route 217,Snow Path,Ultra Ball,1,Hidden,SW step
+Sinnoh,Route 218,Main Path,X Accuracy,1,Overworld,NW step
+Sinnoh,Route 218,Water,Hyper Potion,1,Overworld,Surf SW
+Sinnoh,Route 218,Water,Rare Candy,1,Overworld,Surf NE
+Sinnoh,Route 219,Beach,Antidote,1,Overworld,SW step
+Sinnoh,Route 219,Water,Zinc,1,Hidden,Surf south
+Sinnoh,Route 220,Water,Max Repel,1,Overworld,SE step
+Sinnoh,Route 220,Water,Splash Plate,1,Overworld,SW step
+Sinnoh,Route 220,Water,Big Pearl,1,Hidden,In wall
+Sinnoh,Route 220,Water,Carbos,1,Overworld,East step
+Sinnoh,Route 221,Main Path,Protein,1,Overworld,East step
+Sinnoh,Route 221,Main Path,Ultra Ball,1,Overworld,SE step
+Sinnoh,Route 221,Main Path,Poké Ball,1,Overworld,NW step
+Sinnoh,Route 221,Main Path,BigMushroom,1,Hidden,In tree
+Sinnoh,Route 221,Main Path,Hyper Potion,1,Hidden,Grass
+Sinnoh,Route 221,Main Path,Max Revive,1,Hidden,Grass
+Sinnoh,Route 221,Main Path,Ultra Ball,1,Hidden,Grass
+Sinnoh,Route 221,Main Path,TM - Leaf Blade,1,Overworld,SE step
+Sinnoh,Route 221,Main Path,Carbos,1,Hidden,Grass
+Sinnoh,Route 222,Main Path,Full Restore,1,Overworld,SE step
+Sinnoh,Route 222,Cut Tree Area,Carbos,1,Overworld,Cut tree
+Sinnoh,Route 222,Cut Tree Area,Ultra Ball,1,Hidden,Grass
+Sinnoh,Route 222,Main Path,TM - Fling,1,NPC Gift,Talk to rich guy
+Sinnoh,Route 222,Pikachu House,Net Ball,1,NPC Gift,Show Big Remoraid
+Sinnoh,Route 222,Beach,PP Up,1,Overworld,Near houses
+Sinnoh,Route 222,Beach,Full Restore,1,Hidden,Grass
+Sinnoh,Route 222,Beach,Quick Ball,1,Overworld,Beach
+Sinnoh,Route 222,Beach,TinyMushroom,1,Hidden,Beach
+Sinnoh,Route 222,Water,BigMushroom,1,Hidden,Grass
+Sinnoh,Route 222,Beach,Heart Scale,1,Hidden,Beach
+Sinnoh,Route 222,Beach,Heart Scale,1,Hidden,West step
+Sinnoh,Route 222,Beach,Pearl,1,Hidden,West step
+Sinnoh,Route 223,Water,Heart Scale,1,Hidden,NW step
+Sinnoh,Route 223,Water,TM - ThunderFang,1,Overworld,West path
+Sinnoh,Route 223,Water,Ultra Ball,1,Overworld,NE step
+Sinnoh,Route 223,Water,Heart Scale,1,Hidden,West step
+Sinnoh,Route 223,Water,Dive Ball,1,Overworld,Follow path
+Sinnoh,Route 223,Water,Rare Candy,1,Overworld,NE step
+Sinnoh,Route 224,Main Path,Zinc,1,Hidden,SE step
+Sinnoh,Route 224,Main Path,Full Heal,1,Overworld,Grass
+Sinnoh,Route 224,Water,PP Max,1,Overworld,Surf east
+Sinnoh,Route 224,Main Path,Ultra Ball,1,Hidden,Grass
+Sinnoh,Route 224,Main Path,Rare Candy,1,Hidden,Grass
+Sinnoh,Route 224,Main Path,Pearl,1,Hidden,Near fighter
+Sinnoh,Route 224,Water,Razor Claw,1,Overworld,Surf SW
+Sinnoh,Route 224,Main Path,Heart Scale,1,Hidden,NE step
+Sinnoh,Route 224,Main Path,Big Pearl,1,Hidden,East step
+Sinnoh,Route 224,Main Path,Pearl,1,Hidden,In rock
+Sinnoh,Route 224,Water,Repeat Ball,1,Overworld,Surf NE
+Sinnoh,Route 224,Main Path,Ultra Ball,1,Overworld,West step
+Sinnoh,Route 224,Main Path,Destiny Knot,1,Overworld,NW step
+Sinnoh,Route 225,Main Path,Razor Fang,1,Overworld,Rock climb
+Sinnoh,Route 225,Main Path,Rare Candy,1,Overworld,Cut tree
+Sinnoh,Route 225,Ledges,HP Up,1,Overworld,Up stairs SW
+Sinnoh,Route 225,Ledges,Rare Candy,1,Hidden,Up stairs
+Sinnoh,Route 225,Main Path,BigMushroom,1,Hidden,Grass
+Sinnoh,Route 225,Main Path,Revive,1,Overworld,NW step
+Sinnoh,Route 225,Main Path,Leaf Stone,1,Hidden,Grass
+Sinnoh,Route 225,House,Fresh Water,1,NPC Gift,Talk to guy
+Sinnoh,Route 225,Cut Tree Area,Potion,1,Overworld,Cut tree
+Sinnoh,Route 225,Water,Poké Ball,1,Overworld,NW step
+Sinnoh,Route 225,Main Path,Green Shard,1,Overworld,Grass
+Sinnoh,Route 225,Main Path,Ultra Ball,1,Hidden,Grass
+Sinnoh,Route 225,Main Path,Dawn Stone,1,Overworld,Rock climb
+Sinnoh,Route 226,Main Path,Red Shard,1,Overworld,West of Survival Area
+Sinnoh,Route 226,Main Path,Carbos,1,Overworld,Rock climb
+Sinnoh,Route 226,Main Path,Lagging Tail,1,Overworld,Rock climb
+Sinnoh,Route 226,Main Path,TM - Energy Ball,1,Overworld,Rock climb
+Sinnoh,Route 226,Main Path,TinyMushroom,1,Hidden,Grass
+Sinnoh,Route 226,Main Path,PP Max,1,Hidden,Ground
+Sinnoh,Route 226,Main Path,BigMushroom,1,Hidden,Ground
+Sinnoh,Route 226,Water,Heart Scale,1,Hidden,Surf SW
+Sinnoh,Route 226,Water,Rare Candy,1,Hidden,Surf NE
+Sinnoh,Route 227,Event,Charcoal,1,Overworld,Rock climb east
+Sinnoh,Route 227,Bike Path,Yellow Shard,1,Overworld,NW step
+Sinnoh,Route 227,Ledges,Max Repel,1,Hidden,Rock climb
+Sinnoh,Route 227,Ledges,Zinc,1,Overworld,South step
+Sinnoh,Route 227,Ledges,Star Piece,1,Hidden,In rock
+Sinnoh,Route 228,Desert Path,Max Repel,1,Hidden,Near trainer
+Sinnoh,Route 228,Desert Path,Antidote,1,Overworld,SE step
+Sinnoh,Route 228,Desert Path,Rare Candy,1,Hidden,South step
+Sinnoh,Route 228,Desert Cave,Hard Stone,1,Overworld,In cave
+Sinnoh,Route 228,Desert Cave,Nugget,1,Hidden,In cave
+Sinnoh,Route 228,Desert Path,Iron,1,Overworld,South step
+Sinnoh,Route 228,Desert Path,Full Heal,1,Overworld,Smash rock
+Sinnoh,Route 228,Desert Path,Full Restore,1,Hidden,Grass
+Sinnoh,Route 228,Desert Path,Star Piece,1,Hidden,In rock
+Sinnoh,Route 228,Desert Path,TM - Razor Wind,1,Overworld,SW step
+Sinnoh,Route 228,Muddy Slope,Shiny Stone,1,Overworld,Up slope
+Sinnoh,Route 228,Muddy Slope,PP Max,1,Hidden,Grass
+Sinnoh,Route 228,Desert Path,Calcium,1,Hidden,NE step
+Sinnoh,Route 229,Grass,Potion,1,Overworld,Cut tree
+Sinnoh,Route 229,Grass,Full Restore,1,Overworld,East step
+Sinnoh,Route 229,Main Path,Nugget,2,NPC Gift,Talk to guy
+Sinnoh,Route 229,Grass,Protein,1,Overworld,Cut tree
+Sinnoh,Route 229,Water,Thunder Stone,1,Hidden,Surf SW
+Sinnoh,Route 230,Island,Water Stone,1,Hidden,In wall
+Sinnoh,Route 230,Island,Rare Candy,1,Overworld,Up stairs
+Sinnoh,Route 230,Island,Ultra Ball,1,Hidden,NW step
+Sinnoh,Route 230,Island,Blue Shard,1,Overworld,Grass
+Sinnoh,Lake Verity,Main Lake,Tinymushroom,1,Hidden,Near entrance
+Sinnoh,Lake Verity,Water,TM - Fire Blast,1,Overworld,Surf SW
+Sinnoh,Oreburgh Gate,B1F,HM-Rock Smash,1,NPC Gift,Talk to Hiker
+Sinnoh,Oreburgh Gate,B1F (Surf),TM - Flash,1,Overworld,Surf puzzle
+Sinnoh,Oreburgh Gate,B1F (Surf),Big Pearl,1,Overworld,Ledge puzzle
+Sinnoh,Oreburgh Gate,B1F (Surf),TM - Reversal,1,Overworld,Bike jump puzzle
+Sinnoh,Oreburgh Gate,B1F (Surf),Earth Plate,1,Overworld,Surf west
+Sinnoh,Oreburgh Gate,B1F (Surf),TM - Focus Punch,1,Overworld,Push boulder
+Sinnoh,Oreburgh Mine,B1F,Poké Ball,1,Overworld,East step
+Sinnoh,Oreburgh Mine,B1F,Potion,1,Overworld,South east step
+Sinnoh,Oreburgh Mine,B1F,Escape Rope,1,Overworld,West step
+Sinnoh,Ravaged Path,Main Cave,Potion,1,Overworld,North step
+Sinnoh,Ravaged Path,Main Cave,TM - Smack Down,1,Overworld,West step
+Sinnoh,Ravaged Path,Surf Area,Antidote,1,Overworld,Surf NW
+Sinnoh,Ravaged Path,Surf Area,TM - Hydro Pump,1,Overworld,Surf NE
+Sinnoh,Valley Windworks,Exterior,Potion,1,Overworld,East step
+Sinnoh,Valley Windworks,Water,Electirizer,1,Overworld,Surf north
+Sinnoh,Valley Windworks,Exterior,Max Elixir,1,Hidden,Ground
+Sinnoh,Valley Windworks,Exterior,TM - Thunderbolt,1,Overworld,NE step
+Sinnoh,Floaroma Meadow,Event,Works Key,1,Event,Defeat Galactic Grunts
+Sinnoh,Floaroma Meadow,Event,Honey,10,NPC Gift,Defeat Galactic Grunts
+Sinnoh,Floaroma Meadow,Flowers,Honey,1,Hidden,South step
+Sinnoh,Floaroma Meadow,Flowers,Leaf Stone,1,Overworld,SW step
+Sinnoh,Floaroma Meadow,Flowers,Hyper Potion,1,Hidden,SE step
+Sinnoh,Floaroma Meadow,Flowers,Honey,1,Hidden,Near house
+Sinnoh,Floaroma Meadow,Flowers,PP Up,1,Hidden,North step
+Sinnoh,Floaroma Meadow,Flowers,Honey,1,Hidden,NW step
+Sinnoh,Floaroma Meadow,Flowers,Max Revive,1,Hidden,SW step
+Sinnoh,Floaroma Meadow,Flowers,Honey,1,Hidden,NW step
+Sinnoh,Floaroma Meadow,Flowers,Honey,1,Hidden,NW step
+Sinnoh,Floaroma Meadow,Flowers,Miracle Seed,1,Overworld,West step
+Sinnoh,Floaroma Meadow,Flowers,Revive,1,Hidden,Ground
+Sinnoh,Floaroma Meadow,Flowers,Ultra Ball,1,Overworld,SE step
+Sinnoh,Floaroma Meadow,Flowers,Full Heal,1,Hidden,South step
+Sinnoh,Floaroma Meadow,Flowers,Honey,1,Hidden,West step
+Sinnoh,Floaroma Meadow,Flowers,Rare Candy,1,Overworld,Ground
+Sinnoh,Eterna Forest,Main Path,Antidote,1,Overworld,West step
+Sinnoh,Eterna Forest,Main Path,Parlyz Heal,1,Overworld,NE step
+Sinnoh,Eterna Forest,Main Path,Net Ball,1,Overworld,South step
+Sinnoh,Eterna Forest,Main Path,Potion,1,Overworld,SE step
+Sinnoh,Eterna Forest,Main Path,Soothe Bell,1,Overworld,Cut tree
+Sinnoh,Eterna Forest,Main Path,Chansey Egg,1,Event,Escort Cheryl
+Sinnoh,Eterna Forest,Exterior,Big Tree,1,NPC Gift,Talk to girl
+Sinnoh,Eterna Forest,Exterior,SilverPowder,1,Overworld,South step
+Sinnoh,Eterna Forest,Exterior,TM - Amnesia,1,Overworld,East step
+Sinnoh,Eterna Forest,Old Chateau,Ether,1,Overworld,Exterior
+Sinnoh,Eterna Forest,Old Chateau,Insect Plate,1,Hidden,On wall
+Sinnoh,Old Chateau,2F,Rare Candy,1,Overworld,West room
+Sinnoh,Old Chateau,2F,Honey,1,Hidden,In box
+Sinnoh,Old Chateau,2F,Big Pearl,1,Overworld,East room
+Sinnoh,Old Chateau,1F,Old Gateau,1,Overworld,West room
+Sinnoh,Old Chateau,2F,Dread Plate,1,Overworld,NW room
+Sinnoh,Old Chateau,2F,Rotom,1,Event,Interact with TV at night
+Sinnoh,Old Chateau,2F,TM - Scary Face,1,Overworld,NE room
+Sinnoh,Galactic Eterna,1F,X Special,1,Overworld,Up stairs east
+Sinnoh,Galactic Eterna,2F,Blue Shard,1,Overworld,Up stairs east
+Sinnoh,Galactic Eterna,2F,Revive,1,Overworld,Near Shard
+Sinnoh,Galactic Eterna,3F,Up-Grade,1,Overworld,NE step
+Sinnoh,Galactic Eterna,1F,X Speed,1,Overworld,Up stairs west
+Sinnoh,Mt. Coronet,South Entrance,EnergyPowder,1,Hidden,In rock
+Sinnoh,Mt. Coronet,South Entrance,Revive,1,Hidden,South step
+Sinnoh,Mt. Coronet,South Entrance,Stardust,1,Hidden,In rock
+Sinnoh,Mt. Coronet,North Entrance,EnergyPowder,1,Hidden,In rock
+Sinnoh,Mt. Coronet,North Entrance,Ice Heal,1,Overworld,East step
+Sinnoh,Mt. Coronet,North Entrance,Stardust,1,Hidden,In rock
+Sinnoh,Mt. Coronet,North Entrance,TM - Power Gem,1,Overworld,NW step
+Sinnoh,Mt. Coronet,North Entrance,Escape Rope,1,Overworld,East step
+Sinnoh,Mt. Coronet,North Entrance,Star Piece,1,Hidden,In rock
+Sinnoh,Mt. Coronet,North Entrance,Rare Candy,1,Overworld,Push boulder
+Sinnoh,Mt. Coronet,North Entrance,Red Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Defog Area,Ultra Ball,1,Overworld,Down stairs
+Sinnoh,Mt. Coronet,Defog Area,Green Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Defog Area,Soft Sand,1,Overworld,North step
+Sinnoh,Mt. Coronet,Defog Area,Blue Shard,1,Hidden,Avoid water
+Sinnoh,Mt. Coronet,Surf Area,Light Clay,1,Overworld,Surf SE
+Sinnoh,Mt. Coronet,Surf Area,Max Elixir,1,Overworld,Surf NE
+Sinnoh,Mt. Coronet,Surf Area,Star Piece,1,Hidden,Smash rock
+Sinnoh,Mt. Coronet,Surf Area,Revive,1,Overworld,NE step
+Sinnoh,Mt. Coronet,Surf Area,Full Restore,1,Overworld,Follow path
+Sinnoh,Mt. Coronet,Surf Area,Rare Candy,1,Hidden,North step
+Sinnoh,Mt. Coronet,Route 216 Exit,Yellow Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Route 216 Exit,NeverMeltIce,1,Overworld,In room
+Sinnoh,Mt. Coronet,Route 216 Exit,Nugget,1,Hidden,In room
+Sinnoh,Mt. Coronet,Upper Peak,Dawn Stone,1,Overworld,Surf SE
+Sinnoh,Mt. Coronet,Upper Peak,Protein,1,Overworld,Surf east
+Sinnoh,Mt. Coronet,Upper Peak,Max Repel,1,Overworld,Rock climb
+Sinnoh,Mt. Coronet,Upper Peak,Red Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Peak,Escape Rope,1,Overworld,Push boulder
+Sinnoh,Mt. Coronet,Upper Peak,TM - Rock Slide,1,Overworld,Near room
+Sinnoh,Mt. Coronet,Upper Peak,Max Revive,1,Overworld,North step
+Sinnoh,Mt. Coronet,Upper Peak,Black Flute,1,Event,Talk to Looker
+Sinnoh,Mt. Coronet,Upper Cave,Star Piece,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Cave,Max Repel,1,Hidden,West step
+Sinnoh,Mt. Coronet,Upper Cave,Max Potion,1,Hidden,Grass
+Sinnoh,Mt. Coronet,Upper Cave,Energy Root,1,Hidden,Rock climb
+Sinnoh,Mt. Coronet,Upper Cave,Star Piece,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Cave,Blue Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Cave,Revival Herb,1,Hidden,Grass
+Sinnoh,Mt. Coronet,Upper Cave,Sun Stone,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Cave,Full Heal,1,Hidden,NE step
+Sinnoh,Mt. Coronet,Upper Cave,Ultra Ball,1,Hidden,SE step
+Sinnoh,Mt. Coronet,Upper Cave,Max Revive,1,Hidden,SW step
+Sinnoh,Mt. Coronet,Upper Cave,Star Piece,1,Hidden,In wall
+Sinnoh,Mt. Coronet,Upper Cave,Moon Stone,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Cave,Revival Herb,1,Hidden,Grass
+Sinnoh,Mt. Coronet,Upper Cave,Full Restore,1,Hidden,East step
+Sinnoh,Mt. Coronet,Upper Cave,Stardust,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Upper Cave,Energy Root,1,Hidden,Ground
+Sinnoh,Mt. Coronet,Upper Cave,Max Elixir,1,Hidden,SE step
+Sinnoh,Mt. Coronet,Upper Cave,Full Restore,1,Hidden,SE step
+Sinnoh,Mt. Coronet,Upper Cave,Rare Candy,1,Hidden,South step
+Sinnoh,Mt. Coronet,Spear Pillar,Stardust,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Spear Pillar,Yellow Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Spear Pillar,Heal Powder,1,Hidden,Ground
+Sinnoh,Mt. Coronet,Spear Pillar,Stone Plate,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Spear Pillar,Adamant Orb,1,Overworld,Room
+Sinnoh,Mt. Coronet,Spear Pillar,Lustrous Orb,1,Overworld,Room
+Sinnoh,Mt. Coronet,Spear Pillar,Green Shard,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Spear Pillar,Rare Candy,1,Hidden,NE step
+Sinnoh,Mt. Coronet,Spear Pillar,Green Shard,1,Hidden,In wall
+Sinnoh,Mt. Coronet,Spear Pillar,Heal Powder,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Spear Pillar,Stardust,1,Hidden,In rock
+Sinnoh,Mt. Coronet,Spear Pillar,Max Potion,1,Hidden,North step
+Sinnoh,Mt. Coronet,Spear Pillar,TM - Dragon Dance,1,Overworld,Room
+Sinnoh,Mt. Coronet,Spear Pillar,Nugget,1,Hidden,In rock
+Sinnoh,Amity Square,Park,Amulet Coin,1,Overworld,North step
+Sinnoh,Amity Square,Park,Spooky Plate,1,Overworld,Teleport puzzle
+Sinnoh,Amity Square,Park,Random Berry,5,NPC Gift,Talk to fat guy
+Sinnoh,Amity Square,Park,TM - Tail Slap,1,Overworld,On bridge
+Sinnoh,Amity Square,Park,TM - Round,1,Overworld,NE step
+Sinnoh,Solaceon Ruins,B1F,Fire Stone,1,Hidden,In rock
+Sinnoh,Solaceon Ruins,B2F,Water Stone,1,Hidden,In rock
+Sinnoh,Solaceon Ruins,B3F,Thunder Stone,1,Hidden,In rock
+Sinnoh,Solaceon Ruins,Deep Room,HM-Defog,1,Overworld,Floor loot
+Sinnoh,Solaceon Ruins,Deep Room,Nugget,1,Overworld,Floor loot
+Sinnoh,Solaceon Ruins,Deep Room,Potion,1,Overworld,Floor loot
+Sinnoh,Solaceon Ruins,Deep Room,Mind Plate,1,Overworld,Floor loot
+Sinnoh,Solaceon Ruins,Unown Event,Green Shard,1,NPC Gift,Talk to guy
+Sinnoh,Solaceon Ruins,Ruin Maniac,Rare Candy,1,Overworld,Room from Route 214
+Sinnoh,Lost Tower,2F,Honey,1,Hidden,In tomb
+Sinnoh,Lost Tower,2F,Oval Stone,1,Overworld,Fight guy
+Sinnoh,Lost Tower,3F,Revive,1,Overworld,Defog area
+Sinnoh,Lost Tower,4F,TM - Return,1,Overworld,Fight trainers
+Sinnoh,Lost Tower,4F,Great Ball,1,Hidden,Floor loot
+Sinnoh,Lost Tower,5F,Spell Tag,1,NPC Gift,Talk to west girl
+Sinnoh,Lost Tower,5F,Cleanse Tag,1,NPC Gift,Talk to east girl
+Sinnoh,Galactic Warehouse,1F,HM-Fly,1,Overworld,Floor loot
+Sinnoh,Galactic Warehouse,B1F,Dusk Stone,1,Overworld,Floor loot
+Sinnoh,Galactic Warehouse,B1F,Zinc,1,Overworld,NE step
+Sinnoh,Galactic Warehouse,B2F,TM - Muddy Water,1,Overworld,West step
+Sinnoh,Galactic Warehouse,B2F,Galactic Key,1,Overworld,Floor loot
+Sinnoh,Galactic Veilstone,2F,TM - Revenge,1,Overworld,East portal
+Sinnoh,Galactic Veilstone,B1F,Dubious Disc,1,Overworld,Past scientist
+Sinnoh,Galactic Veilstone,3F,Rare Candy,1,Hidden,South step
+Sinnoh,Galactic Veilstone,3F,TM - Quash,1,Overworld,East step
+Sinnoh,Galactic Veilstone,Portal Maze,Max Revive,1,Overworld,East portal
+Sinnoh,Galactic Veilstone,Portal Maze,Max Potion,1,Hidden,NE portal
+Sinnoh,Galactic Veilstone,Portal Maze,Green Shard,1,Overworld,Floor loot
+Sinnoh,Galactic Veilstone,Portal Maze,Poke Doll,1,Hidden,West step
+Sinnoh,Galactic Veilstone,Portal Maze,Nugget,1,Hidden,Near 3 portals
+Sinnoh,Galactic Veilstone,Portal Maze,Protein,1,Overworld,First portal
+Sinnoh,Galactic Veilstone,Portal Maze,Max Elixir,1,Overworld,Middle portal
+Sinnoh,Galactic Veilstone,Portal Maze,Elixir,1,Hidden,In box
+Sinnoh,Galactic Veilstone,Boss Room,Master Ball,1,Event,Defeat Cyrus
+Sinnoh,Galactic Veilstone,Boss Room,Razor Claw,1,Hidden,NE step
+Sinnoh,Galactic Veilstone,Lab,Full Restore,1,Overworld,NE portal
+Sinnoh,Galactic Veilstone,Lab,PP Up,1,Hidden,SE step
+Sinnoh,Ruin Maniac Cave,Main Cave,TM - Horn Drill,1,Overworld,Floor loot
+Sinnoh,Valor Lakefront,Restaurant,Event,-,Event,Battle 5 couples (9am-11pm)
+Sinnoh,Valor Lakefront,House,White Flute,1,NPC Gift,Talk to girl
+Sinnoh,Pokemon Mansion,West Room,Protein,1,Hidden,In trash can
+Sinnoh,Pokemon Mansion,Maid Room,Soothe Bell,1,NPC Gift,Talk to maid
+Sinnoh,Pokemon Mansion,East Room 1,Luxury Ball,1,Overworld,Floor loot
+Sinnoh,Pokemon Mansion,East Room 2,TM - Encore,1,Overworld,Floor loot
+Sinnoh,Iron Island,Exterior,Star Piece,1,Hidden,In rock
+Sinnoh,Iron Island,Riley Event,HM-Strength,1,NPC Gift,Given by Riley
+Sinnoh,Iron Island,B1F,Yellow Shard,1,Overworld,West step
+Sinnoh,Iron Island,B1F,Protector,1,Overworld,West step
+Sinnoh,Iron Island,B2F,Escape Rope,1,Overworld,South step
+Sinnoh,Iron Island,B2F,Max Repel,1,Overworld,South path
+Sinnoh,Iron Island,B2F,Star Piece,1,Hidden,NW step
+Sinnoh,Iron Island,B2F,Revive,1,Overworld,South step
+Sinnoh,Iron Island,B3F,Elixir,1,Overworld,East step
+Sinnoh,Iron Island,B3F,TM - Heavy Slam,1,Overworld,South step
+Sinnoh,Iron Island,B3F,Star Piece,1,Hidden,Floor loot
+Sinnoh,Iron Island,B3F,Dusk Ball,1,Overworld,NW step
+Sinnoh,Iron Island,B3F,Magnet,1,Overworld,South step
+Sinnoh,Iron Island,B3F,Max Potion,1,Overworld,NW step
+Sinnoh,Iron Island,B3F,HP Up,1,Overworld,South path
+Sinnoh,Iron Island,B3F,Star Piece,1,Hidden,NW step
+Sinnoh,Iron Island,B3F,Ultra Ball,1,Overworld,North step
+Sinnoh,Iron Island,B3F,Iron Plate,1,Hidden,South step
+Sinnoh,Iron Island,B3F,Star Piece,1,Hidden,In rock
+Sinnoh,Iron Island,B3F,Red Shard,1,Overworld,NW step
+Sinnoh,Iron Island,Riley Event,Riolu Egg,1,Event,Defeat Galactic Grunts
+Sinnoh,Iron Island,Exit Cave,Shiny Stone,1,Overworld,Yellow elevator
+Sinnoh,Iron Island,Exit Cave,Metal Coat,1,Overworld,NE room
+Sinnoh,Iron Island,Exit Cave,Nugget,1,Hidden,NE room
+Sinnoh,Lake Valor,Exterior,HP Up,1,Hidden,NW step
+Sinnoh,Lake Valor,Water,TM - Thunder,1,Overworld,Surf SE
+Sinnoh,Distortion World,First Visit,Event,-,Event,"Defeat Cyrus, Giratina"
+Sinnoh,Wayward Cave,Main Cave,Green Shard,1,Hidden,In rock
+Sinnoh,Wayward Cave,Main Cave,Red Shard,1,Hidden,In rock
+Sinnoh,Wayward Cave,Main Cave,TM - Double Team,1,Overworld,Smash rock
+Sinnoh,Wayward Cave,Main Cave,Revive,1,Overworld,SW step
+Sinnoh,Wayward Cave,Main Cave,Escape Rope,1,Overworld,East step
+Sinnoh,Wayward Cave,Main Cave,Great Ball,1,Hidden,In rock
+Sinnoh,Wayward Cave,Main Cave,Super Potion,1,Hidden,In rock
+Sinnoh,Wayward Cave,Main Cave,Blue Shard,1,Hidden,In rock
+Sinnoh,Wayward Cave,Main Cave,Yellow Shard,1,Hidden,In rock
+Sinnoh,Wayward Cave,Secret Cave,Dusk Stone,1,Hidden,In rock
+Sinnoh,Wayward Cave,Secret Cave,Max Ether,1,Overworld,Bike jump
+Sinnoh,Wayward Cave,Secret Cave,Stardust,1,Hidden,In wall
+Sinnoh,Wayward Cave,Secret Cave,Grip Claw,1,Overworld,Bike jump
+Sinnoh,Wayward Cave,Secret Cave,Rare Candy,1,Overworld,Bike jump
+Sinnoh,Wayward Cave,Secret Cave,TM - DragonBreath,1,Overworld,Up stairs
+Sinnoh,Turnback Cave,Deep Room,Stardust,1,Overworld,Find 3 pillars
+Sinnoh,Distortion World,Second Visit,Griseous Orb,1,Overworld,Portal puzzle
+Sinnoh,Iron Island,House,Metal Coat,1,NPC Gift,Talk to guy (Post-E4)
+Sinnoh,Fullmoon Island,Forest,Lunar Wing,1,Event,Interact with Cresselia
+Sinnoh,Snowpoint Temple,B1F,Calcium,1,Overworld,SE step
+Sinnoh,Snowpoint Temple,B3F,Full Restore,1,Hidden,In rock
+Sinnoh,Snowpoint Temple,B5F,Full Heal,1,Overworld,Push boulder
+Sinnoh,Victory Road,Rock Climb,Zinc,1,Overworld,Up stairs
+Sinnoh,Victory Road,Rock Climb,Dusk Stone,1,Overworld,Push boulder
+Sinnoh,Victory Road,Rock Climb,Heart Scale,1,Hidden,In rock
+Sinnoh,Victory Road,Rock Climb,HP Up,1,Hidden,NE step
+Sinnoh,Victory Road,Rock Climb,Nugget,1,Overworld,NW step
+Sinnoh,Victory Road,Surf Area,Ultra Ball,1,Hidden,Ground
+Sinnoh,Victory Road,Surf Area,Leftovers,1,Overworld,Surf south
+Sinnoh,Victory Road,Deep Area,Ultra Ball,1,Hidden,Ground
+Sinnoh,Victory Road,Deep Area,Rare Candy,1,Hidden,SE step
+Sinnoh,Victory Road,Deep Area,Full Restore,1,Overworld,Push boulder
+Sinnoh,Fight Arena,Pokemart,Scope Lens,1,NPC Gift,Talk to old lady
+Sinnoh,Fight Arena,Main Town,Super Rod,1,NPC Gift,Talk to fisher
+Sinnoh,Survival Area,Main Town,PP Up,1,Hidden,Jump ledges
+Sinnoh,Survival Area,Main Town,Rare Candy,1,Overworld,Behind Pokemart
+Sinnoh,Survival Area,Buck's House,Event,-,Event,Talk to Buck
+Sinnoh,Stark Mountain,Exterior,Life Orb,1,Overworld,Rock climb
+Sinnoh,Stark Mountain,Exterior,Max Elixir,1,Overworld,NE step
+Sinnoh,Stark Mountain,Cave 1,Escape Rope,1,Overworld,Push boulder
+Sinnoh,Stark Mountain,Cave 1,PP Up,1,Overworld,SE step
+Sinnoh,Stark Mountain,Cave 1,Full Heal,1,Overworld,North path
+Sinnoh,Stark Mountain,Cave 1,Full Restore,1,Overworld,Push boulder
+Sinnoh,Stark Mountain,Cave 1,Star Piece,1,Hidden,In wall
+Sinnoh,Stark Mountain,Deep Cave,Star Piece,1,Hidden,In rock
+Sinnoh,Stark Mountain,Deep Cave,Fire Stone,1,Hidden,In big rock
+Sinnoh,Stark Mountain,Deep Cave,Calcium,1,Overworld,Down stairs
+Sinnoh,Stark Mountain,Deep Cave,Ultra Ball,1,Overworld,Rock climb
+Sinnoh,Stark Mountain,Deep Cave,TM - Heat Crash,1,Overworld,Push boulder
+Sinnoh,Stark Mountain,Deep Cave,Flame Plate,1,Hidden,In wall
+Sinnoh,Stark Mountain,Deep Cave,Ultra Ball,1,Hidden,Rock climb
+Sinnoh,Stark Mountain,Deep Cave,Rare Candy,1,Overworld,Down stairs
+Sinnoh,Stark Mountain,Deep Cave,Max Revive,1,Hidden,Down stairs
+Sinnoh,Stark Mountain,Deep Cave,Iron Ball,1,Overworld,Down stairs
+Sinnoh,Stark Mountain,Deep Cave,Stardust,1,Hidden,In rock
+Sinnoh,Stark Mountain,Deep Cave,Max Elixir,1,Overworld,Rock climb
+Sinnoh,Stark Mountain,Deep Cave,Iron,1,Hidden,West step
+Sinnoh,Stark Mountain,Deep Cave,Nugget,1,Overworld,Rock climb
+Sinnoh,Stark Mountain,Deep Cave,Max Revive,1,Overworld,West step
+Sinnoh,Resort Area,Water,Nugget,1,Overworld,Surf NE
+Unova,Nuvema Town,Player's House,Starter Pokemon,1,NPC Gift,Click the box
+Unova,Nuvema Town,Player's House,Xtransceiver,1,NPC Gift,Given by Mom
+Unova,Nuvema Town,Juniper's Lab,Pokedex,1,NPC Gift,Say yes to 2nd question
+Unova,Nuvema Town,Outside Lab,Town Map,1,NPC Gift,Given by Mom
+Unova,Nuvema Town,Post-E4 Event,Super Rod,1,NPC Gift,Say yes to Looker
+Unova,Nuvema Town,Juniper's Lab,TM - False Swipe,1,NPC Gift,Post-E4 (Say yes)
+Unova,Nuvema Town,Juniper's Lab,TM - Protect,1,NPC Gift,Post-E4
+Unova,Nuvema Town,Juniper's Lab,TM - Hidden Power,1,NPC Gift,Post-E4
+Unova,Accumula Town,NW House,Poké Ball,1,NPC Gift,"2F, talk to guy"
+Unova,Striaton City,Main City,X Speed,1,Overworld,West step
+Unova,Striaton City,First House,Great Ball,1,NPC Gift,Talk to guy
+Unova,Striaton City,Main City,Dusk Ball,1,NPC Gift,Talk to guy in black SE
+Unova,Striaton City,NW House,Full Heal,1,NPC Gift,"Say Antidote, then Awakening"
+Unova,Striaton City,NW House,Oran Berry,3,NPC Gift,Defeat Cheren
+Unova,Striaton City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Striaton City,Gym,TM - Work Up,1,Gym,Defeat Gym Leader
+Unova,Striaton City,Outside Gym,HM-Cut,1,NPC Gift,Given by Fennel
+Unova,Striaton City,Fennel's Lab,C-Gear,1,NPC Gift,Say yes twice
+Unova,Striaton City,Fennel's Lab,Pal Pad,1,NPC Gift,Given by Fennel
+Unova,Striaton City,Fountain,Poké Ball,1,Overworld,South step
+Unova,Striaton City,Fountain,Zinc,1,Hidden,Surf NE
+Unova,Striaton City,Fountain,Big Pearl,1,NPC Gift,"Surf NW, talk to fisher"
+Unova,Nacrene City,Main City,Chesto Berry,3,NPC Gift,Given by Cheren
+Unova,Nacrene City,Train Tracks,Revive,1,Hidden,West step
+Unova,Nacrene City,SW House,Charcoal OR Mystic Water OR Miracle Seed,1,NPC Gift,"Answer Tepig (Charcoal), Oshawott (Mystic Water), or Snivy (Miracle Seed)"
+Unova,Nacrene City,NW House,Soda Pop,1,NPC Gift,Wednesday only
+Unova,Nacrene City,Main City,Ultra Ball,1,Hidden,Near guy with glasses
+Unova,Nacrene City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Nacrene City,Gym,TM - Retaliate,1,Gym,Defeat Gym Leader Lenora
+Unova,Nacrene City,Main City,Dowsing Machine,1,NPC Gift,Given by Bianca
+Unova,Castelia City,Pier,Water/Fire/Leaf Stone,1,NPC Gift,Answer Panpour/Pansear/Pansage
+Unova,Castelia City,11F Building,TM - Rest,1,NPC Gift,Talk to Hiker
+Unova,Castelia City,Berry Building,Cheri OR Chesto OR Pecha OR Rawst OR Aspear,1,NPC Gift,Show Pokemon type to clown
+Unova,Castelia City,House E of Gym,Lemonade,1,NPC Gift,Talk to guy NW
+Unova,Castelia City,Street,TM - Flash,1,NPC Gift,Guy in black
+Unova,Castelia City,55F Building,Super Potion,1,Overworld,Floor loot
+Unova,Castelia City,55F Building,Exp. Share,1,NPC Gift,Talk to guy NE
+Unova,Castelia City,47F Building,Quick Ball,3,NPC Gift,Guy south of TV
+Unova,Castelia City,47F Building,Timer Ball,3,NPC Gift,Guy south of TV
+Unova,Castelia City,47F Building,Revive,1,Overworld,SW step
+Unova,Castelia City,47F Building,Scope Lens,1,NPC Gift,Scientist SE
+Unova,Castelia City,Plasma Building,Yache Berry,1,Event,From Ghetsis
+Unova,Castelia City,Plasma Building,Smoke Ball,1,Overworld,Inside building
+Unova,Castelia City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Castelia City,Gym,TM - Struggle Bug,1,Gym,Defeat Gym Leader Burgh
+Unova,Castelia City,Fountain Area,Amulet Coin,1,NPC Gift,Guy in green in the middle
+Unova,Castelia City,47F Building,TM - Attract,1,NPC Gift,Girl with brown hair
+Unova,Nimbasa City,Event,Bicycle,1,Event,Defeat Plasma Grunt
+Unova,Nimbasa City,Battle Institute,Vs. Recorder,1,Event,Try to enter
+Unova,Nimbasa City,House N of PC,Sun Stone,1,NPC Gift,Ace Trainer (2F)
+Unova,Nimbasa City,House W of PC,HM-Strength,1,NPC Gift,Ace Trainer (1F)
+Unova,Nimbasa City,House W of PC,Soothe Bell,1,NPC Gift,Old woman (2F)
+Unova,Nimbasa City,Pokemon Musical,Prop Case,1,Event,From Bianca
+Unova,Nimbasa City,Pokemon Musical,TM - Echoed Voice,1,NPC Gift,Talk to girl NE
+Unova,Nimbasa City,Nimbasa Gate,Macho Brace,1,NPC Gift,Talk to baseball player
+Unova,Nimbasa City,Amusement Park,Super Repel,1,Hidden,SE step
+Unova,Nimbasa City,Amusement Park,X Attack,1,Overworld,West step
+Unova,Nimbasa City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Nimbasa City,Gym,TM - Volt Switch,1,Gym,Defeat Gym Leader Elesa
+Unova,Driftveil City,Pokecenter,Repeat Ball,3,NPC Gift,Girl NW
+Unova,Driftveil City,Move House,Heart Scale,1,NPC Gift,Show pokemon move
+Unova,Driftveil City,South House,Expert Belt,1,NPC Gift,Guy in black
+Unova,Driftveil City,South House,Heart Scale,1,Hidden,Near beauty girl
+Unova,Driftveil City,South House,Pearl,1,Overworld,West side
+Unova,Driftveil City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Driftveil City,Event,HM-Fly,1,Event,Defeat Bianca
+Unova,Mistralton City,House NW of PC,Sharp Beak,1,NPC Gift,Girl in black
+Unova,Mistralton City,Main City,TM - Sky Drop,1,Overworld,South step
+Unova,Mistralton City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Mistralton City,Gym,TM - Acrobatics,1,Gym,Defeat Gym Leader Skyla
+Unova,Mistralton City,Runway Area,TM - Aerial Ace,1,Overworld,South step
+Unova,Mistralton City,Runway Area,Sprayduck,1,NPC Gift,Talk to bald guy
+Unova,Mistralton City,Runway Area,Parlyz Heal,1,Hidden,South step
+Unova,Mistralton City,Runway Area,Repel,1,Hidden,South step
+Unova,Icirrus City,House SE,RageCandyBar,1,NPC Gift,Winter only
+Unova,Icirrus City,Main City,TinyMushroom,2,Hidden,Winter only
+Unova,Icirrus City,Main City,Rare Candy,1,Overworld,"Winter only, W of PC"
+Unova,Icirrus City,Pokecenter,TM - Brick Break,1,NPC Gift,Old woman
+Unova,Icirrus City,Main City,Great Ball,1,Hidden,"Winter only, far east"
+Unova,Icirrus City,Main City,Timer Ball,1,Hidden,"Winter only, far east"
+Unova,Icirrus City,House NW of PC,Exp. Share,1,NPC Gift,Show pokemon leveled 25-49
+Unova,Icirrus City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Icirrus City,Gym,TM - Frost Breath,1,Gym,Defeat Gym Leader Brycen
+Unova,Opelucid City,Main City,Max Repel,1,Hidden,South of PC
+Unova,Opelucid City,NW House,Float Stone,1,NPC Gift,Football player (2F)
+Unova,Opelucid City,NW House,Ring Target,1,NPC Gift,Beauty girl
+Unova,Opelucid City,House E of Gym,Destiny Knot,1,NPC Gift,Beauty girl
+Unova,Opelucid City,Main City,Ultra Ball,1,Hidden,Near house E of Gym
+Unova,Opelucid City,Gym,Fresh Water,1,NPC Gift,Talk to gym guide
+Unova,Opelucid City,Gym,TM - Dragon Tail,1,Gym,Defeat Gym Leaders
+Unova,Opelucid City,Event,Master Ball,1,Event,From Prof. Juniper
+Unova,Lacunosa Town,Main Town,Elixir,1,Hidden,Near sewer plate
+Unova,Lacunosa Town,Main Town,Max Repel,1,Hidden,East step
+Unova,Lacunosa Town,Pokecenter,Gracidea,1,NPC Gift,Show Shaymin as lead
+Unova,Lacunosa Town,NE House,Random Berry,1,NPC Gift,Sunday night
+Unova,Undella Town,Main Town,HM-Dive,1,NPC Gift,Talk to girl
+Unova,Undella Town,Main Town,Big Nugget,1,Overworld,North step
+Unova,Route 1,Main Path,Poké Ball,5,NPC Gift,From Prof. Juniper
+Unova,Route 1,Main Path,Potion,1,NPC Gift,Girl in grass
+Unova,Route 1,Surf Area,Ether,1,Overworld,Surf west
+Unova,Route 1,Deep Area,TinyMushroom,1,Hidden,In trees
+Unova,Route 1,Deep Area,Pearl,1,Overworld,Near trees
+Unova,Route 2,Main Path,Running Shoes,1,NPC Gift,Given by Mom
+Unova,Route 2,Main Path,Potion,1,Overworld,Grass
+Unova,Route 2,Ledges,Potion,1,Overworld,Up stairs
+Unova,Route 2,Ledges,Poké Ball,1,Overworld,Up stairs
+Unova,Route 2,Rock Push,Rare Candy,1,Overworld,Push boulder (Post-HM)
+Unova,Route 3,Daycare Area,Great Ball,1,Hidden,In sandbox
+Unova,Route 3,Main Path,Potion,1,Overworld,Grass
+Unova,Route 3,Event,Heal Ball,3,NPC Gift,From Bianca
+Unova,Route 3,Main Path,Antidote,1,Overworld,Grass
+Unova,Route 3,Main Path,Poké Ball,1,Overworld,South of bridge
+Unova,Route 3,Main Path,Awakening,1,Overworld,Grass
+Unova,Route 3,Repel Area,Repel,1,Overworld,Grass (Post-Wellspring)
+Unova,Route 3,Surf Area,Full Heal,1,Overworld,Surf north
+Unova,Route 3,Surf Area,Ether,1,Overworld,Grass
+Unova,Route 3,Surf Area,HP Up,1,Overworld,Grass
+Unova,Route 4,Main Path,X Accuracy,1,Overworld,Desert entrance
+Unova,Route 4,Main Path,Poké Ball,1,Overworld,NW step
+Unova,Route 4,Main Path,Great Ball,1,Hidden,East of parasol girl
+Unova,Route 4,Main Path,Super Potion,1,Overworld,North step
+Unova,Route 4,Main Path,Burn Heal,1,Hidden,Up stairs
+Unova,Route 4,Main Path,Super Potion,1,Hidden,Near stairs
+Unova,Route 4,Main Path,TM - Torment,1,Overworld,North step
+Unova,Route 4,Main Path,Burn Heal,1,Overworld,North step
+Unova,Route 4,Main Path,Ether,1,Overworld,West step
+Unova,Route 4,Main Path,Potion,1,Overworld,NE step
+Unova,Route 4,Main Path,Super Potion,1,Hidden,Near sign
+Unova,Route 4,Event,Ultra Ball,10,NPC Gift,From Prof. Juniper
+Unova,Route 5,Main Path,Super Potion,1,Overworld,SW step
+Unova,Route 5,Main Path,Poké Ball,1,Overworld,NE step
+Unova,Route 5,Main Path,Zinc,1,Overworld,NW step
+Unova,Route 5,Main Path,Revive,1,Overworld,Middle area
+Unova,Route 6,Main Path,Elixir,1,Overworld,Grass south of house
+Unova,Route 6,Main Path,Super Potion,1,Overworld,West of house
+Unova,Route 6,Deerling Lab,Moon Stone,1,NPC Gift,Show 4 forms of Deerling
+Unova,Route 6,Foongus Area,Leaf Stone,1,Overworld,Middle item ball
+Unova,Route 6,House E of Hiker,Shiny Stone,1,NPC Gift,Talk to little girl
+Unova,Route 6,Cave Entrance,TM - Bulldoze,1,Event,Click on spider web
+Unova,Route 6,Surf Area,TM - Bug Buzz,1,Overworld,Surf north
+Unova,Route 6,Surf Area,Silk Scarf,1,Overworld,NE step
+Unova,Route 6,House Area,TinyMushroom,1,Hidden,Behind house
+Unova,Route 6,Cave Entrance,TinyMushroom,1,Hidden,Surf east
+Unova,Route 7,Elevated Path,TM - Charge Beam,1,NPC Gift,Talk to girl
+Unova,Route 7,Tall Grass,Great Ball,1,Overworld,Grass
+Unova,Route 7,Tall Grass,Ether,1,Overworld,East grass
+Unova,Route 7,Tall Grass,TM - X-Scissor,1,Overworld,East step
+Unova,Route 7,Water,Ultra Ball,1,Hidden,In water
+Unova,Route 7,Event,HM-Surf,1,Event,Defeat Cheren
+Unova,Route 8,Swamp,Poison Barb,1,Overworld,NW step
+Unova,Route 8,Swamp,TM - Sludge Wave,1,Overworld,East step
+Unova,Route 8,Swamp,Super Potion,1,Overworld,East step
+Unova,Route 8,Swamp,Hyper Potion,1,Hidden,North step
+Unova,Route 8,Swamp,Great Ball,1,Overworld,East step
+Unova,Route 8,Main Path,TM - Facade,1,NPC Gift,Talk to parasol girl
+Unova,Route 8,Event,Full Restore,1,Event,Defeat Bianca
+Unova,Route 9,Main Path,TM - Fling,1,NPC Gift,Talk to baseball player
+Unova,Route 9,Main Path,Lemonade,1,Hidden,Near mall entrance
+Unova,Route 10,Grass,Super Potion,1,Overworld,East item ball
+Unova,Route 10,Event,Max Revive,2,Event,Defeat Cheren
+Unova,Route 10,Grass,Super Potion,1,Overworld,North step
+Unova,Route 10,Grass,Dawn Stone,1,Overworld,North step
+Unova,Route 10,Main Path,Dusk Stone,1,NPC Gift,Talk to guy in black
+Unova,Route 10,Main Path,TM - Cross Poison,1,Overworld,East step
+Unova,Route 10,Grass,Hyper Potion,1,Overworld,Far east
+Unova,Route 11,Main Path,Super Potion,1,Overworld,Grass
+Unova,Route 11,Waterfalls,TM - Overheat,1,Overworld,"Up waterfall, east"
+Unova,Route 11,Main Path,Super Potion,1,Hidden,"Down waterfall, SW"
+Unova,Route 11,Main Path,Full Heal,1,Overworld,"Down waterfall, north"
+Unova,Route 12,Main Path,Super Potion,1,Overworld,SW step
+Unova,Route 12,Main Path,TinyMushroom,1,Hidden,North step
+Unova,Route 12,Main Path,TM - Power Whip,1,Overworld,Grass
+Unova,Route 12,Main Path,BigMushroom,1,Hidden,East step
+Unova,Route 12,Main Path,Revive,1,Overworld,East step
+Unova,Route 12,Main Path,TinyMushroom,1,Hidden,South step
+Unova,Route 13,Main Path,Ether,1,Overworld,Cut tree
+Unova,Route 13,Wingull Quest,Razor Claw,1,Overworld,South step
+Unova,Route 13,Wingull Quest,Gram 2,1,Overworld,South step
+Unova,Route 13,Wingull Quest,Gram 1,1,NPC Gift,Talk to guy
+Unova,Route 13,Main Path,Heart Scale,1,Overworld,North step
+Unova,Route 13,Water,Heart Scale,1,Hidden,Surf west on wall
+Unova,Route 13,Treasure Hunter,Random Item,1,NPC Gift,Talk to guy in black
+Unova,Route 13,Water,Ether,1,Overworld,Surf east
+Unova,Route 13,Wingull Quest,Gram 3,1,NPC Gift,Talk to parasol girl
+Unova,Route 13,Wingull Quest,TM - Bulk Up,1,NPC Gift,Talk to girl
+Unova,Route 13,Deep Path,TM - Future Sight,1,Overworld,Up stairs west
+Unova,Route 13,Deep Path,Nugget,1,Overworld,Cut tree
+Unova,Route 13,Beach,Stardust,1,Hidden,Near big rock
+Unova,Route 13,Beach,Pearl,1,Hidden,Beach
+Unova,Route 14,Waterfalls,Max Revive,1,Hidden,On wall
+Unova,Route 14,Waterfalls,Great Ball,1,Overworld,Up waterfall
+Unova,Route 14,Waterfalls,TM - Bulk Up,1,NPC Gift,Talk to Saige
+Unova,Route 14,Waterfalls,Hyper Potion,1,Overworld,Jump east
+Unova,Route 15,Trailer,Klang,1,NPC Gift,Trade Ditto
+Unova,Route 15,Main Path,Great Ball,1,Hidden,Near big rock
+Unova,Route 15,Main Path,Max Revive,1,Hidden,On wall
+Unova,Route 15,Strength Puzzle,TM - Venoshock,1,Overworld,Push boulder
+Unova,Route 15,Strength Puzzle,Up-Grade,1,Overworld,Push boulder maze
+Unova,Route 16,Main Path,Rare Candy,1,Overworld,Cut tree
+Unova,Route 16,Main Path,TM - Psyshock,1,Overworld,Push boulder
+Unova,Route 16,Main Path,Charcoal,1,Overworld,Push boulder
+Unova,Route 17,Surf Area,TM - Razor Shell,1,Overworld,Surf west
+Unova,Route 17,Surf Area,Revive,1,Overworld,Middle current
+Unova,Route 17,Surf Area,Big Pearl,1,Hidden,Ground
+Unova,Route 17,Surf Area,Heart Scale,1,Hidden,In big rock
+Unova,Route 18,House,Larvesta Egg,1,NPC Gift,Talk to guy
+Unova,Route 18,Main Path,Max Revive,1,Overworld,Push boulder
+Unova,Route 18,Event,TM - Double Team,1,NPC Gift,Talk to Saige
+Unova,Route 18,Main Path,Calcium,1,Hidden,In rock
+Unova,Route 18,Main Path,Super Potion,1,Overworld,East step
+Unova,Route 18,Main Path,HM-Waterfall,1,Overworld,Grass
+Unova,Route 18,Main Path,Pearl,1,Hidden,Ground
+Unova,Route 18,Main Path,Pearl,1,Hidden,Ground
+Unova,Route 18,Main Path,TM - Telekinesis,1,Overworld,Grass
+Unova,Route 18,Main Path,Heart Scale,1,Overworld,South step
+Unova,Dreamyard,Main Area,X Defend,1,Overworld,NE step
+Unova,Dreamyard,Main Area,Poké Ball,1,Overworld,West step
+Unova,Dreamyard,Cut Area,Dream Ball,1,Overworld,West step
+Unova,Dreamyard,Cut Area,Repel,1,Overworld,East step
+Unova,Dreamyard,Basement,Parlyz Heal,1,Overworld,South step
+Unova,Dreamyard,Post-E4,Awakening,1,Hidden,In box E of scientist
+Unova,Dreamyard,Post-E4,Awakening,1,Hidden,In box near psychic
+Unova,Dreamyard,Post-E4,TwistedSpoon,1,Overworld,SW step
+Unova,Dreamyard,Post-E4,Revive,1,Overworld,NW step
+Unova,Dreamyard,Post-E4,TM - Swords Dance,1,NPC Gift,Talk to Saige
+Unova,Dreamyard,Post-E4,Super Potion,1,Overworld,SW step
+Unova,Dreamyard,Post-E4,TM - Dream Eater,1,Overworld,North step
+Unova,Dreamyard,Event,Musharna,1,Event,Friday only
+Unova,Wellspring Cave,1F,TM - Detect,1,Overworld,Floor loot
+Unova,Wellspring Cave,1F,Full Heal,1,Hidden,Floor loot
+Unova,Wellspring Cave,Surf Area,Ether,1,Overworld,Surf west
+Unova,Wellspring Cave,Surf Area,Escape Rope,1,Overworld,SE step
+Unova,Wellspring Cave,B1F,TM - Focus Blast,1,Overworld,Surf north
+Unova,Wellspring Cave,B1F,Mystic Water,1,Overworld,SE step
+Unova,Wellspring Cave,B1F,Revive,1,Hidden,South step
+Unova,Wellspring Cave,B1F,Super Potion,1,Hidden,In rock
+Unova,Wellspring Cave,B1F,Dive Ball,1,Overworld,SW step
+Unova,Wellspring Cave,B1F,TM - Low Sweep,1,Overworld,SE step
+Unova,Wellspring Cave,B1F,Hyper Potion,1,Hidden,Jump west
+Unova,Pinwheel Forest,Exterior,Super Potion,1,Hidden,East of girl
+Unova,Pinwheel Forest,Exterior,HM-Rock Smash,1,NPC Gift,Talk to girl
+Unova,Pinwheel Forest,Rock Smash,Super Potion,1,Overworld,South of girl
+Unova,Pinwheel Forest,Exterior,Poké Ball,1,Overworld,East of girl
+Unova,Pinwheel Forest,Exterior,Potion,1,Overworld,SW step
+Unova,Pinwheel Forest,Water,TinyMushroom,1,Hidden,In water
+Unova,Pinwheel Forest,Exterior,Antidote,1,Overworld,East step
+Unova,Pinwheel Forest,Water,Antidote,1,Hidden,In big water
+Unova,Pinwheel Forest,Fight Rock,Hard Stone,1,Event,Check rock with fighting type
+Unova,Pinwheel Forest,Deep Area,Net Ball,1,Overworld,Down stairs
+Unova,Pinwheel Forest,Interior,Big Root,1,Overworld,South of Plasma Grunt
+Unova,Pinwheel Forest,Interior,Potion,1,Overworld,North step
+Unova,Pinwheel Forest,Interior,TinyMushroom,1,Hidden,Grass
+Unova,Pinwheel Forest,Interior,Antidote,1,Overworld,West step
+Unova,Pinwheel Forest,Interior,TinyMushroom,1,Hidden,In tree
+Unova,Pinwheel Forest,Interior,Parlyz Heal,1,Overworld,Floor loot
+Unova,Pinwheel Forest,Interior,TM - Grass Knot,1,Overworld,SE step
+Unova,Pinwheel Forest,Event,Dragon Skull,1,Event,Defeat Plasma Grunt
+Unova,Pinwheel Forest,Event,Moon Stone,1,Event,Defeat Plasma Grunt
+Unova,Pinwheel Forest,Interior,Miracle Seed,1,Overworld,East step
+Unova,Bridge Gate,Bridge Gate,Quick Claw,1,NPC Gift,Talk to Hiker
+Unova,Anville Town,SE House,Rare Candy,1,NPC Gift,Talk to guy
+Unova,Anville Town,Exterior,Ultra Ball,1,Hidden,North step
+Unova,Cold Storage,Exterior,Rocky Helmet,1,NPC Gift,Talk to worker
+Unova,Cold Storage,Exterior,Super Potion,1,Hidden,Near ace trainer
+Unova,Cold Storage,Grass,Ether,1,Overworld,Grass
+Unova,Cold Storage,Grass,Protein,1,Overworld,Grass
+Unova,Cold Storage,Grass,Dive Ball,1,Hidden,Grass
+Unova,Cold Storage,Exterior,Heart Scale,1,Overworld,North step
+Unova,Cold Storage,Ice Puzzle,TM - Scald,1,Overworld,Ice slide puzzle
+Unova,Cold Storage,Ice Puzzle,Ice Heal,1,Overworld,Ice slide puzzle
+Unova,Cold Storage,Ice Puzzle,Super Potion,1,Overworld,Ice slide puzzle
+Unova,Cold Storage,Interior,NeverMeltIce,1,Overworld,Cargo container
+Unova,Cold Storage,Ice Puzzle,Net Ball,1,Overworld,Ice slide puzzle
+Unova,Cold Storage,Event,TM - Hone Claws,1,NPC Gift,Talk to Saige (Post-E4)
+Unova,Mistralton Cave,1F,Super Repel,1,Overworld,Push boulder
+Unova,Mistralton Cave,1F,Hyper Potion,1,Hidden,In rock
+Unova,Mistralton Cave,1F,Super Potion,1,Overworld,NW step
+Unova,Mistralton Cave,2F,Great Ball,1,Hidden,In rock
+Unova,Mistralton Cave,2F,Super Potion,1,Hidden,In rock
+Unova,Mistralton Cave,2F,Hard Stone,1,Overworld,SW step
+Unova,Mistralton Cave,2F,TM - Rock Blast,1,Overworld,NW step
+Unova,Mistralton Cave,2F,Iron,1,Overworld,West step
+Unova,Mistralton Cave,3F,Revive,1,Overworld,West step
+Unova,Mistralton Cave,3F,Great Ball,1,Hidden,In rock
+Unova,Mistralton Cave,3F,Dusk Stone,1,Overworld,NE step
+Unova,Mistralton Cave,Cobalion Room,Rare Candy,1,Overworld,North step
+Unova,Mistralton Cave,Cobalion Room,Carbos,1,Hidden,In rock
+Unova,Chargestone Cave,1F,Lucky Egg,1,NPC Gift,From Prof. Juniper
+Unova,Chargestone Cave,1F,Parlyz Heal,1,Overworld,Push crystal
+Unova,Chargestone Cave,1F,Revive,1,Overworld,Push crystal
+Unova,Chargestone Cave,1F,Heal Ball,1,Overworld,NW step
+Unova,Chargestone Cave,1F,Elixir,1,Hidden,NE step
+Unova,Chargestone Cave,1F,Hyper Potion,1,Overworld,SE step
+Unova,Chargestone Cave,1F,Iron,1,Overworld,Push crystal
+Unova,Chargestone Cave,B1F,Nugget,2,NPC Gift,Talk to twins
+Unova,Chargestone Cave,B1F,Parlyz Heal,1,Hidden,Near stairs
+Unova,Chargestone Cave,B1F,HP Up,1,Hidden,South step
+Unova,Chargestone Cave,B1F,Revive,1,Hidden,In wall
+Unova,Chargestone Cave,B1F,Timer Ball,1,Overworld,NW step
+Unova,Chargestone Cave,B1F,Thunder Stone,1,Overworld,Defeat Plasma Grunt
+Unova,Chargestone Cave,B2F,Parlyz Heal,1,Hidden,Push crystal
+Unova,Chargestone Cave,B2F,BrightPowder,1,Overworld,North step
+Unova,Chargestone Cave,B2F,Hyper Potion,1,Overworld,West step
+Unova,Chargestone Cave,B2F,Stardust,1,Hidden,In wall
+Unova,Chargestone Cave,B2F,Rare Candy,1,Overworld,South step
+Unova,Chargestone Cave,B2F,Magnet,1,Overworld,South step
+Unova,Chargestone Cave,Event,TM - Rock Polish,1,NPC Gift,Talk to Saige (Post-E4)
+Unova,Celestial Tower,2F,Super Potion,1,Overworld,Floor loot
+Unova,Celestial Tower,2F,TM - Will-O-Wisp,1,Overworld,Floor loot
+Unova,Celestial Tower,3F,Spell Tag,1,Overworld,Floor loot
+Unova,Celestial Tower,4F,TM - Shadow Claw,1,Overworld,Fight trainer
+Unova,Celestial Tower,4F,Revive,1,Overworld,Fight trainer
+Unova,Twist Mountain,1F,Revive,1,Overworld,North step
+Unova,Twist Mountain,1F,Full Heal,1,Overworld,East step
+Unova,Twist Mountain,Deep Cave,Stardust,1,Hidden,Sand spot
+Unova,Twist Mountain,Deep Cave,Moon Stone,1,Overworld,East step
+Unova,Twist Mountain,Deep Cave,Hyper Potion,1,Overworld,North step
+Unova,Twist Mountain,Deep Cave,Ether,1,Overworld,Non-snow road
+Unova,Twist Mountain,Deep Cave,Nugget,1,Overworld,North step
+Unova,Twist Mountain,Deep Cave,Revive,1,Hidden,In rock
+Unova,Twist Mountain,Deep Cave,Ether,1,Hidden,SW step
+Unova,Twist Mountain,Deep Cave,PP Up,1,Overworld,North step
+Unova,Twist Mountain,Winter,TM - Flash Cannon,1,Overworld,Winter only path
+Unova,Twist Mountain,Winter,Super Repel,1,Overworld,Winter only path
+Unova,Twist Mountain,Winter,Iron,1,Hidden,Winter only path
+Unova,Twist Mountain,Winter,TM - Spikes,1,Overworld,Winter only path
+Unova,Twist Mountain,Normal,Great Ball,1,Overworld,Non-winter path
+Unova,Twist Mountain,Normal,Protein,1,Hidden,Sand spot
+Unova,Twist Mountain,Normal,TM - Flash Cannon,1,Overworld,Non-winter path
+Unova,Dragonspiral,Exterior,Old Gateau,1,NPC Gift,From Prof. Juniper
+Unova,Dragonspiral,Exterior,Nugget,1,Overworld,Winter only
+Unova,Dragonspiral,Surf Area,TM - Embargo,1,Overworld,Surf east
+Unova,Dragonspiral,Surf Area,Heart Scale,1,Hidden,In wall
+Unova,Dragonspiral,2F,Super Potion,1,Overworld,North step
+Unova,Dragonspiral,2F,Stardust,1,Overworld,West step
+Unova,Dragonspiral,Jump Puzzle,Shiny Stone,1,Overworld,Jump puzzle
+Unova,Dragonspiral,Next Area,Dragon Fang,1,Overworld,Floor loot
+Unova,Dragonspiral,Bridge Maze,Stardust,1,Overworld,Bridge maze
+Unova,Dragonspiral,Bridge Maze,Stardust,1,Overworld,Bridge maze
+Unova,Dragonspiral,Bridge Maze,Revive,1,Overworld,Bridge maze
+Unova,Dragonspiral,Upper Area,Elixir,1,Overworld,Floor loot
+Unova,Desert Resort,Exterior,Fire Stone,1,Overworld,West step
+Unova,Desert Resort,Exterior,Stardust,1,Hidden,North step
+Unova,Desert Resort,Exterior,TM - Sand Tomb,1,Overworld,SW step
+Unova,Desert Resort,Exterior,Heart Scale,1,Overworld,NW step
+Unova,Desert Resort,Exterior,Ether,1,Hidden,Near castle
+Unova,Desert Resort,Exterior,Super Potion,1,Overworld,SE step
+Unova,Desert Resort,Exterior,Fresh Water,1,Overworld,SE step
+Unova,Desert Resort,Exterior,BlackGlasses,1,Overworld,SE step
+Unova,Desert Resort,Exterior,Soft Sand,1,NPC Gift,Talk to guy in black
+Unova,Desert Resort,Exterior,Hyper Potion,1,Hidden,NE step
+Unova,Relic Castle,B1F,Ether,1,Hidden,In sand
+Unova,Relic Castle,B1F,Revive,1,Overworld,In sand
+Unova,Relic Castle,B1F,Cover OR Plume Fossil,1,NPC Gift,Talk to backpacker
+Unova,Relic Castle,B2F,Hyper Potion,1,Overworld,In sand
+Unova,Relic Castle,B2F,TM - Fire Spin,1,Overworld,In sand
+Unova,Relic Castle,B2F,Super Potion,1,Hidden,In sand
+Unova,Relic Castle,B2F,Sun Stone,1,Overworld,North step
+Unova,Relic Castle,B2F,Revive,1,Overworld,Defeat Plasma Grunt
+Unova,Relic Castle,Deep Maze,RageCandyBar,1,NPC Gift,From Prof. Juniper
+Unova,Relic Castle,Deep Maze,TM - Nasty Plot,1,NPC Gift,Talk to Saige
+Unova,Relic Castle,Deep Maze,PP Max,1,Hidden,Near stairs
+Unova,Relic Castle,Deep Maze,TM - Flare Blitz,1,Overworld,Up stairs
+Unova,Moor of Icirrus,Main Area,Great Ball,1,Overworld,Push boulder
+Unova,Moor of Icirrus,Main Area,Carbos,1,Overworld,South step
+Unova,Moor of Icirrus,Main Area,Ether,1,Hidden,Non-winter only
+Unova,Moor of Icirrus,Main Area,Revive,1,Hidden,NW step
+Unova,Moor of Icirrus,Main Area,Hyper Potion,1,Overworld,East step
+Unova,Moor of Icirrus,Main Area,Elixir,1,Overworld,NE step
+Unova,Moor of Icirrus,Main Area,BigMushroom,1,Hidden,SE step
+Unova,Moor of Icirrus,Main Area,Max Revive,1,Overworld,Non-winter only
+Unova,Tubeline Bridge,Bridge,TM - Flame Charge,1,NPC Gift,Talk to running girl
+Unova,Shopping Mall,1F,PP Up,1,Overworld,NE room
+Unova,Shopping Mall,3F,Thunder Stone,1,NPC Gift,Talk to worker
+Unova,Giant Chasm,Cave,BigMushroom,1,Hidden,In rock
+Unova,Giant Chasm,Cave,Stardust,1,Overworld,Push boulder
+Unova,Giant Chasm,Cave,Stardust,1,Overworld,Push boulder
+Unova,Giant Chasm,Cave,TinyMushroom,1,Hidden,In rock
+Unova,Giant Chasm,Cave,Star Piece,1,Overworld,Push boulder
+Unova,Giant Chasm,Interior,Elixir,1,Overworld,SW step
+Unova,Giant Chasm,Interior,Max Potion,1,Overworld,Smash rock
+Unova,Giant Chasm,Interior,Revive,1,Overworld,North step
+Unova,Giant Chasm,Interior,Carbos,1,Overworld,SE step
+Unova,Giant Chasm,Interior,TM - Cosmic Power,1,Overworld,South path
+Unova,Giant Chasm,Interior,Full Heal,1,Overworld,Jump east
+Unova,Giant Chasm,Interior,Revive,1,Overworld,SE step
+Unova,Giant Chasm,Interior,TM - Psyshock,1,Overworld,NW step
+Unova,Undella Bay,Beach,Pearl,1,Hidden,Sand
+Unova,Undella Bay,Beach,Stardust,1,Hidden,Sand
+Unova,Undella Bay,Water,Heart Scale,1,Hidden,In big rock
+Unova,Abundant Shrine,Main Area,Super Potion,1,Overworld,North step
+Unova,Abundant Shrine,Main Area,TinyMushroom,1,Hidden,Near girl
+Unova,Abundant Shrine,Main Area,TinyMushroom,1,Hidden,West step
+Unova,Abundant Shrine,Main Area,Razor Fang,1,Overworld,West step
+Unova,Abundant Shrine,Main Area,Rare Candy,1,Overworld,NE step
+Unova,Abundant Shrine,Main Area,BigMushroom,1,Hidden,In tree
+Unova,Abundant Shrine,Main Area,TM - Power Swap,1,Overworld,East step
+Unova,Abundant Shrine,Main Area,TM - Ally Switch,1,Overworld,South step
+Unova,Lostlorn Forest,Main Area,BigMushroom,1,Overworld,North step
+Unova,Lostlorn Forest,Waterfall,Rare Candy,1,Overworld,Up waterfall
+Unova,Lostlorn Forest,Waterfall,Protein,1,Hidden,North step
+Unova,Marvelous Bridge,Event,Adamant Orb,1,NPC Gift,Cross bridge
+Unova,Marvelous Bridge,Event,Lustrous Orb,1,NPC Gift,Cross bridge
+Unova,Marvelous Bridge,Event,Griseous Orb,1,NPC Gift,Cross bridge
+Unova,Marvelous Bridge,Mini-Game,BigMushroom,1,NPC Gift,Win beauty girl game
+Unova,P2 Laboratory,House,Dubious Disc,1,Overworld,Inside house
+Unova,P2 Laboratory,Exterior,TM - Thunderbolt,1,Overworld,South step
+Unova,Victory Road,Floor 1,Revive,1,Overworld,Surf north
+Unova,Victory Road,Floor 1,Rare Candy,1,Overworld,Surf north
+Unova,Victory Road,Floor 2,Ultra Ball,1,Hidden,Near stairs
+Unova,Victory Road,Floor 2,TM - Close Combat,1,Overworld,Jump south
+Unova,Victory Road,Floor 2,Hyper Potion,1,Hidden,In rock
+Unova,Victory Road,Floor 2,Hyper Potion,1,Overworld,Room loot
+Unova,Victory Road,Floor 3,Revive,1,Hidden,In rock
+Unova,Victory Road,Floor 3,Calcium,1,Overworld,Room loot
+Unova,Victory Road,Floor 3,Great Ball,1,Overworld,Jump south
+Unova,Victory Road,Floor 3,Full Heal,1,Overworld,West room
+Unova,Victory Road,Floor 3,Full Heal,1,Hidden,Floor loot
+Unova,Victory Road,Floor 3,Carbos,1,Hidden,North step
+Unova,Victory Road,Exterior,TM - Wild Charge,1,Overworld,Jump south
+Unova,Victory Road,Exterior,Nugget,1,Overworld,Jump south
+Unova,Victory Road,Deep Area,Max Potion,1,Hidden,In rock
+Unova,Victory Road,Deep Area,Max Revive,1,Hidden,In rock
+Unova,Victory Road,Deep Area,TM - Dragon Claw,1,Overworld,NW step
+Unova,N Castle,2F,Hyper Potion,1,Overworld,3rd room
+Unova,N Castle,3F,Max Revive,1,Overworld,2nd room
+Unova,N Castle,3F,Ultra Ball,1,NPC Gift,Talk to Plasma Grunt
+Unova,N Castle,4F,Rare Candy,1,Overworld,1st room
+Unova,N Castle,4F,Hyper Potion,1,Overworld,2nd room
+Unova,N Castle,5F,Zekrom,1,Event,Story capture
+Unova,Challenger's Cave,1F,Ether,1,Hidden,In rock
+Unova,Challenger's Cave,B1F,PP Up,1,Overworld,West step
+Unova,Challenger's Cave,B1F,Nugget,1,Overworld,Up stairs
+Unova,Challenger's Cave,B1F,Max Potion,1,Hidden,Near stairs
+Unova,Challenger's Cave,Surf Area,Full Restore,1,Hidden,In rock
+Unova,Challenger's Cave,Deep Area,Max Ether,1,Hidden,In rock
+Unova,Challenger's Cave,Deep Area,Timer Ball,1,Overworld,East step
+Unova,Challenger's Cave,Deep Area,Protein,1,Overworld,North step
+Unova,Challenger's Cave,Deep Area,TM - Stone Edge,1,Overworld,North step
+Unova,Challenger's Cave,Deep Area,Heart Scale,1,Hidden,On wall
+Unova,Challenger's Cave,Deep Area,Black Belt,1,Overworld,East step
+Unova,Challenger's Cave,Deep Area,Oval Stone,1,Overworld,Surf north

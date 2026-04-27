@@ -1,0 +1,508 @@
+pokemon_id,id,name
+12,5222,SilverPowder
+15,5245,Poison Barb
+19,5200,Chilan Berry
+20,5200,Chilan Berry
+20,5155,Oran Berry
+21,5244,Sharp Beak
+22,5244,Sharp Beak
+24,5245,Poison Barb
+24,5295,Shed Shell
+25,5236,Light Ball
+25,5155,Oran Berry
+26,5155,Oran Berry
+27,5286,Grip Claw
+27,5217,Quick Claw
+28,5286,Grip Claw
+28,5217,Quick Claw
+28,5237,Soft Sand
+35,5081,Moon Stone
+35,5583,Comet Shard
+36,5081,Moon Stone
+36,5583,Comet Shard
+37,5249,Charcoal
+37,5152,Rawst Berry
+38,5249,Charcoal
+38,5152,Rawst Berry
+39,5155,Oran Berry
+39,5081,Moon Stone
+43,5545,Absorb Bulb
+44,5545,Absorb Bulb
+45,5545,Absorb Bulb
+46,5086,TinyMushroom
+46,5087,Big Mushroom
+47,5086,TinyMushroom
+47,5087,Big Mushroom
+49,5222,SilverPowder
+49,5295,Shed Shell
+50,5237,Soft Sand
+50,5035,Energy Root
+51,5237,Soft Sand
+51,5035,Energy Root
+52,5217,Quick Claw
+52,5223,Amulet Coin
+53,5217,Quick Claw
+56,5193,Payapa Berry
+57,5193,Payapa Berry
+58,5152,Rawst Berry
+59,5152,Rawst Berry
+61,5221,King's Rock
+62,5221,King's Rock
+63,5248,TwistedSpoon
+64,5248,TwistedSpoon
+65,5248,TwistedSpoon
+66,5230,Focus Band
+67,5230,Focus Band
+68,5230,Focus Band
+69,5296,Big Root
+70,5296,Big Root
+71,5296,Big Root
+72,5245,Poison Barb
+73,5245,Poison Barb
+74,5229,Everstone
+74,5238,Hard Stone
+75,5229,Everstone
+75,5238,Hard Stone
+76,5229,Everstone
+76,5238,Hard Stone
+77,5191,Shuca Berry
+78,5191,Shuca Berry
+79,5279,Lagging Tail
+79,5221,King's Rock
+80,5221,King's Rock
+80,5279,Lagging Tail
+81,5233,Metal Coat
+81,5242,Magnet
+82,5233,Metal Coat
+82,5242,Magnet
+83,5259,Stick
+84,5244,Sharp Beak
+85,5244,Sharp Beak
+86,5153,Aspear Berry
+87,5246,NeverMeltIce
+87,5153,Aspear Berry
+88,5092,Nugget
+88,5281,Black Sludge
+89,5092,Nugget
+89,5281,Black Sludge
+89,5272,Toxic Orb
+90,5088,Pearl
+90,5089,Big Pearl
+91,5088,Pearl
+91,5089,Big Pearl
+93,5247,Spell Tag
+94,5247,Spell Tag
+95,5238,Hard Stone
+95,5279,Lagging Tail
+95,5233,Metal Coat
+104,5258,Thick Club
+104,5106,Rare Bone
+105,5258,Thick Club
+105,5106,Rare Bone
+108,5279,Lagging Tail
+109,5228,Smoke Ball
+110,5228,Smoke Ball
+111,5321,Protector
+112,5321,Protector
+113,5231,Lucky Egg
+113,5110,Oval Stone
+113,5256,Lucky Punch
+116,5235,Dragon Scale
+117,5235,Dragon Scale
+118,5243,Mystic Water
+119,5243,Mystic Water
+120,5090,Stardust
+120,5091,Star Piece
+121,5090,Stardust
+121,5091,Star Piece
+124,5153,Aspear Berry
+125,5322,Electirizer
+126,5152,Rawst Berry
+126,5323,Magmarizer
+131,5243,Mystic Water
+132,5274,Quick Powder
+132,5257,Metal Powder
+143,5234,Leftovers
+143,5150,Chesto Berry
+147,5235,Dragon Scale
+148,5235,Dragon Scale
+148,5250,Dragon Fang
+149,5235,Dragon Scale
+149,5250,Dragon Fang
+161,5155,Oran Berry
+162,5155,Oran Berry
+170,5074,Yellow Shard
+170,5227,DeepSeaScale
+171,5074,Yellow Shard
+171,5227,DeepSeaScale
+172,5155,Oran Berry
+173,5081,Moon Stone
+173,5583,Comet Shard
+174,5155,Oran Berry
+175,5107,Shiny Stone
+176,5107,Shiny Stone
+182,5545,Absorb Bulb
+186,5221,King's Rock
+191,5080,Sun Stone
+191,5192,Coba Berry
+192,5192,Coba Berry
+193,5265,Wide Lens
+198,5108,Dusk Stone
+199,5221,King's Rock
+200,5247,Spell Tag
+200,5108,Dusk Stone
+203,5156,Persim Berry
+207,5327,Razor Fang
+208,5233,Metal Coat
+208,5279,Lagging Tail
+211,5245,Poison Barb
+213,5043,Berry Juice
+213,5155,Oran Berry
+215,5286,Grip Claw
+215,5326,Razor Claw
+215,5217,Quick Claw
+216,5155,Oran Berry
+217,5155,Oran Berry
+220,5153,Aspear Berry
+221,5246,NeverMeltIce
+221,5153,Aspear Berry
+222,5072,Red Shard
+222,5238,Hard Stone
+227,5233,Metal Coat
+227,5244,Sharp Beak
+230,5235,Dragon Scale
+231,5185,Passho Berry
+232,5185,Passho Berry
+233,5252,Up-Grade
+238,5153,Aspear Berry
+239,5322,Electirizer
+240,5152,Rawst Berry
+240,5323,Magmarizer
+241,5033,Moomoo Milk
+242,5231,Lucky Egg
+242,5110,Oval Stone
+246,5283,Smooth Rock
+247,5283,Smooth Rock
+248,5283,Smooth Rock
+261,5151,Pecha Berry
+262,5151,Pecha Berry
+263,5155,Oran Berry
+263,5017,Potion
+263,5026,Super Potion
+264,5155,Oran Berry
+264,5017,Potion
+264,5026,Super Potion
+265,5151,Pecha Berry
+265,5213,BrightPowder
+267,5295,Shed Shell
+267,5222,SilverPowder
+269,5295,Shed Shell
+269,5222,SilverPowder
+270,5219,Mental Herb
+271,5219,Mental Herb
+272,5219,Mental Herb
+273,5271,Power Herb
+274,5271,Power Herb
+275,5271,Power Herb
+276,5195,Charti Berry
+277,5195,Charti Berry
+278,5571,Pretty Wing
+278,5285,Damp Rock
+279,5571,Pretty Wing
+279,5285,Damp Rock
+279,1193,Lucky Egg (Small)
+280,5109,Dawn Stone
+280,5280,Destiny Knot
+281,5109,Dawn Stone
+281,5280,Destiny Knot
+282,5280,Destiny Knot
+283,5094,Honey
+284,5222,SilverPowder
+285,5086,TinyMushroom
+285,5087,Big Mushroom
+285,5190,Kebia Berry
+285,5580,BalmMushroom
+286,5086,TinyMushroom
+286,5087,Big Mushroom
+286,5190,Kebia Berry
+286,5580,BalmMushroom
+290,5237,Soft Sand
+293,5150,Chesto Berry
+294,5150,Chesto Berry
+295,5150,Chesto Berry
+296,5241,Black Belt
+297,5221,King's Rock
+299,5238,Hard Stone
+299,5242,Magnet
+299,5539,Float Stone
+300,5151,Pecha Berry
+301,5151,Pecha Berry
+302,5265,Wide Lens
+303,5278,Iron Ball
+303,5184,Occa Berry
+304,5238,Hard Stone
+305,5238,Hard Stone
+306,5238,Hard Stone
+311,5546,Cell Battery
+312,5546,Cell Battery
+313,5213,BrightPowder
+314,5213,BrightPowder
+315,5245,Poison Barb
+315,5107,Shiny Stone
+315,5545,Absorb Bulb
+316,5089,Big Pearl
+316,5155,Oran Berry
+317,5089,Big Pearl
+317,5155,Oran Berry
+318,5226,DeepSeaTooth
+319,5226,DeepSeaTooth
+322,5152,Rawst Berry
+323,5152,Rawst Berry
+324,5249,Charcoal
+324,5284,Heat Rock
+325,5156,Persim Berry
+325,5194,Tanga Berry
+326,5156,Persim Berry
+326,5194,Tanga Berry
+327,5150,Chesto Berry
+328,5237,Soft Sand
+331,5288,Sticky Barb
+331,5245,Poison Barb
+332,5288,Sticky Barb
+332,5245,Poison Barb
+335,5217,Quick Claw
+335,5326,Razor Claw
+336,5295,Shed Shell
+336,5327,Razor Fang
+336,5156,Persim Berry
+337,5081,Moon Stone
+337,5090,Stardust
+337,5583,Comet Shard
+338,5080,Sun Stone
+338,5090,Stardust
+338,5583,Comet Shard
+343,5269,Light Clay
+344,5269,Light Clay
+345,5296,Big Root
+346,5296,Big Root
+351,5243,Mystic Water
+353,5247,Spell Tag
+354,5247,Spell Tag
+355,5325,Reaper Cloth
+355,5247,Spell Tag
+355,5196,Kasib Berry
+356,5325,Reaper Cloth
+356,5247,Spell Tag
+356,5196,Kasib Berry
+358,5224,Cleanse Tag
+358,5218,Soothe Bell
+358,5198,Colbur Berry
+359,5270,Life Orb
+361,5109,Dawn Stone
+361,5199,Babiri Berry
+362,5246,NeverMeltIce
+362,5199,Babiri Berry
+366,5073,Blue Shard
+366,5088,Pearl
+367,5073,Blue Shard
+367,5226,DeepSeaTooth
+368,5073,Blue Shard
+368,5227,DeepSeaScale
+369,5075,Green Shard
+369,5227,DeepSeaScale
+370,5093,Heart Scale
+371,5235,Dragon Scale
+371,5250,Dragon Fang
+372,5235,Dragon Scale
+372,5250,Dragon Fang
+373,5235,Dragon Scale
+373,5250,Dragon Fang
+374,5233,Metal Coat
+375,5233,Metal Coat
+376,5233,Metal Coat
+396,5188,Yache Berry
+397,5188,Yache Berry
+398,5188,Yache Berry
+400,5155,Oran Berry
+401,5277,Metronome
+402,5277,Metronome
+406,5245,Poison Barb
+406,5107,Shiny Stone
+407,5245,Poison Barb
+407,5545,Absorb Bulb
+407,5107,Shiny Stone
+413,5222,SilverPowder
+414,5222,SilverPowder
+415,5094,Honey
+416,5245,Poison Barb
+418,5186,Wacan Berry
+419,5186,Wacan Berry
+420,5239,Miracle Seed
+421,5239,Miracle Seed
+426,5541,Air Balloon
+427,5151,Pecha Berry
+427,5189,Chople Berry
+428,5151,Pecha Berry
+428,5189,Chople Berry
+429,5247,Spell Tag
+431,5149,Cheri Berry
+432,5149,Cheri Berry
+433,5224,Cleanse Tag
+433,5218,Soothe Bell
+433,5198,Colbur Berry
+434,5151,Pecha Berry
+435,5151,Pecha Berry
+436,5233,Metal Coat
+437,5233,Metal Coat
+440,5110,Oval Stone
+440,5231,Lucky Egg
+441,5277,Metronome
+442,5228,Smoke Ball
+443,5197,Haban Berry
+444,5197,Haban Berry
+445,5197,Haban Berry
+446,5234,Leftovers
+449,5283,Smooth Rock
+450,5283,Smooth Rock
+451,5245,Poison Barb
+452,5245,Poison Barb
+453,5281,Black Sludge
+454,5281,Black Sludge
+456,5187,Rindo Berry
+457,5187,Rindo Berry
+459,5246,NeverMeltIce
+459,5282,Icy Rock
+460,5246,NeverMeltIce
+460,5282,Icy Rock
+461,5286,Grip Claw
+461,5217,Quick Claw
+461,5326,Razor Claw
+462,5233,Metal Coat
+462,5242,Magnet
+463,5279,Lagging Tail
+464,5321,Protector
+466,5322,Electirizer
+467,5152,Rawst Berry
+467,5323,Magmarizer
+469,5265,Wide Lens
+472,5327,Razor Fang
+473,5246,NeverMeltIce
+473,5153,Aspear Berry
+474,5324,Dubious Disc
+475,5280,Destiny Knot
+476,5238,Hard Stone
+476,5242,Magnet
+476,5539,Float Stone
+477,5247,Spell Tag
+477,5325,Reaper Cloth
+477,5196,Kasib Berry
+478,5199,Babiri Berry
+511,5155,Oran Berry
+511,5184,Occa Berry
+512,5155,Oran Berry
+512,5184,Occa Berry
+513,5155,Oran Berry
+513,5185,Passho Berry
+514,5155,Oran Berry
+514,5185,Passho Berry
+515,5155,Oran Berry
+515,5187,Rindo Berry
+516,5155,Oran Berry
+516,5187,Rindo Berry
+522,5149,Cheri Berry
+523,5149,Cheri Berry
+524,5229,Everstone
+524,5238,Hard Stone
+525,5229,Everstone
+525,5238,Hard Stone
+526,5229,Everstone
+526,5238,Hard Stone
+529,5035,Energy Root
+530,5035,Energy Root
+531,5155,Oran Berry
+535,5156,Persim Berry
+535,5151,Pecha Berry
+536,5156,Persim Berry
+536,5151,Pecha Berry
+537,5156,Persim Berry
+537,5151,Pecha Berry
+538,5241,Black Belt
+538,5268,Expert Belt
+539,5241,Black Belt
+539,5268,Expert Belt
+540,5219,Mental Herb
+541,5219,Mental Herb
+542,5219,Mental Herb
+543,5245,Poison Barb
+543,5151,Pecha Berry
+544,5245,Poison Barb
+544,5151,Pecha Berry
+545,5245,Poison Barb
+545,5151,Pecha Berry
+546,5545,Absorb Bulb
+547,5545,Absorb Bulb
+548,5545,Absorb Bulb
+549,5545,Absorb Bulb
+550,5226,DeepSeaTooth
+551,5240,BlackGlasses
+552,5240,BlackGlasses
+553,5240,BlackGlasses
+554,5152,Rawst Berry
+555,5152,Rawst Berry
+556,5239,Miracle Seed
+557,5238,Hard Stone
+557,5106,Rare Bone
+558,5238,Hard Stone
+558,5106,Rare Bone
+559,5295,Shed Shell
+560,5295,Shed Shell
+562,5247,Spell Tag
+563,5247,Spell Tag
+568,5281,Black Sludge
+568,5251,Silk Scarf
+568,5092,Nugget
+569,5281,Black Sludge
+569,5251,Silk Scarf
+569,5092,Nugget
+569,5581,Big Nugget
+572,5107,Shiny Stone
+572,5150,Chesto Berry
+573,5150,Chesto Berry
+574,5156,Persim Berry
+575,5156,Persim Berry
+575,5539,Float Stone
+576,5156,Persim Berry
+576,5539,Float Stone
+577,5156,Persim Berry
+578,5156,Persim Berry
+579,5156,Persim Berry
+582,5246,NeverMeltIce
+582,5282,Icy Rock
+583,5246,NeverMeltIce
+583,5282,Icy Rock
+584,5246,NeverMeltIce
+584,5282,Icy Rock
+587,5149,Cheri Berry
+590,5086,TinyMushroom
+591,5086,TinyMushroom
+591,5087,Big Mushroom
+591,5580,BalmMushroom
+597,5288,Sticky Barb
+598,5288,Sticky Barb
+607,5108,Dusk Stone
+608,5108,Dusk Stone
+613,5153,Aspear Berry
+614,5153,Aspear Berry
+615,5246,NeverMeltIce
+618,5237,Soft Sand
+621,5250,Dragon Fang
+622,5269,Light Clay
+623,5269,Light Clay
+631,5273,Flame Orb
+637,5222,SilverPowder
+653,5222,SilverPowder
+654,5222,SilverPowder
+662,5243,Mystic Water
+663,5243,Mystic Water
+664,5243,Mystic Water
+665,5227,DeepSeaScale

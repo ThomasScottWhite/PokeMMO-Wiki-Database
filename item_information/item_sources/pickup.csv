@@ -1,0 +1,517 @@
+Location,Region,Item
+Route 1,Kanto,Potion
+Route 1,Kanto,Antidote
+Route 1,Kanto,Poké Ball
+Route 3,Kanto,Escape Rope
+Route 4,Kanto,Potion
+Route 4,Kanto,Repel
+Route 4,Kanto,Antidote
+Route 4,Kanto,Poké Ball
+Route 4,Kanto,Escape Rope
+Route 8,Kanto,Super Potion
+Route 8,Kanto,Repel
+Route 8,Kanto,Super Repel
+Route 8,Kanto,Great Ball
+Route 10,Kanto,Potion
+Route 10,Kanto,Super Potion
+Route 10,Kanto,Repel
+Route 10,Kanto,Super Repel
+Route 10,Kanto,Poké Ball
+Route 10,Kanto,Great Ball
+Route 10,Kanto,Magnet
+Route 10,Kanto,Metal Coat
+Route 12,Kanto,Potion
+Route 12,Kanto,Super Potion
+Route 12,Kanto,Hyper Potion
+Route 12,Kanto,Repel
+Route 12,Kanto,Max Repel
+Route 12,Kanto,Poké Ball
+Route 12,Kanto,Great Ball
+Route 12,Kanto,Sun Stone
+Route 12,Kanto,Stick
+Route 12,Kanto,Sharp Beak
+Route 13,Kanto,Potion
+Route 13,Kanto,Super Potion
+Route 13,Kanto,Hyper Potion
+Route 13,Kanto,Repel
+Route 13,Kanto,Max Repel
+Route 13,Kanto,Poké Ball
+Route 13,Kanto,Great Ball
+Route 13,Kanto,Ultra Ball
+Route 13,Kanto,Metal Powder
+Route 13,Kanto,Sun Stone
+Route 13,Kanto,Stick
+Route 13,Kanto,Sharp Beak
+Route 15,Kanto,Max Repel
+Route 15,Kanto,Ultra Ball
+Route 15,Kanto,Metal Powder
+Route 15,Kanto,Sun Stone
+Route 15,Kanto,Sharp Beak
+Route 17,Kanto,Potion
+Route 17,Kanto,Super Potion
+Route 17,Kanto,Poké Ball
+Route 17,Kanto,Great Ball
+Route 17,Kanto,Smoke Ball
+Route 17,Kanto,Sharp Beak
+Route 17,Kanto,Poison Barb
+Route 21,Kanto,Potion
+Route 21,Kanto,Hyper Potion
+Route 21,Kanto,Super Repel
+Route 21,Kanto,Max Repel
+Route 21,Kanto,Ultra Ball
+Route 21,Kanto,Miracle Seed
+Route 21,Kanto,Sun Stone
+Route 24,Kanto,Potion
+Route 24,Kanto,Repel
+Route 24,Kanto,Super Repel
+Route 24,Kanto,Poké Ball
+Route 24,Kanto,Miracle Seed
+Route 24,Kanto,Silverpowder
+Pallet Town,Kanto,Potion
+Pallet Town,Kanto,Repel
+Pallet Town,Kanto,Poké Ball
+Pallet Town,Kanto,Water Stone
+Pallet Town,Kanto,King's Rock
+Pallet Town,Kanto,Mystic Water
+Pallet Town,Kanto,Poison Barb
+Cerulean City,Kanto,Super Potion
+Cerulean City,Kanto,Super Repel
+Cerulean City,Kanto,Great Ball
+Vermilion City,Kanto,Super Potion
+Vermilion City,Kanto,Super Repel
+Vermilion City,Kanto,Yellow Shard
+Vermilion City,Kanto,Red Shard
+Vermilion City,Kanto,Dragon Scale
+Vermilion City,Kanto,Big Pearl
+Vermilion City,Kanto,Mystic Water
+Vermilion City,Kanto,Stardust
+Vermilion City,Kanto,Star Piece
+Fuchsia City,Kanto,Super Repel
+Fuchsia City,Kanto,Great Ball
+Viridian Forest,Kanto,Potion
+Viridian Forest,Kanto,Antidote
+Viridian Forest,Kanto,Revival Herb
+Viridian Forest,Kanto,Poké Ball
+Viridian Forest,Kanto,Leaf Stone
+Viridian Forest,Kanto,Light Ball
+Diglett's Cave,Kanto,Super Potion
+Diglett's Cave,Kanto,Max Potion
+Diglett's Cave,Kanto,Super Repel
+Diglett's Cave,Kanto,Great Ball
+Diglett's Cave,Kanto,Energy Root
+Diglett's Cave,Kanto,Hard Stone
+Mt. Moon,Kanto,Potion
+Mt. Moon,Kanto,Repel
+Mt. Moon,Kanto,Escape Rope
+Mt. Moon,Kanto,TinyMushroom
+Mt. Moon,Kanto,Everstone
+Mt. Moon,Kanto,Moon Stone
+Mt. Moon,Kanto,Big Mushroom
+Mt. Moon,Kanto,Hard Stone
+Mt. Moon,Kanto,Energy Root
+Mt. Moon,Kanto,Dome Fossil
+Cerulean Cave,Kanto,Super Potion
+Cerulean Cave,Kanto,Super Repel
+Cerulean Cave,Kanto,Great Ball
+Cerulean Cave,Kanto,Big Mushroom
+Cerulean Cave,Kanto,Nugget
+Power Plant,Kanto,Potion
+Power Plant,Kanto,Super Potion
+Power Plant,Kanto,Repel
+Power Plant,Kanto,Super Repel
+Power Plant,Kanto,Poké Ball
+Power Plant,Kanto,Great Ball
+Power Plant,Kanto,Magnet
+Power Plant,Kanto,Metal Coat
+Power Plant,Kanto,Light Ball
+Power Plant,Kanto,Thunderstone
+Pokémon Tower,Kanto,Potion
+Pokémon Tower,Kanto,Super Potion
+Pokémon Tower,Kanto,Repel
+Pokémon Tower,Kanto,Super Repel
+Pokémon Tower,Kanto,Poké Ball
+Pokémon Tower,Kanto,Great Ball
+Pokémon Tower,Kanto,Thick Club
+Pokémon Tower,Kanto,Spell Tag
+Pokémon Mansion,Kanto,Potion
+Pokémon Mansion,Kanto,Hyper Potion
+Pokémon Mansion,Kanto,Repel
+Pokémon Mansion,Kanto,Max Repel
+Pokémon Mansion,Kanto,Ultra Ball
+Pokémon Mansion,Kanto,Poison Barb
+Pokémon Mansion,Kanto,Smoke Ball
+Seafoam Islands,Kanto,Hyper Potion
+Seafoam Islands,Kanto,Max Repel
+Seafoam Islands,Kanto,NeverMeltIce
+Seafoam Islands,Kanto,Water Stone
+Seafoam Islands,Kanto,King's Rock
+Seafoam Islands,Kanto,Pearl
+Seafoam Islands,Kanto,Big Pearl
+Seafoam Islands,Kanto,Mystic Water
+Kanto Victory Road,Kanto,Hyper Potion
+Kanto Victory Road,Kanto,Max Repel
+Kanto Victory Road,Kanto,Poké Ball
+Kanto Victory Road,Kanto,Ultra Ball
+Kanto Victory Road,Kanto,Black Belt
+Kanto Victory Road,Kanto,Hard Stone
+Kanto Victory Road,Kanto,Thick Club
+Treasure Beach,Kanto,Hyper Potion
+Treasure Beach,Kanto,Max Repel
+Treasure Beach,Kanto,Ultra Ball
+Treasure Beach,Kanto,Stardust
+Treasure Beach,Kanto,Sun Stone
+Treasure Beach,Kanto,Moon Stone
+Treasure Beach,Kanto,Silk Scarf
+Kindle Road,Kanto,Super Potion
+Kindle Road,Kanto,Hyper Potion
+Kindle Road,Kanto,Repel
+Kindle Road,Kanto,Super Repel
+Kindle Road,Kanto,Max Repel
+Kindle Road,Kanto,Great Ball
+Kindle Road,Kanto,Ultra Ball
+Kindle Road,Kanto,Black Belt
+Kindle Road,Kanto,Nugget
+Kindle Road,Kanto,Dome Fossil
+Kindle Road,Kanto,Hard Stone
+Kindle Road,Kanto,Soft Sand
+Kindle Road,Kanto,Old Amber
+Kindle Road,Kanto,Silk Scarf
+Mt. Ember,Kanto,Potion
+Mt. Ember,Kanto,Hyper Potion
+Mt. Ember,Kanto,Awakening
+Mt. Ember,Kanto,Antidote
+Mt. Ember,Kanto,Great Ball
+Mt. Ember,Kanto,Ultra Ball
+Mt. Ember,Kanto,Hard Stone
+Mt. Ember,Kanto,Charcoal
+Mt. Ember,Kanto,Sharp Beak
+Mt. Ember,Kanto,Black Belt
+Cape Brink,Kanto,Hyper Potion
+Cape Brink,Kanto,Repel
+Cape Brink,Kanto,Super Repel
+Cape Brink,Kanto,Max Repel
+Cape Brink,Kanto,Poké Ball
+Cape Brink,Kanto,Great Ball
+Cape Brink,Kanto,Sun Stone
+Cape Brink,Kanto,Miracle Seed
+Cape Brink,Kanto,Silk Scarf
+Cape Brink,Kanto,BlackGlasses
+Cape Brink,Kanto,Mystic Water
+Cape Brink,Kanto,Water Stone
+Bond Bridge,Kanto,Potion
+Bond Bridge,Kanto,Super Potion
+Bond Bridge,Kanto,Hyper Potion
+Bond Bridge,Kanto,Repel
+Bond Bridge,Kanto,Super Repel
+Bond Bridge,Kanto,Max Repel
+Bond Bridge,Kanto,Poké Ball
+Bond Bridge,Kanto,Great Ball
+Bond Bridge,Kanto,Ultra Ball
+Bond Bridge,Kanto,Miracle Seed
+Bond Bridge,Kanto,Silk Scarf
+Berry Forest,Kanto,Potion
+Berry Forest,Kanto,Super Potion
+Berry Forest,Kanto,Repel
+Berry Forest,Kanto,Super Repel
+Berry Forest,Kanto,Poké Ball
+Berry Forest,Kanto,Great Ball
+Berry Forest,Kanto,Ultra Ball
+Berry Forest,Kanto,Pecha Berry
+Berry Forest,Kanto,Bluk Berry
+Berry Forest,Kanto,Cheri Berry
+Berry Forest,Kanto,Liechi Berry
+Berry Forest,Kanto,Pinap Berry
+Berry Forest,Kanto,Rawst Berry
+Berry Forest,Kanto,Aspear Berry
+Berry Forest,Kanto,Oran Berry
+Berry Forest,Kanto,Wepear Berry
+Berry Forest,Kanto,Chesto Berry
+Berry Forest,Kanto,Persim Berry
+Berry Forest,Kanto,Razz Berry
+Berry Forest,Kanto,Leftovers
+Berry Forest,Kanto,Sun Stone
+Berry Forest,Kanto,Leaf Stone
+Berry Forest,Kanto,Miracle Seed
+Berry Forest,Kanto,Revival Herb
+Icefall Cave,Kanto,Potion
+Icefall Cave,Kanto,Hyper Potion
+Icefall Cave,Kanto,Repel
+Icefall Cave,Kanto,Max Repel
+Icefall Cave,Kanto,Poké Ball
+Icefall Cave,Kanto,Great Ball
+Icefall Cave,Kanto,Ultra Ball
+Icefall Cave,Kanto,Mystic Water
+Icefall Cave,Kanto,King's Rock
+Icefall Cave,Kanto,Stardust
+Icefall Cave,Kanto,Star Piece
+Icefall Cave,Kanto,NeverMeltIce
+Icefall Cave,Kanto,Big Pearl
+Icefall Cave,Kanto,Pearl
+Icefall Cave,Kanto,Water Stone
+Lost Cave,Kanto,Hyper Potion
+Lost Cave,Kanto,Max Repel
+Lost Cave,Kanto,Ultra Ball
+Lost Cave,Kanto,Sea Incense
+Lost Cave,Kanto,Lax Incense
+Lost Cave,Kanto,Spell Tag
+Lost Cave,Kanto,Silk Scarf
+Five Isle Meadow,Kanto,Repel
+Five Isle Meadow,Kanto,Ultra Ball
+Five Isle Meadow,Kanto,Up-Grade
+Five Isle Meadow,Kanto,BlackGlasses
+Five Isle Meadow,Kanto,Silk Scarf
+Water Path,Kanto,Potion
+Water Path,Kanto,Hyper Potion
+Water Path,Kanto,Repel
+Water Path,Kanto,Max Repel
+Water Path,Kanto,Great Ball
+Water Path,Kanto,Ultra Ball
+Water Path,Kanto,Silk Scarf
+Water Path,Kanto,Sharp Beak
+Water Path,Kanto,Miracle Seed
+Ruin Valley,Kanto,Hyper Potion
+Ruin Valley,Kanto,Repel
+Ruin Valley,Kanto,Max Repel
+Ruin Valley,Kanto,Ultra Ball
+Ruin Valley,Kanto,Silk Scarf
+Pattern Bush,Kanto,Potion
+Pattern Bush,Kanto,Hyper Potion
+Pattern Bush,Kanto,Repel
+Pattern Bush,Kanto,Super Repel
+Pattern Bush,Kanto,Max Repel
+Pattern Bush,Kanto,Poké Ball
+Pattern Bush,Kanto,Silver Powder
+Altering Cave,Kanto,Hyper Potion
+Altering Cave,Kanto,Repel
+Altering Cave,Kanto,Max Repel
+Altering Cave,Kanto,Poké Ball
+Altering Cave,Kanto,Great Ball
+Altering Cave,Kanto,Ultra Ball
+Altering Cave,Kanto,Berry Juice
+Altering Cave,Kanto,Dragon Fang
+Altering Cave,Kanto,Metal Coat
+Canyon Entrance,Kanto,Super Potion
+Canyon Entrance,Kanto,Max Repel
+Canyon Entrance,Kanto,Ultra Ball
+Canyon Entrance,Kanto,Silk Scarf
+Canyon Entrance,Kanto,Sharp Beak
+Sevault Canyon,Kanto,Hyper Potion
+Sevault Canyon,Kanto,Max Repel
+Sevault Canyon,Kanto,Ultra Ball
+Sevault Canyon,Kanto,Silk Scarf
+Sevault Canyon,Kanto,Sharp Beak
+Route 101,Hoenn,Potion
+Route 101,Hoenn,Poké Ball
+Route 101,Hoenn,Plain Dry Seed
+Route 101,Hoenn,Plain Sweet Seed
+Route 101,Hoenn,Plain Sour Seed
+Route 101,Hoenn,Plain Bitter Seed
+Route 101,Hoenn,Plain Spicy Seed
+Route 102,Hoenn,Potion
+Route 102,Hoenn,Poké Ball
+Route 102,Hoenn,Plain Dry Seed
+Route 103,Hoenn,Potion
+Route 103,Hoenn,Repel
+Route 103,Hoenn,Poké Ball
+Route 103,Hoenn,Plain Spicy Seed
+Route 110,Hoenn,Potion
+Route 110,Hoenn,Super Potion
+Route 110,Hoenn,Poké Ball
+Route 110,Hoenn,Great Ball
+Route 110,Hoenn,Plain Spicy Seed
+Route 110,Hoenn,Magnet
+Route 111,Hoenn,Super Potion
+Route 111,Hoenn,Repel
+Route 111,Hoenn,Poké Ball
+Route 111,Hoenn,Great Ball
+Route 111,Hoenn,Soft Sand
+Route 111,Hoenn,Poison Barb
+Route 111,Hoenn,Shiny Stone
+Mirage Tower,Hoenn,Hard Stone
+Fiery Path,Hoenn,Super Repel
+Fiery Path,Hoenn,Great Ball
+Route 112,Hoenn,Potion
+Route 112,Hoenn,Super Potion
+Route 112,Hoenn,Super Repel
+Route 112,Hoenn,Poké Ball
+Route 112,Hoenn,Great Ball
+Route 112,Hoenn,Plain Sour Seed
+Route 112,Hoenn,Plain Bitter Seed
+Route 112,Hoenn,Plain Spicy Seed
+Route 113,Hoenn,Potion
+Route 113,Hoenn,Super Potion
+Route 113,Hoenn,Super Repel
+Route 113,Hoenn,Great Ball
+Route 113,Hoenn,Charcoal
+Route 113,Hoenn,Metal Coat
+Route 115,Hoenn,Potion
+Route 115,Hoenn,Super Potion
+Route 115,Hoenn,Repel
+Route 115,Hoenn,Poké Ball
+Route 115,Hoenn,Plain Spicy Seed
+Route 115,Hoenn,Plain Sour Seed
+Route 115,Hoenn,Plain Dry Seed
+Route 115,Hoenn,Plain Bitter Seed
+Route 116,Hoenn,Potion
+Route 116,Hoenn,Repel
+Route 116,Hoenn,Plain Dry Seed
+Route 116,Hoenn,Plain Bitter Seed
+Route 117,Hoenn,Super Potion
+Route 117,Hoenn,Super Repel
+Route 117,Hoenn,Great Ball
+Route 117,Hoenn,Plain Sour Seed
+Route 117,Hoenn,Plain Sweet Seed
+Route 119,Hoenn,Poké Ball
+Route 119,Hoenn,Great Ball
+Route 119,Hoenn,Plain Spicy Seed
+Route 119,Hoenn,Mystic Water
+Route 119,Hoenn,Poison Barb
+Route 120,Hoenn,Plain Spicy Seed
+Route 120,Hoenn,Plain Bitter Seed
+Route 120,Hoenn,Plain Sour Seed
+Route 120,Hoenn,Plain Sweet Seed
+Route 123,Hoenn,Super Potion
+Route 123,Hoenn,Super Repel
+Route 123,Hoenn,Great Ball
+Route 123,Hoenn,Plain Bitter Seed
+Route 127,Hoenn,Mystic Water
+Route 127,Hoenn,Poison Barb
+Route 128,Hoenn,Super Repel
+Route 128,Hoenn,Poison Barb
+Rusturf Tunnel,Hoenn,Repel
+Rusturf Tunnel,Hoenn,Poké Ball
+Artisan Cave,Hoenn,Potion
+Artisan Cave,Hoenn,Super Potion
+Artisan Cave,Hoenn,Hyper Potion
+Artisan Cave,Hoenn,Repel
+Artisan Cave,Hoenn,Super Repel
+Artisan Cave,Hoenn,Max Repel
+Artisan Cave,Hoenn,Poké Ball
+Artisan Cave,Hoenn,Great Ball
+Artisan Cave,Hoenn,Ultra Ball
+Artisan Cave,Hoenn,Plain Spicy Seed
+Artisan Cave,Hoenn,Plain Sour Seed
+Artisan Cave,Hoenn,Plain Dry Seed
+Artisan Cave,Hoenn,Plain Bitter Seed
+Artisan Cave,Hoenn,Energy Root
+Artisan Cave,Hoenn,Silk Scarf
+Shoal Cave,Hoenn,Shoal Salt
+Shoal Cave,Hoenn,Shoal Shell
+Shoal Cave,Hoenn,Hard Stone
+Shoal Cave,Hoenn,NeverMeltIce
+Shoal Cave,Hoenn,Stardust
+Sootopolis City,Hoenn,Potion
+Sootopolis City,Hoenn,Super Potion
+Sootopolis City,Hoenn,Repel
+Sootopolis City,Hoenn,Super Repel
+Sootopolis City,Hoenn,Poké Ball
+Sootopolis City,Hoenn,Great Ball
+Sootopolis City,Hoenn,Poison Barb
+Sootopolis City,Hoenn,Mystic Water
+Sootopolis City,Hoenn,Stardust
+Petalburg City,Hoenn,Super Potion
+Petalburg City,Hoenn,Repel
+Petalburg City,Hoenn,Super Repel
+Petalburg City,Hoenn,Great Ball
+Petalburg City,Hoenn,Poison Barb
+Petalburg City,Hoenn,Mystic Water
+Petalburg City,Hoenn,Stardust
+Petalburg Woods,Hoenn,Potion
+Petalburg Woods,Hoenn,Repel
+Petalburg Woods,Hoenn,Plain Spicy Seed
+Petalburg Woods,Hoenn,Plain Sour Seed
+Petalburg Woods,Hoenn,Plain Dry Seed
+Petalburg Woods,Hoenn,Plain Sweet Seed
+Petalburg Woods,Hoenn,Miracle Seed
+Petalburg Woods,Hoenn,Revival Herb
+Petalburg Woods,Hoenn,TinyMushroom
+Mossdeep City,Hoenn,Super Potion
+Mossdeep City,Hoenn,Super Repel
+Mossdeep City,Hoenn,Great Ball
+Mossdeep City,Hoenn,Mystic Water
+Meteor Falls,Hoenn,Super Repel
+Meteor Falls,Hoenn,Max Repel
+Meteor Falls,Hoenn,Great Ball
+Meteor Falls,Hoenn,Ultra Ball
+Meteor Falls,Hoenn,Sun Stone
+Meteor Falls,Hoenn,Energy Root
+Sky Pillar,Hoenn,Super Repel
+Sky Pillar,Hoenn,Max Repel
+Sky Pillar,Hoenn,Great Ball
+Sky Pillar,Hoenn,Ultra Ball
+Sky Pillar,Hoenn,Spell Tag
+Hoenn Victory Road,Hoenn,Hyper Potion
+Hoenn Victory Road,Hoenn,Super Repel
+Hoenn Victory Road,Hoenn,Max Repel
+Hoenn Victory Road,Hoenn,Great Ball
+Hoenn Victory Road,Hoenn,Ultra Ball
+Hoenn Victory Road,Hoenn,Metal Coat
+Hoenn Victory Road,Hoenn,Black Belt
+Hoenn Victory Road,Hoenn,Energy Root
+Granite Cave,Hoenn,Potion
+Granite Cave,Hoenn,Repel
+Granite Cave,Hoenn,Poké Ball
+Granite Cave,Hoenn,Metal Coat
+Granite Cave,Hoenn,Energy Root
+New Mauville,Hoenn,Potion
+New Mauville,Hoenn,Super Repel
+New Mauville,Hoenn,Poké Ball
+New Mauville,Hoenn,Thunderstone
+New Mauville,Hoenn,Magnet
+New Mauville,Hoenn,Black Belt
+Hoenn Altering Cave,Hoenn,Potion
+Hoenn Altering Cave,Hoenn,Super Potion
+Hoenn Altering Cave,Hoenn,Repel
+Hoenn Altering Cave,Hoenn,Poké Ball
+Hoenn Altering Cave,Hoenn,Great Ball
+Hoenn Altering Cave,Hoenn,Big Pearl
+Hoenn Altering Cave,Hoenn,Mystic Water
+Hoenn Altering Cave,Hoenn,Poison Barb
+Hoenn Altering Cave,Hoenn,Star Piece
+Hoenn Altering Cave,Hoenn,Stardust
+Underwater,Hoenn,Hyper Potion
+Underwater,Hoenn,Max Repel
+Underwater,Hoenn,Ultra Ball
+Underwater,Hoenn,Big Pearl
+Underwater,Hoenn,Green Shard
+Underwater,Hoenn,Blue Shard
+Underwater,Hoenn,Mystic Water
+Underwater,Hoenn,Stardust
+Underwater,Hoenn,Star Piece
+Route 1,Unova,Potion
+Route 1,Unova,Antidote
+Route 1,Unova,Poké Ball
+Route 12,Unova,Super Repel
+Route 12,Unova,Miracle Seed
+Route 12,Unova,Plain Sweet Seed
+Route 12,Unova,Plain Bitter Seed
+Undella Bay,Unova,Super Potion
+Undella Bay,Unova,Super Repel
+Undella Bay,Unova,Yellow Shard
+Undella Bay,Unova,Red Shard
+Undella Bay,Unova,Dragon Scale
+Undella Bay,Unova,Big Pearl
+Undella Bay,Unova,Mystic Water
+Undella Bay,Unova,Stardust
+Undella Bay,Unova,Star Piece
+Undella Town,Unova,Super Potion
+Undella Town,Unova,Super Repel
+Undella Town,Unova,Great Ball
+Undella Town,Unova,Dive Ball
+Undella Town,Unova,Yellow Shard
+Undella Town,Unova,Red Shard
+Undella Town,Unova,Dragon Scale
+Undella Town,Unova,Big Pearl
+Undella Town,Unova,Mystic Water
+Undella Town,Unova,Stardust
+Undella Town,Unova,Star Piece
+Dragonspiral Tower,Unova,Repel
+Dragonspiral Tower,Unova,Super Repel
+Dragonspiral Tower,Unova,Heal Powder
+Dragonspiral Tower,Unova,Super Potion
+Dragonspiral Tower,Unova,Great Ball
+Dragonspiral Tower,Unova,Nugget
+Dragonspiral Tower,Unova,Dragon Scale
+Dragonspiral Tower,Unova,Dragon Fang
+Dragonspiral Tower,Unova,Rare Bone
+Dragonspiral Tower,Unova,Black Belt
