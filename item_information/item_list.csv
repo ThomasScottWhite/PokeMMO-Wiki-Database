@@ -135,7 +135,6 @@ implement made long ago.",10000,0,0,0,1000
 Green Shard,Miscellaneous Items,Items,"A small green shard.
 It appears to be from some sort of
 implement made long ago.",10000,0,0,0,1000
-Hp Up,Vitamins,Medicine,A nutritious drink for POKéMON. It raises the base HP of one POKéMON,,,,,
 Protein,Vitamins,Medicine,"A nutritious drink for Pokémon.
 It raises the base Attack stat of a
 single Pokémon.",3650,275,0,0,1825
@@ -152,11 +151,9 @@ Rare Candy,Vitamins,Medicine,"A candy that is packed with energy.
 It raises the level of a single
 Pokémon
 by one.",4800,0,0,0,2400
-Pp Up,Vitamins,Medicine,Slightly raises the maximum PP of a selected move for one POKéMON,,,,,
 Zinc,Vitamins,Medicine,"A nutritious drink for Pokémon.
 It raises the base Sp. Def (Special
 Defense) stat of a single Pokémon.",3650,275,0,0,1825
-Pp Max,Vitamins,Medicine,Raises the PP of a selected move to its maximum level for one POKéMON,,,,,
 Dire Hit,Battle Items,Battle Items,"It raises the critical-hit ratio
 greatly.
 It can be used only once and wears
@@ -225,7 +222,6 @@ It is a clear, light blue.",5000,0,0,0,1000
 Leaf Stone,Evolution Items,Items,"A peculiar stone that makes certain
 species of Pokémon evolve.
 It has a leaf pattern.",5000,0,0,0,1000
-Tinymushroom,Miscellaneous Items,Items,A small and rare mushroom. It is quite popular among certain people,,,,,
 Big Mushroom,Miscellaneous Items,Items,"A large and rare mushroom.
 It is sought after by collectors.",5000,0,0,0,2500
 Pearl,Miscellaneous Items,Items,"A somewhat-small pearl that sparkles
@@ -387,7 +383,6 @@ one of its stats in a pinch.",1200,0,0,0,600
 Enigma Berry,Other Battle Berries,Berries,"If held by a Pokémon, it restores
 its HP if it is hit by any
 supereffective attack.",1400,0,0,0,700
-Brightpowder,Hold Items,Items,An item to be held by a POKéMON. It casts a tricky glare that lowers the opponent's accuracy,,,,,
 White Herb,Hold Items,Items,"A held item which restores any
 negative stat stage in battle.
 
@@ -417,8 +412,6 @@ Holding this item will increase Attack
 by 50% when in battle, but only
 allows the use of the first move
 selected.",3000,9800,0,0,1500
-King'S Rock,Hold Items,Items,An item to be held by a POKéMON. It may cause the foe to flinch upon taking damage,,,,,
-Silverpowder,Hold Items,Items,An item to be held by a POKéMON. A shiny silver powder that boosts the power of BUG-type moves,,,,,
 Amulet Coin,Hold Items,Items,"An item which increases the amount of
 Money gained from trainer battles for
 a short period of time.
@@ -432,8 +425,6 @@ It helps keep wild Pokémon away if
 the
 holder is the first one in the party.",3000,0,0,0,1500
 Soul Dew,Hold Items,Items,An orb to be held by a LATIOS or LATIAS. It raises the SP. ATK and SP. DEF stats,200,0,0,0,100
-Deepseatooth,Evolution Items,Items,An item to be held by a POKéMON. A fang that gleams a sharp silver. It raises the SP. ATK stat,,,,,
-Deepseascale,Evolution Items,Items,An item to be held by a POKéMON. A scale that shines a faint pink. It raises the SP. DEF stat,,,,,
 Smoke Ball,Hold Items,Items,"When held by a Pokémon, it increases
 the chance to escape from a wild
 Pokémon.",200,0,0,0,100
@@ -495,7 +486,6 @@ moves by 20%.
 
 It is popular among certain Move
 Tutors.",3000,0,0,0,1500
-Blackglasses,Hold Items,Items,An item to be held by a POKéMON. A shady-looking pair of glasses that boosts DARK-type moves,,,,,
 Black Belt,Hold Items,Items,"An item to be held by a Pokémon.
 It increases the power of Fighting-ty
 pe moves by 20%.
@@ -526,14 +516,12 @@ moves by 20%.
 
 It is popular among certain Move
 Tutors.",3000,0,0,0,1500
-Nevermeltice,Hold Items,Items,An item to be held by a POKéMON. A piece of ice that repels heat and boosts ICE-type moves,,,,,
 Spell Tag,Hold Items,Items,"An item to be held by a Pokémon.
 It increases the power of Ghost-type
 moves by 20%.
 
 It is popular among certain Move
 Tutors.",3000,0,0,0,1500
-Twistedspoon,Hold Items,Items,An item to be held by a POKéMON. A spoon imbued with telekinetic power boosts PSYCHIC-type moves,,,,,
 Charcoal,Hold Items,Items,"An item to be held by a Pokémon.
 It increases the power of Fire-type
 moves by 20%.
@@ -645,7 +633,6 @@ part of a shell.",1000,0,0,0,500
 Silph Scope,Storyline Items,Key Items,A scope that makes unseeable POKéMON visible. It is made by SILPH CO,,,,,
 Bicycle,Bicycles,Cosmetics,A folding bicycle that allows faster movement than the RUNNING SHOES,,,,,
 Town Map,Useable Items,Key Items,A very convenient map that can be viewed anytime. It even shows your present location,,,,,
-Vs Seeker,Useable Items,Key Items,A device that indicates TRAINERS who want to battle. The battery charges while traveling,,,,,
 Fame Checker,Useable Items,Key Items,A device that enables you to recall what you've heard and seen about famous people,,,,,
 Tm Case,Useable Items,Key Items,A case that holds TMs and HMs. It is attached to the BAG's compartment for important items,,,,,
 Berry Pouch,Useable Items,Key Items,A pouch for carrying BERRIES. It is attached to the BAG's compartment for important items,,,,,
@@ -1247,10 +1234,6 @@ May contain exclusive items for Xmas
 2020.
 Use to open.",,,,,
 Evolution Charm,Boost Items,Items,A charm which induces evolution on the target. Consumed upon use,,,,,
-Mooncake,Miscellaneous Items,Items,"A rejuvenating, tasty treat to
-celebrate the Moon Festival.
-
-Consumed upon use.",,,,,
 Strength Charm,Boost Items,Items,A charm which increases all EVs of the target. Consumed upon use,,,,,
 Red Envelope (2021),Miscellaneous Items,Items,"A red envelope which contains an
 unknown reward.
@@ -1324,11 +1307,6 @@ Hitodama Particle Effect,Miscellaneous Items,Items,"Spirits dance around you.
 Use to assign this particle to a
 Pokémon.
 Consumed upon use.",0,0,0,0,0
-Bats Particle Effect,Miscellaneous Items,Items,"Summons flying bats.
-
-Use to assign this particle to a
-Pokémon.
-Consumed upon use.",,,,,
 Ghosts Particle Effect,Miscellaneous Items,Items,"Haunted by the ghosts.
 
 Use to assign this particle to a
@@ -2440,7 +2418,7 @@ Fedora,Hats,Cosmetics,A cosmetic item which can be used to modify your appearanc
 Fez,Hats,Cosmetics,A cosmetic item which can be used to modify your appearance,50000,0,0,0,0
 Flat Cap,Hats,Cosmetics,A cosmetic item which can be used to modify your appearance,0,0,0,500,0
 Reflective Goggles,Hats,Cosmetics,A cosmetic item which can be used to modify your appearance,,,,,
-Headband,Hats,Cosmetics,A cosmetic item which can be used to modify your appearance,,,,,
+Headband,Hats,Cosmetics,A cosmetic item which can be used to modify your appearance,15000,0,0,0,0
 Headphones,Hats,Cosmetics,A cosmetic item which can be used to modify your appearance,,,,,
 Fighter's Headband,Hats,Cosmetics,"A cosmetic item which can be used to
 modify your appearance.",0,0,0,1000,0
@@ -2803,10 +2781,6 @@ Ban Hammer,Back Items,Cosmetics,"A cosmetic item which can be used to
 modify your appearance.",0,0,0,0,0
 Fancy Butterfly Wings,Back Items,Cosmetics,"A cosmetic item which can be used to
 modify your appearance.",0,0,0,1000,0
-English Name,Item Type,Main Category,,,,,,
-Ban Hammer,Back Items,Cosmetics,A cosmetic item which can be used to modify your appearance,0,0,0,0,0
-Fancy Butterfly Wings,Back Items,Cosmetics,"A cosmetic item which can be used to
-modify your appearance.",0,0,0,1500,0
 Witch's Broomstick,Back Items,Cosmetics,"A cosmetic item which can be used to
 modify your appearance.",,,,,
 Pumpkin Backpack,Back Items,Cosmetics,A cosmetic item which can be used to modify your appearance,,,,,
@@ -3431,7 +3405,7 @@ specially crafted to commemorate
 an occasion of some sort.",0,0,0,20,0
 HP Up,Vitamins,Medicine,"A nutritious drink for Pokémon.
 It raises the base HP of a single
-Pokémon.",,,,,
+Pokémon.",3650,275,0,0,1825
 PP Up,Vitamins,Medicine,"It slightly raises the maximum PP of
 a selected move that has been learned
 by the target Pokémon.",9800,0,0,0,4900
@@ -3447,8 +3421,6 @@ It wears off if they're withdrawn.
 
 Only 2 can be used at a time.
 Consumed upon use.",2500,0,0,0,1250
-TinyMushroom,Miscellaneous Items,Items,"A small and rare mushroom.
-It is sought after by collectors.",,,,,
 Honey,Miscellaneous Items,Items,"A sweet honey with a lush aroma that
 attracts wild Pokémon when it is used
 in grass, caves, or on special trees.",750,0,0,0,500
@@ -3494,42 +3466,9 @@ BridgeMail D,Mail Items,Items,Stationery featuring a print of a red drawbridge. 
 BridgeMail T,Mail Items,Items,Stationery featuring a print of a steel suspension bridge. Let a Pokémon hold it for use,,,,,
 BridgeMail V,Mail Items,Items,Stationery featuring a print of a brick bridge. Let a Pokémon hold it for use,,,,,
 BridgeMail M,Mail Items,Items,Stationery featuring a print of an arched bridge. Let a Pokémon hold it for use,,,,,
-BrightPowder,Hold Items,Items,"An item to be held by a Pokémon.
-It casts a tricky glare that lowers
-the opponent's accuracy.",,,,,
 King's Rock,Hold Items,Items,"An item to be held by a Pokémon.
 When the holder inflicts damage,
 the target may flinch.",3000,0,0,0,1500
-SilverPowder,Hold Items,Items,"An item to be held by a Pokémon.
-It increases the power of Bug-type
-moves by 20%.
-
-It is popular among certain Move
-Tutors.",,,,,
-DeepSeaTooth,Evolution Items,Items,"An item to be held by Clamperl.
-A fang that gleams a sharp silver, it
-raises the Sp. Atk stat.",,,,,
-DeepSeaScale,Evolution Items,Items,"An item to be held by Clamperl.
-A scale that shines a faint pink, it
-raises the Sp. Def stat.",,,,,
-BlackGlasses,Hold Items,Items,"An item to be held by a Pokémon.
-It increases the power of Dark-type
-moves by 20%.
-
-It is popular among certain Move
-Tutors.",,,,,
-NeverMeltIce,Hold Items,Items,"An item to be held by a Pokémon.
-It increases the power of Ice-type
-moves by 20%.
-
-It is popular among certain Move
-Tutors.",,,,,
-TwistedSpoon,Hold Items,Items,"An item to be held by a Pokémon.
-It increases the power of Psychic-type
-moves by 20%.
-
-It is popular among certain Move
-Tutors.",,,,,
 Up-Grade,Evolution Items,Items,"A transparent device filled with all
 sorts of data.
 It was produced by Silph Co.",3000,3200,0,0,1500
@@ -4120,10 +4059,6 @@ Park Ball,Poke Balls,Poke Balls,A special Poké Ball for the Pal Park,,,,,
 Photo Album,Useable Items,Key Items,A nice photo album for storing all the photos taken along your adventure,,,,,
 GB Sounds,Useable Items,Key Items,A music player that allows you to listen to nostalgic songs. It's operated with a single switch,,,,,
 Tidal Bell,Storyline Items,Key Items,A very old-fashioned bell that makes a gentle ringing,,,,,
-RageCandyBar,Medicine,Medicine,"A famous Mahogany Town candy tourists
-like to buy and take home. It
-restores
-the HP of one Pokémon by 20 points.",,,,,
 Data Card 01,Storyline Items,Key Items,It holds Pokéathlon records. It's a card that shows how many victories you've had,,,,,
 Data Card 02,Storyline Items,Key Items,It holds Pokéathlon records. It's a card that shows how many losses you've had,,,,,
 Data Card 03,Storyline Items,Key Items,It holds Pokéathlon records. It's a card that shows how many times your Pokémon have dashed,,,,,
@@ -4315,11 +4250,6 @@ is asleep.",1200,0,0,0,600
 Poké Toy,Adventure Item,Items,An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon,1000,0,0,0,500
 Prop Case,Useable Items,Key Items,A lovely case to store colorful Props for your Pokémon to wear in a musical,,,,,
 Dragon Skull,Storyline Items,Key Items,A skull of a Pokémon which was said to have braved the angry waters to fly around the world,,,,,
-BalmMushroom,Miscellaneous Items,Items,"A rare mushroom which gives off a
-nice
-fragrance.
-A maniac will buy it for a high
-price.",,,,,
 Big Nugget,Miscellaneous Items,Items,"A big nugget of pure gold that gives
 off
 a lustrous gleam.
@@ -4508,14 +4438,32 @@ Guard Spec,Battle Items,Battle Items,"An item that prevents stat reduction
 among the Trainer's party Pokémon
 for five turns after use.",1500,0,0,0,750
 Tiny Mushroom,Miscellaneous Items,Items,,500,0,0,0,250
-Bright Powder,Hold Items,Items,,10,3200,0,0,5
-Silver Powder,Hold Items,Items,,3000,0,0,0,1500
-Deep Sea Tooth,Evolution Items,Items,,3000,0,0,0,1500
-Deep Sea Scale,Evolution Items,Items,,3000,0,0,0,1500
-Black Glasses,Hold Items,Items,,3000,0,0,0,1500
-Never Melt Ice,Hold Items,Items,,3000,0,0,0,1500
-Twisted Spoon,Hold Items,Items,,3000,0,0,0,1500
-Balm Mushroom,Miscellaneous Items,Items,,15000,0,0,0,7500
+Bright Powder,Hold Items,Items,"An item to be held by a Pokémon.
+It casts a tricky glare that lowers
+the opponent's accuracy.",10,3200,0,0,5
+Silver Powder,Hold Items,Items,"An item to be held by a Pokémon.
+It increases the power of Bug-type
+moves by 20%.
+
+It is popular among certain Move
+Tutors.",3000,0,0,0,1500
+Deep Sea Tooth,Evolution Items,Items,An item to be held by a POKéMON. A fang that gleams a sharp silver. It raises the SP. ATK stat,3000,0,0,0,1500
+Deep Sea Scale,Evolution Items,Items,"An item to be held by Clamperl.
+A scale that shines a faint pink, it
+raises the Sp. Def stat.",3000,0,0,0,1500
+Black Glasses,Hold Items,Items,"An item to be held by a Pokémon.
+It increases the power of Dark-type
+moves by 20%.
+
+It is popular among certain Move
+Tutors.",3000,0,0,0,1500
+Never Melt Ice,Hold Items,Items,An item to be held by a POKéMON. A piece of ice that repels heat and boosts ICE-type moves,3000,0,0,0,1500
+Twisted Spoon,Hold Items,Items,An item to be held by a POKéMON. A spoon imbued with telekinetic power boosts PSYCHIC-type moves,3000,0,0,0,1500
+Balm Mushroom,Miscellaneous Items,Items,"A rare mushroom which gives off a
+nice
+fragrance.
+A maniac will buy it for a high
+price.",15000,0,0,0,7500
 Amnesia Brace,Hold Items,Items,,0,0,0,200,0
 Mysterious Gem,Miscellaneous Items,Items,,9000,0,0,0,4500
 EXP Charm,Boost Items,Items,,0,0,0,0,0
@@ -4527,8 +4475,10 @@ Donator Status Ticket (7 days),Miscellaneous Items,Items,,0,0,0,0,0
 Donator Status Ticket (15 days),Miscellaneous Items,Items,,0,0,0,0,0
 Donator Status Ticket (30 days),Miscellaneous Items,Items,,0,0,0,0,0
 Paralyze Heal,Medicine,Medicine,,300,0,0,0,300
-HP up,Vitamins,Medicine,,3650,275,0,0,1825
-Rage Candy Bar,Medicine,Medicine,,300,0,0,0,150
+Rage Candy Bar,Medicine,Medicine,"A famous Mahogany Town candy tourists
+like to buy and take home. It
+restores
+the HP of one Pokémon by 20 points.",300,0,0,0,150
 Ability Capsule,Vitamins,Medicine,,30000,2250,0,0,15000
 Health Feather,Vitamins,Medicine,,1500,150,0,0,750
 Muscle Feather,Vitamins,Medicine,,1500,150,0,0,750
@@ -4540,7 +4490,10 @@ Swift Feather,Vitamins,Medicine,,1500,150,0,0,750
 500 Reward Point Voucher,Miscellaneous Items,Items,,0,0,0,500,0
 100 Reward Point Voucher,Miscellaneous Items,Items,,0,0,0,100,0
 Mail,Mail Items,Items,,200,0,0,0,0
-Moon Cake,Miscellaneous Items,Items,,0,0,0,0,0
+Moon Cake,Miscellaneous Items,Items,"A rejuvenating, tasty treat to
+celebrate the Moon Festival.
+
+Consumed upon use.",0,0,0,0,0
 Plain-Sour-Seed,Seeds,Berries,,0,0,0,0,0
 Plain-Sweet-Seed,Seeds,Berries,,0,0,0,0,0
 Plain-Bitter-Seed,Seeds,Berries,,0,0,0,0,0
@@ -4557,14 +4510,15 @@ Mistery Box,Miscellaneous Items,Items,,0,0,9999,0,0
 PVP Box(Old),Miscellaneous Items,Items,,0,0,0,0,0
 PVP Box(New),Miscellaneous Items,Items,,0,0,0,0,0
 Shiny Particle Effect,Miscellaneous Items,Items,,0,0,0,0,0
-Bats Particle Effect,Miscellaneous Items,Items,,0,0,0,250,0
-Desu's Labcoat,Tops,Cosmetics,,0,0,0,1500,0
-Desu's Labcoat(Colorable),Tops,Cosmetics,,0,0,0,1500,0
+Bats Particle Effect,Miscellaneous Items,Items,"Summons flying bats.
+
+Use to assign this particle to a
+Pokémon.
+Consumed upon use.",0,0,0,250,0
+Desu's Lab Coat (Colorable),Tops,Cosmetics,,0,0,0,1500,0
 Electric Storm,Hairs,Cosmetics,,0,0,0,1500,0
 Witch's Broom,Back Items,Cosmetics,,0,0,0,0,0
 Pumpking Backpack,Back Items,Cosmetics,,0,0,0,0,0
-Santa's Little Helpler Outfit,Tops,Cosmetics,,0,0,0,0,0
-Holly HairClip,Hats,Cosmetics,,0,0,0,0,0
 Frie Elfbot Outfit,Tops,Cosmetics,,0,0,0,0,0
 Nutcracke Hat,Hats,Cosmetics,,0,0,0,0,0
 Nutcracke Suit,Tops,Cosmetics,,0,0,0,0,0
@@ -4581,15 +4535,7 @@ Ponyta Helmet,Hats,Cosmetics,,0,0,0,0,0
 Red Dragon Hat,Hats,Cosmetics,,0,0,0,1000,0
 Fork,Gloves,Cosmetics,,0,0,0,1000,0
 Military Hat,Hats,Cosmetics,,0,0,0,0,0
-Green Motocycle Helmet,Hats,Cosmetics,,0,0,0,0,0
-Pharoah Headdress,Hats,Cosmetics,,0,0,0,0,0
 Detective Hat,Hats,Cosmetics,,0,0,0,500,0
-Black Cat Ears,Hats,Cosmetics,,0,0,0,500,0
-BackPack,Back Items,Cosmetics,,300,0,0,0,0
-HeadBand,Hats,Cosmetics,,15000,0,0,0,0
-Flat Clap,Hats,Cosmetics,,300,0,0,0,0
-Reflctive Goggles,Face Items,Cosmetics,,37500,0,0,0,0
-BackWards Cap,Hats,Cosmetics,,7000,0,0,0,0
 Retro GameBoy,Gloves,Cosmetics,,0,0,0,0,0
 Traditional New Year Costume,Tops,Cosmetics,,0,0,0,0,0
 Pigtails(F),Hairs,Cosmetics,,0,0,0,0,0
@@ -4639,8 +4585,6 @@ Calm Eyes,Eyes,Cosmetics,,0,0,0,0,0
 Random Golden Crown,Hats,Cosmetics,,0,0,0,0,0
 Random Sliver Crown,Hats,Cosmetics,,0,0,0,0,0
 Random Bronze Crown,Hats,Cosmetics,,0,0,0,0,0
-Coban,Hats,Cosmetics,,0,0,0,0,0
-Gaint Turtle Shell,Back Items,Cosmetics,,0,0,0,0,0
 Zodiac Tangzhuang,Tops,Cosmetics,,0,0,0,0,0
 Blue Dragon Horns,Hats,Cosmetics,,0,0,0,0,0
 Xmas Socks,Legs,Cosmetics,,0,0,0,0,0
