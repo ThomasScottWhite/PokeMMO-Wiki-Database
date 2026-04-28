@@ -24,7 +24,7 @@ def escape_lua_string(s):
 
 def build_pokemon_locations_lua(csv_path: Path):
     """
-    Reads the pokemon_locations.csv file and generates a nested Lua table.
+    Reads the CSV file and generates a nested Lua table.
     """
     if not csv_path.exists():
         print(f"Warning: '{csv_path.name}' not found at {csv_path}.")
@@ -42,11 +42,16 @@ def build_pokemon_locations_lua(csv_path: Path):
                 continue
                 
             # Extract and safely escape all details
+            # Convert the CSV "True"/"False" text into Python boolean objects
             entry = {
                 'type': escape_lua_string(str(row.get('type') or '').strip()),
                 'region_id': escape_lua_string(str(row.get('region_id') or '').strip()),
                 'region_name': escape_lua_string(str(row.get('region_name') or '').strip()),
-                'location': escape_lua_string(str(row.get('location') or '').strip()),
+                'base_location': escape_lua_string(str(row.get('base_location') or '').strip()),
+                'morning': row.get('morning', 'False').strip().lower() == 'true',
+                'day': row.get('day', 'False').strip().lower() == 'true',
+                'night': row.get('night', 'False').strip().lower() == 'true',
+                'season': escape_lua_string(str(row.get('season') or '').strip()),
                 'min_level': escape_lua_string(str(row.get('min_level') or '').strip()),
                 'max_level': escape_lua_string(str(row.get('max_level') or '').strip()),
                 'rarity': escape_lua_string(str(row.get('rarity') or '').strip())
@@ -62,12 +67,17 @@ def build_pokemon_locations_lua(csv_path: Path):
     for poke_id in sorted_ids:
         entries = grouped_data[poke_id]
         
-        # Sort locations by Region chronological order, then alphabetically by location name
-        entries.sort(key=lambda x: (get_region_weight(x), x['location']))
+        # Sort locations by Region chronological order, then alphabetically by base_location name
+        entries.sort(key=lambda x: (get_region_weight(x), x['base_location']))
         
         lua_str += f'    ["{escape_lua_string(poke_id)}"] = {{\n'
         for e in entries:
-            lua_str += f'        {{ type = "{e["type"]}", region_id = "{e["region_id"]}", region_name = "{e["region_name"]}", location = "{e["location"]}", min_level = "{e["min_level"]}", max_level = "{e["max_level"]}", rarity = "{e["rarity"]}" }},\n'
+            # Convert Python booleans back to lowercase strings for proper Lua boolean syntax (true/false)
+            m_lua = str(e["morning"]).lower()
+            d_lua = str(e["day"]).lower()
+            n_lua = str(e["night"]).lower()
+            
+            lua_str += f'        {{ type = "{e["type"]}", region_id = "{e["region_id"]}", region_name = "{e["region_name"]}", base_location = "{e["base_location"]}", morning = {m_lua}, day = {d_lua}, night = {n_lua}, season = "{e["season"]}", min_level = "{e["min_level"]}", max_level = "{e["max_level"]}", rarity = "{e["rarity"]}" }},\n'
         lua_str += '    },\n'
             
     lua_str += "}\n\n"
